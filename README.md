@@ -6,6 +6,7 @@
 <!-- 感谢Deno中国之父jjc大佬，99%的代码来自于jjc大佬的仓库 -->
 
 # 使用
+
 可通过访问jsdelivr提供的 CDN 文件路径获取到本项目的存档文件， 如想获取2021-04-13当天的微博热搜，只需访问https://cdn.jsdelivr.net/gh/drrgtg/weibo_hot@1.0/raw/weibo-search/2021-04-13.json 即可；
 
 ## 今日头条热搜
@@ -42,6 +43,10 @@
 <!-- END WEIBO -->
 
 历史归档 [./archives/weibo-search](./archives/weibo-search)
+
+<!-- END -->
+
+历史归档 [./archives](./archives)
 
 ### License
 

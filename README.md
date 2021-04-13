@@ -1,25 +1,14 @@
-# trending-in-one
 
-[![Build Status](https://github.com/hu-qi/trending-in-one/workflows/ci/badge.svg?branch=master)](https://github.com/hu-qi/trending-in-one/actions)
-[![license](https://img.shields.io/github/license/hu-qi/trending-in-one)](https://github.com/hu-qi/trending-in-one/blob/master/LICENSE)
 
-今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29 日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
+今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2021-04-13 日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
 
 <!-- 感谢Deno中国之父jjc大佬，99%的代码来自于jjc大佬的仓库 -->
-
-## 相关项目
-
-- [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
-- [知乎热搜榜](https://github.com/justjavac/zhihu-trending-top-search)
-- [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
-- [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
 
 ## 使用
 
 可通过访问**jsdelivr**提供的 CDN 文件路径获取到本项目的存档文件，
-如想获取**2020-11-29**当天的知乎热搜，只需访问[**https://cdn.jsdelivr.net/gh/hu-qi/trending-in-one/raw/zhihu-search/2020-11-29.json**](https://cdn.jsdelivr.net/gh/hu-qi/trending-in-one/raw/zhihu-search/2020-11-29.json) 即可；
+如想获取**2021-04-13**当天的知乎热搜，只需访问[**https://cdn.jsdelivr.net/gh/drrgtg/weibo_hot/raw/zhihu-search/2021-04-13.json**](https://cdn.jsdelivr.net/gh/drrgtg/weibo_hot/raw/zhihu-search/2021-04-13.json) 即可；
 
-如需想访问**2020-11-29**当天的知乎热搜，只需访问[**https://cdn.jsdelivr.net/gh/hu-qi/trending-in-one/archives/zhihu-search/2020-11-29.md**](https://cdn.jsdelivr.net/gh/hu-qi/trending-in-one/archives/zhihu-search/2020-11-29.md) 即可；
 
 ## 今日头条热搜
 
@@ -184,7 +173,6 @@
 1. [44岁陈数婚姻或亮红灯](https://so.toutiao.com/search?keyword=44岁陈数婚姻或亮红灯)
 <!-- END TOUTIAO -->
 
-历史归档 [./archives/toutiao-search](./archives/toutiao-search)
 
 ## 知乎热搜榜
 
@@ -208,7 +196,6 @@
 1. [高速路口 3 分钟违章 27 人](https://www.zhihu.com/search?q=佛山高速)
 <!-- END ZHIHUSEARCH -->
 
-历史归档 [./archives/zhihu-search](./archives/zhihu-search)
 
 ## 知乎热门话题
 
@@ -350,7 +337,6 @@
 1. [雅思一对一1200一小时和300一小时的课程有什么区别？](https://www.zhihu.com/question/59785170)
 <!-- END ZHIHUQUESTIONS -->
 
-历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
 
 ## 知乎热门视频
 
@@ -373,7 +359,6 @@
 1. [叶刘淑仪质问 BBC 主持人：你去过新疆吗，你亲眼看到压迫了吗？](https://www.zhihu.com/zvideo/1360887673188614145)
 <!-- END ZHIHUVIDEO -->
 
-历史归档 [./archives/zhihu-video](./archives/zhihu-video)
 
 ## 微博热搜
 
@@ -564,9 +549,3 @@
 1. [莫言用方言读晚熟的人](https://s.weibo.com//weibo?q=%E8%8E%AB%E8%A8%80%E7%94%A8%E6%96%B9%E8%A8%80%E8%AF%BB%E6%99%9A%E7%86%9F%E7%9A%84%E4%BA%BA&Refer=top)
 1. [中国移动回应收43个月漫游费](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E5%9B%9E%E5%BA%94%E6%94%B643%E4%B8%AA%E6%9C%88%E6%BC%AB%E6%B8%B8%E8%B4%B9%23&Refer=top)
 <!-- END WEIBO -->
-
-历史归档 [./archives/weibo-search](./archives/weibo-search)
-
-## License
-
-[trending-in-one/](https://github.com/hu-qi/trending-in-one) 的源码使用 MIT License 发布。具体内容请查看 [LICENSE](./LICENSE) 文件。

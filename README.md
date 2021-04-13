@@ -14,39 +14,32 @@
 <!-- BEGIN TOUTIAO -->
 <!-- END TOUTIAO -->
 
-历史归档 [./archives/toutiao-search](./archives/toutiao-search)
 
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
 <!-- END ZHIHUSEARCH -->
 
-历史归档 [./archives/zhihu-search](./archives/zhihu-search)
 
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
 <!-- END ZHIHUQUESTIONS -->
 
-历史归档 [./archives/zhihu-questions](/archives/zhihu-questions)
 
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
 <!-- END ZHIHUVIDEO -->
 
-历史归档 [./archives/zhihu-video](./archives/zhihu-video)
 
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
 <!-- END WEIBO -->
 
-历史归档 [./archives/weibo-search](./archives/weibo-search)
 
 <!-- END -->
-
-历史归档 [./archives](./archives)
 
 ### License
 

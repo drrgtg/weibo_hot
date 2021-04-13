@@ -26,5 +26,5 @@ jobs:
           git pull --rebase
           deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
           git add .
-          git commit -m "update by github action"
+          git commit -m "GITHUB 自动执行"
           git push

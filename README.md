@@ -4,6 +4,8 @@
 [![license](https://img.shields.io/github/license/justjavac/weibo-trending-hot-search)](https://github.com/justjavac/weibo-trending-hot-search/blob/master/LICENSE)
 
 微博热搜榜，记录从 2021-04-13 日开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。
+# 使用
+可通过访问jsdelivr提供的 CDN 文件路径获取到本项目的存档文件， 如想获取2021-04-13当天的微博热搜，只需访问https://cdn.jsdelivr.net/gh/drrgtg/weibo_hot@1.0/raw/2021-04-13.json 即可；
 
 ## 今日热门搜索
 

@@ -28,7 +28,7 @@
 <!-- BEGIN ZHIHUQUESTIONS -->
 <!-- END ZHIHUQUESTIONS -->
 
-历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
+历史归档 [./archives/zhihu-questions](/archives/zhihu-questions)
 
 ## 知乎热门视频
 

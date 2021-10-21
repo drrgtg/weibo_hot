@@ -13,7 +13,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Oct 22 2021 04:00:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 05:00:52 GMT+0800 (China Standard Time) -->
 1. [钢琴家李云迪嫖娼被行拘](https://so.toutiao.com/search?keyword=钢琴家李云迪嫖娼被行拘)
 1. [韩国运载火箭“世界”号发射失败](https://so.toutiao.com/search?keyword=韩国运载火箭“世界”号发射失败)
 1. [张桂梅被写进中华人民共和国简史](https://so.toutiao.com/search?keyword=张桂梅被写进中华人民共和国简史)
@@ -21,48 +21,51 @@
 1. [台积电一再生水厂发生火灾](https://so.toutiao.com/search?keyword=台积电一再生水厂发生火灾)
 1. [人民网评李云迪：琴键容不得黄色](https://so.toutiao.com/search?keyword=人民网评李云迪：琴键容不得黄色)
 1. [美驻华大使被提名人鼓噪助台](https://so.toutiao.com/search?keyword=美驻华大使被提名人鼓噪助台)
-1. [日本一医院饮用水管被接入厕所用水](https://so.toutiao.com/search?keyword=日本一医院饮用水管被接入厕所用水)
+1. [贺希宁遭驱逐 深圳送江苏三连败](https://so.toutiao.com/search?keyword=贺希宁遭驱逐+深圳送江苏三连败)
 1. [香港迎来首位女性海关关长](https://so.toutiao.com/search?keyword=香港迎来首位女性海关关长)
-1. [美军多架B-1B部署到印度洋战略基地](https://so.toutiao.com/search?keyword=美军多架B-1B部署到印度洋战略基地)
+1. [日本一医院饮用水管被接入厕所用水](https://so.toutiao.com/search?keyword=日本一医院饮用水管被接入厕所用水)
 1. [李云迪会承担什么样的法律后果](https://so.toutiao.com/search?keyword=李云迪会承担什么样的法律后果)
 1. [朝阳群众是什么神奇的存在](https://so.toutiao.com/search?keyword=朝阳群众是什么神奇的存在)
 1. [督察组暗访 遭摄像头拍照并群发](https://so.toutiao.com/search?keyword=督察组暗访+遭摄像头拍照并群发)
 1. [全国再现高风险地区 在内蒙古](https://so.toutiao.com/search?keyword=全国再现高风险地区+在内蒙古)
-1. [韩国大米库存达历史最低水平](https://so.toutiao.com/search?keyword=韩国大米库存达历史最低水平)
-1. [侠客岛：人生得认准黑白](https://so.toutiao.com/search?keyword=侠客岛：人生得认准黑白)
-1. [农夫山泉瓶装水出现虫卵？官方回应](https://so.toutiao.com/search?keyword=农夫山泉瓶装水出现虫卵？官方回应)
-1. [俄罗斯有五种疫苗 民众却不愿接种](https://so.toutiao.com/search?keyword=俄罗斯有五种疫苗+民众却不愿接种)
-1. [贺希宁遭驱逐 深圳送江苏三连败](https://so.toutiao.com/search?keyword=贺希宁遭驱逐+深圳送江苏三连败)
+1. [美军多架B-1B部署到印度洋战略基地](https://so.toutiao.com/search?keyword=美军多架B-1B部署到印度洋战略基地)
 1. [李云迪取得过哪些音乐成就](https://so.toutiao.com/search?keyword=李云迪取得过哪些音乐成就)
 1. [内蒙古额济纳旗新增8例本土确诊](https://so.toutiao.com/search?keyword=内蒙古额济纳旗新增8例本土确诊)
+1. [俄罗斯有五种疫苗 民众却不愿接种](https://so.toutiao.com/search?keyword=俄罗斯有五种疫苗+民众却不愿接种)
+1. [韩国大米库存达历史最低水平](https://so.toutiao.com/search?keyword=韩国大米库存达历史最低水平)
+1. [侠客岛：人生得认准黑白](https://so.toutiao.com/search?keyword=侠客岛：人生得认准黑白)
+1. [发改委研究安排能源保供稳价工作](https://so.toutiao.com/search?keyword=发改委研究安排能源保供稳价工作)
 1. [辽宁大胜吉林迎三连胜 赵继伟17+16](https://so.toutiao.com/search?keyword=辽宁大胜吉林迎三连胜+赵继伟17+16)
 1. [采访普京引争议的美女记者啥来头](https://so.toutiao.com/search?keyword=采访普京引争议的美女记者啥来头)
 1. [胡锡进评李云迪：怎么就这么糊涂](https://so.toutiao.com/search?keyword=胡锡进评李云迪：怎么就这么糊涂)
-1. [发改委研究安排能源保供稳价工作](https://so.toutiao.com/search?keyword=发改委研究安排能源保供稳价工作)
 1. [北京丰台增1例确诊 为德尔塔变异株](https://so.toutiao.com/search?keyword=北京丰台增1例确诊+为德尔塔变异株)
-1. [9月沪市日均交易量环比增11.7%](https://so.toutiao.com/search?keyword=9月沪市日均交易量环比增11.7%)
-1. [沈阳爆炸伤者讲述生死瞬间](https://so.toutiao.com/search?keyword=沈阳爆炸伤者讲述生死瞬间)
-1. [《披荆斩棘的哥哥》五公看点](https://so.toutiao.com/search?keyword=《披荆斩棘的哥哥》五公看点)
+1. [农夫山泉瓶装水出现虫卵？官方回应](https://so.toutiao.com/search?keyword=农夫山泉瓶装水出现虫卵？官方回应)
+1. [男子刚结完婚躺婚床上得意大笑](https://so.toutiao.com/search?keyword=男子刚结完婚躺婚床上得意大笑)
+1. [沈阳爆炸地点曾发生两起爆炸](https://so.toutiao.com/search?keyword=沈阳爆炸地点曾发生两起爆炸)
+1. [王正谱任河北省代省长](https://so.toutiao.com/search?keyword=王正谱任河北省代省长)
 1. [文旅部原副部长李金早贪6550万受审](https://so.toutiao.com/search?keyword=文旅部原副部长李金早贪6550万受审)
 1. [90后女孩用3D插画还原山海经神兽](https://so.toutiao.com/search?keyword=90后女孩用3D插画还原山海经神兽)
-1. [沈阳爆炸地点曾发生两起爆炸](https://so.toutiao.com/search?keyword=沈阳爆炸地点曾发生两起爆炸)
-1. [诺奖得主：不担心世界通货膨胀](https://so.toutiao.com/search?keyword=诺奖得主：不担心世界通货膨胀)
-1. [王正谱任河北省代省长](https://so.toutiao.com/search?keyword=王正谱任河北省代省长)
-1. [广东大胜浙江 吴前10中1仅得5分](https://so.toutiao.com/search?keyword=广东大胜浙江+吴前10中1仅得5分)
-1. [李云迪的教育背景](https://so.toutiao.com/search?keyword=李云迪的教育背景)
+1. [沈阳爆炸伤者讲述生死瞬间](https://so.toutiao.com/search?keyword=沈阳爆炸伤者讲述生死瞬间)
+1. [《披荆斩棘的哥哥》五公看点](https://so.toutiao.com/search?keyword=《披荆斩棘的哥哥》五公看点)
+1. [9月沪市日均交易量环比增11.7%](https://so.toutiao.com/search?keyword=9月沪市日均交易量环比增11.7%)
 1. [农村大姐养3个娃 手抄脚本直播90场](https://so.toutiao.com/search?keyword=农村大姐养3个娃+手抄脚本直播90场)
-1. [菲律宾大选开幕 杜特尔特命运未卜](https://so.toutiao.com/search?keyword=菲律宾大选开幕+杜特尔特命运未卜)
+1. [李云迪的教育背景](https://so.toutiao.com/search?keyword=李云迪的教育背景)
 1. [西安女子到浙江乌镇旅游被赶出酒店](https://so.toutiao.com/search?keyword=西安女子到浙江乌镇旅游被赶出酒店)
-1. [李云迪工作室持股人为其父母](https://so.toutiao.com/search?keyword=李云迪工作室持股人为其父母)
-1. [叶建春任江西省代省长](https://so.toutiao.com/search?keyword=叶建春任江西省代省长)
-1. [美警连开12枪击毙17岁男孩](https://so.toutiao.com/search?keyword=美警连开12枪击毙17岁男孩)
-1. [男子刚结完婚躺婚床上得意大笑](https://so.toutiao.com/search?keyword=男子刚结完婚躺婚床上得意大笑)
 1. [如何评价《功勋》之袁隆平的梦单元](https://so.toutiao.com/search?keyword=如何评价《功勋》之袁隆平的梦单元)
-1. [为生活费辱骂父亲不应仅是教育问题](https://so.toutiao.com/search?keyword=为生活费辱骂父亲不应仅是教育问题)
-1. [央行公布9月份金融市场运行情况](https://so.toutiao.com/search?keyword=央行公布9月份金融市场运行情况)
+1. [广东大胜浙江 吴前10中1仅得5分](https://so.toutiao.com/search?keyword=广东大胜浙江+吴前10中1仅得5分)
+1. [李云迪工作室持股人为其父母](https://so.toutiao.com/search?keyword=李云迪工作室持股人为其父母)
 1. [英美发现德尔塔毒株新变体](https://so.toutiao.com/search?keyword=英美发现德尔塔毒株新变体)
-1. [拉脱维亚疫情](https://so.toutiao.com/search?keyword=拉脱维亚疫情)
+1. [诺奖得主：不担心世界通货膨胀](https://so.toutiao.com/search?keyword=诺奖得主：不担心世界通货膨胀)
+1. [叶建春任江西省代省长](https://so.toutiao.com/search?keyword=叶建春任江西省代省长)
+1. [菲律宾大选开幕 杜特尔特命运未卜](https://so.toutiao.com/search?keyword=菲律宾大选开幕+杜特尔特命运未卜)
+1. [全国高中风险区1+6](https://so.toutiao.com/search?keyword=全国高中风险区1+6)
+1. [为生活费辱骂父亲不应仅是教育问题](https://so.toutiao.com/search?keyword=为生活费辱骂父亲不应仅是教育问题)
+1. [《突围》群像全员老戏骨](https://so.toutiao.com/search?keyword=《突围》群像全员老戏骨)
+1. [美警连开12枪击毙17岁男孩](https://so.toutiao.com/search?keyword=美警连开12枪击毙17岁男孩)
 1. [河南手艺人有文化NB症](https://so.toutiao.com/search?keyword=河南手艺人有文化NB症)
+1. [长征胜利85周年](https://so.toutiao.com/search?keyword=长征胜利85周年)
+1. [央行公布9月份金融市场运行情况](https://so.toutiao.com/search?keyword=央行公布9月份金融市场运行情况)
+1. [拉脱维亚疫情](https://so.toutiao.com/search?keyword=拉脱维亚疫情)
 1. [经济日报：抢占数字经济发展制高点](https://so.toutiao.com/search?keyword=经济日报：抢占数字经济发展制高点)
 1. [《误杀2》官宣阵容](https://so.toutiao.com/search?keyword=《误杀2》官宣阵容)
 1. [华为申请注册鲁班商标被驳回](https://so.toutiao.com/search?keyword=华为申请注册鲁班商标被驳回)
@@ -82,7 +85,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Oct 22 2021 04:00:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 05:00:52 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -90,7 +93,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Oct 22 2021 04:00:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 05:00:52 GMT+0800 (China Standard Time) -->
 1. [《功勋》大结局](https://www.zhihu.com/search?q=功勋)
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=李云迪)
 1. [国内疫情最新情况](https://www.zhihu.com/search?q=国内疫情新增)
@@ -112,7 +115,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Oct 22 2021 04:00:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 05:00:52 GMT+0800 (China Standard Time) -->
 1. [如何看待警方通报李某迪因嫖娼被朝阳公安分局依法行政拘留？他将承担哪些法律责任？这对娱乐圈有何警示意义？](https://www.zhihu.com/question/493768721)
 1. [李云迪嫖娼被抓后，后续的艺术生涯会怎样？还能活跃在古典音乐圈吗？](https://www.zhihu.com/question/493772413)
 1. [据第三方数据统计，百度贴吧 5 年内流失近九成用户，贴吧为什么用户流失如此快？](https://www.zhihu.com/question/442321794)
@@ -123,23 +126,21 @@
 1. [10 月 19 日，在岸、离岸人民币对美元双双突破 6.4 关口，创下 4 个月以来新高，发生了什么？](https://www.zhihu.com/question/493426553)
 1. [如果「两个黄鹂鸣翠柳，一行白鹭上青天」是我十分钟之前写出来的，会有人觉得它能成为千古名句么？](https://www.zhihu.com/question/363227073)
 1. [中国大部分法学生最后只能沦落为《爱情公寓》里张伟那种律师吗？](https://www.zhihu.com/question/490274686)
-1. [优酷新综艺《鱿鱼的胜利》被指疑似抄袭《鱿鱼游戏》，道歉称系误使用毙掉的初稿，什么样的综艺观众才会买单？](https://www.zhihu.com/question/493567048)
 1. [网易 CEO 丁磊称要让用户实现「只装一个软件听歌」的目标，难度有多大？为什么用户会选择多个软件听歌？](https://www.zhihu.com/question/493462590)
 1. [如何评价索尼在2021年10月21日发布的全画幅微单A7M4？](https://www.zhihu.com/question/493779605)
-1. [甲骨文已经证实伊尹确实存在，为什么不能佐证夏朝的存在呢？](https://www.zhihu.com/question/487085237)
+1. [优酷新综艺《鱿鱼的胜利》被指疑似抄袭《鱿鱼游戏》，道歉称系误使用毙掉的初稿，什么样的综艺观众才会买单？](https://www.zhihu.com/question/493567048)
 1. [如何看待罗翔的「爱具体的人，而非爱抽象的人」?](https://www.zhihu.com/question/486879608)
+1. [甲骨文已经证实伊尹确实存在，为什么不能佐证夏朝的存在呢？](https://www.zhihu.com/question/487085237)
 1. [为什么现在的年轻人开始羡慕父母那一代的生活？](https://www.zhihu.com/question/493587304)
 1. [TI10 假赛疑云《DOTA2》解说施丹尼强势进场，如何看待他对 TI10 决赛不合理之处的解答？](https://www.zhihu.com/question/493601558)
 1. [像《葫芦兄弟》《哪吒传奇》等画质不高的国产经典动画，还有给孩子看的必要吗？](https://www.zhihu.com/question/493558751)
-1. [你觉得国漫的巅峰之作是哪个？](https://www.zhihu.com/question/492775949)
+1. [双十一是买小米 10S 还是红米 K40？](https://www.zhihu.com/question/491335102)
 1. [LGD 队员 Y 队发长文总结 TI10 决赛 BanPick 思路，如何评价他们当时做出的决策？](https://www.zhihu.com/question/493758570)
 1. [15 岁男生遭老师殴打后颅内血肿，涉事老师否认称「可能是他下跪磕头道歉磕伤」，老师将受到哪些处罚？](https://www.zhihu.com/question/493631741)
-1. [「韩国籍华人」为免服役，提问如何申请恢复中国籍，从法律角度如何解读这一事件？](https://www.zhihu.com/question/493439943)
-1. [双十一是买小米 10S 还是红米 K40？](https://www.zhihu.com/question/491335102)
-1. [世界首例猪肾移植人体手术测试初步成功， 3 天均未发生排异现象，这项技术有怎样的价值？](https://www.zhihu.com/question/493537408)
 1. [LGD 在 TI10 放猛犸，RNG 在 S7 放加里奥最后都输了，哪个更让你愤怒失望？](https://www.zhihu.com/question/493004702)
-1. [如何评价索尼 Alpha 7 IV (ILCE-7M4) 微单相机，有哪些亮点和槽点？](https://www.zhihu.com/question/493157504)
+1. [「韩国籍华人」为免服役，提问如何申请恢复中国籍，从法律角度如何解读这一事件？](https://www.zhihu.com/question/493439943)
 1. [如何评价综艺《披荆斩棘的哥哥》第十一期？](https://www.zhihu.com/question/493652574)
+1. [如何评价索尼 Alpha 7 IV (ILCE-7M4) 微单相机，有哪些亮点和槽点？](https://www.zhihu.com/question/493157504)
 1. [2022年校招互联网大厂薪资情况是怎样的?](https://www.zhihu.com/question/429956519)
 1. [医院的医生会不会故意让病人在 ICU 多待一些日子啊？](https://www.zhihu.com/question/493133417)
 1. [如何看待今年双十一提前预售时间，从去年 24 点变为今年 20 点，连双十一都开始养生了吗？](https://www.zhihu.com/question/493309234)
@@ -153,6 +154,8 @@
 1. [考研期间哪些事不能做？](https://www.zhihu.com/question/271809687)
 1. [有哪些特别好的句子？](https://www.zhihu.com/question/483839654)
 1. [如何欣赏雷鬼（Reggae）音乐？](https://www.zhihu.com/question/20962823)
+1. [你觉得国漫的巅峰之作是哪个？](https://www.zhihu.com/question/492775949)
+1. [世界首例猪肾移植人体手术测试初步成功， 3 天均未发生排异现象，这项技术有怎样的价值？](https://www.zhihu.com/question/493537408)
 1. [双十一预售李佳琦薇娅销售额近两百亿，头部销售额这么高会挤压平台中小商家流量吗？中小主播、商家怎么办？](https://www.zhihu.com/question/493658320)
 1. [周大福、周生生、周大生、周六福、六福、金六福、金大福这些牌子有哪些区别？](https://www.zhihu.com/question/32209352)
 1. [电影《沙丘》口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/484666562)
@@ -182,7 +185,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Oct 22 2021 04:00:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 05:00:52 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)

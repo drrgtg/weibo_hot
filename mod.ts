@@ -9,7 +9,6 @@ export async function init() {
   await zhihuSearch();
   await weiboSearch();
   await toutiaoSearch();
-  await zhihuVideo();
 }
 
 init();

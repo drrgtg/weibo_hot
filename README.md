@@ -13,7 +13,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Oct 17 2022 03:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 05:01:21 GMT+0800 (China Standard Time) -->
 1. [二十大报告金句](https://so.toutiao.com/search?keyword=二十大报告金句)
 1. [祖国完全统一一定要实现](https://so.toutiao.com/search?keyword=祖国完全统一一定要实现)
 1. [把发展经济着力点放在实体经济上](https://so.toutiao.com/search?keyword=把发展经济着力点放在实体经济上)
@@ -36,32 +36,35 @@
 1. [因爸爸不让玩 女儿抽泣控诉压力大](https://so.toutiao.com/search?keyword=因爸爸不让玩+女儿抽泣控诉压力大)
 1. [俄罗斯一军营发生恐袭致11死15伤](https://so.toutiao.com/search?keyword=俄罗斯一军营发生恐袭致11死15伤)
 1. [现在起中国共产党的中心任务](https://so.toutiao.com/search?keyword=现在起中国共产党的中心任务)
-1. [顿涅茨克市行政大楼被火箭弹击中](https://so.toutiao.com/search?keyword=顿涅茨克市行政大楼被火箭弹击中)
 1. [伊朗批西方无耻：边制裁边要能源](https://so.toutiao.com/search?keyword=伊朗批西方无耻：边制裁边要能源)
-1. [世界技能大赛特别赛中国代表团获首金](https://so.toutiao.com/search?keyword=世界技能大赛特别赛中国代表团获首金)
 1. [工商银行：加大投融资投放力度](https://so.toutiao.com/search?keyword=工商银行：加大投融资投放力度)
-1. [加快把人民军队建成世界一流军队](https://so.toutiao.com/search?keyword=加快把人民军队建成世界一流军队)
+1. [世界技能大赛特别赛中国代表团获首金](https://so.toutiao.com/search?keyword=世界技能大赛特别赛中国代表团获首金)
+1. [顿涅茨克市行政大楼被火箭弹击中](https://so.toutiao.com/search?keyword=顿涅茨克市行政大楼被火箭弹击中)
 1. [山东一村8090后全部回村就业](https://so.toutiao.com/search?keyword=山东一村8090后全部回村就业)
-1. [运动员谢震业陆敏佳大婚](https://so.toutiao.com/search?keyword=运动员谢震业陆敏佳大婚)
+1. [伊朗称美支持的恐怖分子威胁其安全](https://so.toutiao.com/search?keyword=伊朗称美支持的恐怖分子威胁其安全)
 1. [中国银行三季末客户贷款17.41万亿](https://so.toutiao.com/search?keyword=中国银行三季末客户贷款17.41万亿)
 1. [拜登：特拉斯最初的经济计划是个错误](https://so.toutiao.com/search?keyword=拜登：特拉斯最初的经济计划是个错误)
-1. [央视记者介绍QBU-191精准步枪](https://so.toutiao.com/search?keyword=央视记者介绍QBU-191精准步枪)
 1. [坚持多劳多得 鼓励勤劳致富](https://so.toutiao.com/search?keyword=坚持多劳多得+鼓励勤劳致富)
-1. [王亚平亮相二十大“党代表通道”](https://so.toutiao.com/search?keyword=王亚平亮相二十大“党代表通道”)
-1. [云南村民挖到5斤重“鸡枞王”](https://so.toutiao.com/search?keyword=云南村民挖到5斤重“鸡枞王”)
-1. [德企集体抵制对华“脱钩”](https://so.toutiao.com/search?keyword=德企集体抵制对华“脱钩”)
-1. [奥巴马警告民主党：别老盯着特朗普](https://so.toutiao.com/search?keyword=奥巴马警告民主党：别老盯着特朗普)
-1. [中国产“取暖神器”火爆欧洲](https://so.toutiao.com/search?keyword=中国产“取暖神器”火爆欧洲)
-1. [爷爷去世5岁孙子偷偷跪拜](https://so.toutiao.com/search?keyword=爷爷去世5岁孙子偷偷跪拜)
-1. [高校老师高颜值引全班学生欢呼](https://so.toutiao.com/search?keyword=高校老师高颜值引全班学生欢呼)
-1. [义乌等4个县级市跨入大城市行列](https://so.toutiao.com/search?keyword=义乌等4个县级市跨入大城市行列)
-1. [全面加强练兵备战](https://so.toutiao.com/search?keyword=全面加强练兵备战)
-1. [2022年女排世锦赛最佳阵容出炉](https://so.toutiao.com/search?keyword=2022年女排世锦赛最佳阵容出炉)
-1. [中美洲沿岸远海发生6.5级左右地震](https://so.toutiao.com/search?keyword=中美洲沿岸远海发生6.5级左右地震)
 1. [英新任财政大臣承认英经济政策有错](https://so.toutiao.com/search?keyword=英新任财政大臣承认英经济政策有错)
-1. [小伙在车玻璃灰尘上作画惊艳网友](https://so.toutiao.com/search?keyword=小伙在车玻璃灰尘上作画惊艳网友)
-1. [2022年国家乡村振兴示范县公布](https://so.toutiao.com/search?keyword=2022年国家乡村振兴示范县公布)
+1. [云南村民挖到5斤重“鸡枞王”](https://so.toutiao.com/search?keyword=云南村民挖到5斤重“鸡枞王”)
+1. [王亚平亮相二十大“党代表通道”](https://so.toutiao.com/search?keyword=王亚平亮相二十大“党代表通道”)
+1. [加快把人民军队建成世界一流军队](https://so.toutiao.com/search?keyword=加快把人民军队建成世界一流军队)
+1. [奥巴马警告民主党：别老盯着特朗普](https://so.toutiao.com/search?keyword=奥巴马警告民主党：别老盯着特朗普)
+1. [运动员谢震业陆敏佳大婚](https://so.toutiao.com/search?keyword=运动员谢震业陆敏佳大婚)
+1. [中国产“取暖神器”火爆欧洲](https://so.toutiao.com/search?keyword=中国产“取暖神器”火爆欧洲)
+1. [2022年女排世锦赛最佳阵容出炉](https://so.toutiao.com/search?keyword=2022年女排世锦赛最佳阵容出炉)
+1. [德企集体抵制对华“脱钩”](https://so.toutiao.com/search?keyword=德企集体抵制对华“脱钩”)
+1. [爷爷去世5岁孙子偷偷跪拜](https://so.toutiao.com/search?keyword=爷爷去世5岁孙子偷偷跪拜)
+1. [义乌等4个县级市跨入大城市行列](https://so.toutiao.com/search?keyword=义乌等4个县级市跨入大城市行列)
 1. [特拉斯政府推翻“迷你预算”政策](https://so.toutiao.com/search?keyword=特拉斯政府推翻“迷你预算”政策)
+1. [全面加强练兵备战](https://so.toutiao.com/search?keyword=全面加强练兵备战)
+1. [高校老师高颜值引全班学生欢呼](https://so.toutiao.com/search?keyword=高校老师高颜值引全班学生欢呼)
+1. [央视记者介绍QBU-191精准步枪](https://so.toutiao.com/search?keyword=央视记者介绍QBU-191精准步枪)
+1. [国乒全主力阵容将出战WTT两站比赛](https://so.toutiao.com/search?keyword=国乒全主力阵容将出战WTT两站比赛)
+1. [南京江北新区16至18日开展三轮核检](https://so.toutiao.com/search?keyword=南京江北新区16至18日开展三轮核检)
+1. [2022年国家乡村振兴示范县公布](https://so.toutiao.com/search?keyword=2022年国家乡村振兴示范县公布)
+1. [小伙在车玻璃灰尘上作画惊艳网友](https://so.toutiao.com/search?keyword=小伙在车玻璃灰尘上作画惊艳网友)
+1. [中美洲沿岸远海发生6.5级左右地震](https://so.toutiao.com/search?keyword=中美洲沿岸远海发生6.5级左右地震)
 1. [小猫串门遇大爷灵魂拷问](https://so.toutiao.com/search?keyword=小猫串门遇大爷灵魂拷问)
 1. [普京授权央行允许外汇出境](https://so.toutiao.com/search?keyword=普京授权央行允许外汇出境)
 1. [北爱尔兰公开赛赵心童低迷无缘正赛](https://so.toutiao.com/search?keyword=北爱尔兰公开赛赵心童低迷无缘正赛)
@@ -74,7 +77,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Oct 17 2022 03:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 05:01:21 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -82,7 +85,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Oct 17 2022 03:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 05:01:21 GMT+0800 (China Standard Time) -->
 1. [中国过冬八件套被欧洲买爆](https://www.zhihu.com/search?q=中国过冬八件套被欧洲买爆)
 1. [首批听太空授课的孩子已成王亚平队友](https://www.zhihu.com/search?q=首批听太空授课的孩子已成王亚平队友)
 1. [TES 止步十六强](https://www.zhihu.com/search?q=TES 止步十六强)
@@ -97,7 +100,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Oct 17 2022 03:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 05:01:21 GMT+0800 (China Standard Time) -->
 1. [振奋人心！党的二十大报告速览](https://www.zhihu.com/question/574102758)
 1. [新时代新征程中国共产党的使命任务](https://www.zhihu.com/question/574065829)
 1. [习近平：十年来具有重大意义的三件大事](https://www.zhihu.com/question/574066245)
@@ -111,29 +114,30 @@
 1. [如何防止自己约到AI生成的画稿？](https://www.zhihu.com/question/558475704)
 1. [中国天地联合观测到迄今最亮伽马射线暴，超以往最亮 10 倍以上，这一发现具有哪些意义？](https://www.zhihu.com/question/559912213)
 1. [国际空间站宇航员在太空引用「兰亭集序」名句赞叹宇宙之美，有哪些中国古文曾惊艳了你的生活？](https://www.zhihu.com/question/559119932)
-1. [运-20 生产车间罕见曝光，机翼是毫米弹丸「打」出来的，还有哪些技术值得关注？](https://www.zhihu.com/question/559618162)
+1. [宝马或将其电动 MINI 的生产从英国转移到中国，原因是什么？将产生哪些影响？](https://www.zhihu.com/question/559924584)
 1. [2025 年底邮政快递网点禁用不可降解的塑料包装袋、塑料胶带、一次性塑料编织袋等，此举具有哪些意义？](https://www.zhihu.com/question/559410427)
 1. [国产取暖神器走红欧洲，中国光腿神器在欧洲销售额增长 131%，对相关产业链将带来哪些影响？](https://www.zhihu.com/question/559774973)
-1. [自信跟钱有关系吗？](https://www.zhihu.com/question/559171250)
+1. [运-20 生产车间罕见曝光，机翼是毫米弹丸「打」出来的，还有哪些技术值得关注？](https://www.zhihu.com/question/559618162)
 1. [如果亲戚孩子做客时非要带走儿子的玩具，我应该强迫他同意吗，该怎么处理呢？](https://www.zhihu.com/question/362768465)
-1. [如果在职的你被心仪的公司录取了，但年薪却降了10W，你会怎么选择？](https://www.zhihu.com/question/417714573)
 1. [22-23 赛季西甲国家德比皇家马德里 3:1 击败巴塞罗那，如何评价这场比赛？](https://www.zhihu.com/question/559943118)
-1. [TES 确认 S12 小组赛出线无望，止步十六强，对此你有什么想说的？](https://www.zhihu.com/question/559773934)
+1. [自信跟钱有关系吗？](https://www.zhihu.com/question/559171250)
 1. [S12 小组赛出线日 EDG 再次不敌 T1 将以小组第二身份出线，如何评价这场比赛？](https://www.zhihu.com/question/559278056)
 1. [S12 参赛队伍 RNG 除 Gala 与朱开外全员核酸阳性，这将对他们接下来的比赛造成哪些影响？](https://www.zhihu.com/question/559276442)
-1. [如何评价综艺《披荆斩棘》第九期（四公）？](https://www.zhihu.com/question/559088694)
+1. [如果在职的你被心仪的公司录取了，但年薪却降了10W，你会怎么选择？](https://www.zhihu.com/question/417714573)
+1. [自动驾驶就算落地，最多取代司机而已，又能有多大实用价值呢，为啥花那么多钱发展呢？](https://www.zhihu.com/question/493681134)
 1. [大学闲暇时间，可以阅读哪些文学作品？](https://www.zhihu.com/question/557818684)
 1. [生而为人，我们该如何接受自己的平庸?](https://www.zhihu.com/question/559753557)
 1. [如何评价 TES 各位队员在 S12 全球总决赛上的表现？](https://www.zhihu.com/question/559773153)
+1. [如何评价综艺《披荆斩棘》第九期（四公）？](https://www.zhihu.com/question/559088694)
 1. [雷达和摄像头遍布全车，为什么自动驾驶依然是期货？](https://www.zhihu.com/question/550596339)
 1. [为什么三体人用两个智子就锁死人类的基础科学？](https://www.zhihu.com/question/548907648)
-1. [令狐冲为什么没有把山洞的秘密告诉岳不群？](https://www.zhihu.com/question/48125731)
-1. [Jackeylove 接受采访称「还是想说今年我们是最正确的五个人」，是否意味着赛后阵容解散将成定局？](https://www.zhihu.com/question/559791388)
 1. [马斯克改口称尽管「星链」亏损，仍会免费为乌政府提供服务，还称俄试图将它摧毁，透露了哪些信息？](https://www.zhihu.com/question/559883551)
+1. [令狐冲为什么没有把山洞的秘密告诉岳不群？](https://www.zhihu.com/question/48125731)
 1. [家长抱着「孩子不喜欢就不逼他」的想法，是否可能会害了孩子？](https://www.zhihu.com/question/506978260)
 1. [英国新任财政大臣承认此前英经济政策存在错误，哪些信息值得关注？](https://www.zhihu.com/question/559883572)
-1. [俄罗斯在大规模动员增兵完成后再打一次基辅的军事合理性如何？](https://www.zhihu.com/question/559901963)
+1. [TES 确认 S12 小组赛出线无望，止步十六强，对此你有什么想说的？](https://www.zhihu.com/question/559773934)
 1. [怎么看待男子下班被领导按住电梯要求加班？](https://www.zhihu.com/question/559169098)
+1. [俄罗斯在大规模动员增兵完成后再打一次基辅的军事合理性如何？](https://www.zhihu.com/question/559901963)
 1. [未来几年有哪几个行业会比较吃香？](https://www.zhihu.com/question/515200489)
 1. [如何评价十月新番动画《机动战士高达 水星的魔女》第三集？](https://www.zhihu.com/question/559908743)
 1. [如何看待德国总理朔尔茨在参加欧洲社会民主党党代会活动时再次表态支持欧盟扩大？](https://www.zhihu.com/question/559899875)
@@ -141,9 +145,9 @@
 1. [为什么看完动画《赛博朋克：边缘行者》后劲会这么大？](https://www.zhihu.com/question/555553049)
 1. [笔记本电脑的触控板能否做成右侧弹出设计？](https://www.zhihu.com/question/557825524)
 1. [为“坏人”做辩护的人也是坏人，你认同吗？](https://www.zhihu.com/question/557665057)
-1. [研究生期间如何成为科研大佬？](https://www.zhihu.com/question/458196603)
 1. [证监会正研究明确外资适用特定短线交易制度，便利外资投资 A 股，这将给 A 股市场带来哪些影响？](https://www.zhihu.com/question/559929514)
-1. [宝马或将其电动 MINI 的生产从英国转移到中国，原因是什么？将产生哪些影响？](https://www.zhihu.com/question/559924584)
+1. [研究生期间如何成为科研大佬？](https://www.zhihu.com/question/458196603)
+1. [Jackeylove 接受采访称「还是想说今年我们是最正确的五个人」，是否意味着赛后阵容解散将成定局？](https://www.zhihu.com/question/559791388)
 1. [如何看待手机 APP 越用越膨胀，「64G 版本手机被淘汰，128G 的不够用」？你的手机储存是多少？](https://www.zhihu.com/question/559040972)
 1. [人在迷茫时该干什么？](https://www.zhihu.com/question/22321313)
 1. [什么才是真正的爱情？](https://www.zhihu.com/question/20302989)

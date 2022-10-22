@@ -13,7 +13,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Oct 23 2022 05:01:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 23 2022 06:02:01 GMT+0800 (China Standard Time) -->
 1. [关于党章修正案的决议全文公布](https://so.toutiao.com/search?keyword=关于党章修正案的决议全文公布)
 1. [新华社披露新一届“两委”诞生过程](https://so.toutiao.com/search?keyword=新华社披露新一届“两委”诞生过程)
 1. [新一届中央常委将同中外记者见面](https://so.toutiao.com/search?keyword=新一届中央常委将同中外记者见面)
@@ -28,43 +28,46 @@
 1. [第二十届中央委员会产生](https://so.toutiao.com/search?keyword=第二十届中央委员会产生)
 1. [二十大报告为何提及“人民币国际化”](https://so.toutiao.com/search?keyword=二十大报告为何提及“人民币国际化”)
 1. [小女孩得奖状和舅舅炫耀被无情拆穿](https://so.toutiao.com/search?keyword=小女孩得奖状和舅舅炫耀被无情拆穿)
-1. [新一届中央委员会候补委员名单公布](https://so.toutiao.com/search?keyword=新一届中央委员会候补委员名单公布)
 1. [英媒：约翰逊已经回到英国](https://so.toutiao.com/search?keyword=英媒：约翰逊已经回到英国)
-1. [港媒：中国让世界惊艳](https://so.toutiao.com/search?keyword=港媒：中国让世界惊艳)
+1. [新一届中央委员会候补委员名单公布](https://so.toutiao.com/search?keyword=新一届中央委员会候补委员名单公布)
 1. [曝欧盟欲将被冻结俄资产用于乌重建](https://so.toutiao.com/search?keyword=曝欧盟欲将被冻结俄资产用于乌重建)
-1. [俄媒：马克龙批美向欧卖高价天然气](https://so.toutiao.com/search?keyword=俄媒：马克龙批美向欧卖高价天然气)
+1. [港媒：中国让世界惊艳](https://so.toutiao.com/search?keyword=港媒：中国让世界惊艳)
+1. [陈幸同赛后采访](https://so.toutiao.com/search?keyword=陈幸同赛后采访)
 1. [宁德时代签下美国储能大单](https://so.toutiao.com/search?keyword=宁德时代签下美国储能大单)
 1. [俄亿万富翁之子要求乌解除对其制裁](https://so.toutiao.com/search?keyword=俄亿万富翁之子要求乌解除对其制裁)
 1. [俄方称越来越多外国雇佣兵正抵乌](https://so.toutiao.com/search?keyword=俄方称越来越多外国雇佣兵正抵乌)
-1. [中方欢迎安理会制裁海地黑帮决议](https://so.toutiao.com/search?keyword=中方欢迎安理会制裁海地黑帮决议)
-1. [俄罗斯使用战术核武器可能性有多大](https://so.toutiao.com/search?keyword=俄罗斯使用战术核武器可能性有多大)
-1. [陈幸同赛后采访](https://so.toutiao.com/search?keyword=陈幸同赛后采访)
-1. [意大利新一届政府宣誓就职](https://so.toutiao.com/search?keyword=意大利新一届政府宣誓就职)
 1. [国内汽柴油零售价下周或再迎上调](https://so.toutiao.com/search?keyword=国内汽柴油零售价下周或再迎上调)
-1. [收割机遇接亲车队 开进田里让路](https://so.toutiao.com/search?keyword=收割机遇接亲车队+开进田里让路)
 1. [济南九如山“枫”情万种 层林尽染](https://so.toutiao.com/search?keyword=济南九如山“枫”情万种+层林尽染)
+1. [意大利新一届政府宣誓就职](https://so.toutiao.com/search?keyword=意大利新一届政府宣誓就职)
+1. [俄罗斯使用战术核武器可能性有多大](https://so.toutiao.com/search?keyword=俄罗斯使用战术核武器可能性有多大)
+1. [俄媒：马克龙批美向欧卖高价天然气](https://so.toutiao.com/search?keyword=俄媒：马克龙批美向欧卖高价天然气)
+1. [中方欢迎安理会制裁海地黑帮决议](https://so.toutiao.com/search?keyword=中方欢迎安理会制裁海地黑帮决议)
 1. [中方呼吁全力遏制俄乌局势外溢影响](https://so.toutiao.com/search?keyword=中方呼吁全力遏制俄乌局势外溢影响)
-1. [德国总理朔尔茨确认下月初率团访华](https://so.toutiao.com/search?keyword=德国总理朔尔茨确认下月初率团访华)
 1. [泽连斯基主持召开乌最高统帅部会议](https://so.toutiao.com/search?keyword=泽连斯基主持召开乌最高统帅部会议)
+1. [德国总理朔尔茨确认下月初率团访华](https://so.toutiao.com/search?keyword=德国总理朔尔茨确认下月初率团访华)
+1. [俄乌双方为何进入“基础设施之战”](https://so.toutiao.com/search?keyword=俄乌双方为何进入“基础设施之战”)
+1. [收割机遇接亲车队 开进田里让路](https://so.toutiao.com/search?keyword=收割机遇接亲车队+开进田里让路)
 1. [加拿大正式冻结手枪买卖和转让](https://so.toutiao.com/search?keyword=加拿大正式冻结手枪买卖和转让)
 1. [养鸡第一大省吃鸡究竟有多猛](https://so.toutiao.com/search?keyword=养鸡第一大省吃鸡究竟有多猛)
 1. [西安多区域23日开展免费核酸检测](https://so.toutiao.com/search?keyword=西安多区域23日开展免费核酸检测)
-1. [郜林1.29亿出售豪宅6年净赚近1亿](https://so.toutiao.com/search?keyword=郜林1.29亿出售豪宅6年净赚近1亿)
-1. [俄乌双方为何进入“基础设施之战”](https://so.toutiao.com/search?keyword=俄乌双方为何进入“基础设施之战”)
-1. [乌发布米-24直升机超低空飞行视频](https://so.toutiao.com/search?keyword=乌发布米-24直升机超低空飞行视频)
 1. [长沙发现一例罕见“类孟买血型”](https://so.toutiao.com/search?keyword=长沙发现一例罕见“类孟买血型”)
-1. [二十大代表：尝到了科技种田的甜头](https://so.toutiao.com/search?keyword=二十大代表：尝到了科技种田的甜头)
-1. [中国赴所罗门群岛警务顾问组获好评](https://so.toutiao.com/search?keyword=中国赴所罗门群岛警务顾问组获好评)
-1. [乌承认防空系统存问题且导弹将用尽](https://so.toutiao.com/search?keyword=乌承认防空系统存问题且导弹将用尽)
-1. [印尼G20将向世界展示雅万高铁](https://so.toutiao.com/search?keyword=印尼G20将向世界展示雅万高铁)
+1. [郜林1.29亿出售豪宅6年净赚近1亿](https://so.toutiao.com/search?keyword=郜林1.29亿出售豪宅6年净赚近1亿)
 1. [奥密克戎2个新亚型在美国迅速传播](https://so.toutiao.com/search?keyword=奥密克戎2个新亚型在美国迅速传播)
-1. [小Wei哭了](https://so.toutiao.com/search?keyword=小Wei哭了)
+1. [乌承认防空系统存问题且导弹将用尽](https://so.toutiao.com/search?keyword=乌承认防空系统存问题且导弹将用尽)
+1. [二十大代表：尝到了科技种田的甜头](https://so.toutiao.com/search?keyword=二十大代表：尝到了科技种田的甜头)
+1. [水庆霞谈女足分组：丹麦强于我们](https://so.toutiao.com/search?keyword=水庆霞谈女足分组：丹麦强于我们)
+1. [女子投简历后发现HR是室友](https://so.toutiao.com/search?keyword=女子投简历后发现HR是室友)
 1. [美媒：雅万高铁将成东南亚最快列车](https://so.toutiao.com/search?keyword=美媒：雅万高铁将成东南亚最快列车)
+1. [乌发布米-24直升机超低空飞行视频](https://so.toutiao.com/search?keyword=乌发布米-24直升机超低空飞行视频)
+1. [印尼G20将向世界展示雅万高铁](https://so.toutiao.com/search?keyword=印尼G20将向世界展示雅万高铁)
+1. [把小鸟画成书童少女的女生登上央视](https://so.toutiao.com/search?keyword=把小鸟画成书童少女的女生登上央视)
+1. [经纪人：哈兰德未来转会费或10亿镑](https://so.toutiao.com/search?keyword=经纪人：哈兰德未来转会费或10亿镑)
+1. [科学家称气候变暖或致北极病毒溢出](https://so.toutiao.com/search?keyword=科学家称气候变暖或致北极病毒溢出)
+1. [我专家组完成赴巴防洪指导任务回国](https://so.toutiao.com/search?keyword=我专家组完成赴巴防洪指导任务回国)
+1. [中国赴所罗门群岛警务顾问组获好评](https://so.toutiao.com/search?keyword=中国赴所罗门群岛警务顾问组获好评)
+1. [小Wei哭了](https://so.toutiao.com/search?keyword=小Wei哭了)
 1. [叙政府军驱逐一支美非法驻军车队](https://so.toutiao.com/search?keyword=叙政府军驱逐一支美非法驻军车队)
 1. [狗子偷溜进厨房狂炫41个生饺子](https://so.toutiao.com/search?keyword=狗子偷溜进厨房狂炫41个生饺子)
-1. [女子投简历后发现HR是室友](https://so.toutiao.com/search?keyword=女子投简历后发现HR是室友)
-1. [经纪人：哈兰德未来转会费或10亿镑](https://so.toutiao.com/search?keyword=经纪人：哈兰德未来转会费或10亿镑)
-1. [水庆霞谈女足分组：丹麦强于我们](https://so.toutiao.com/search?keyword=水庆霞谈女足分组：丹麦强于我们)
 1. [两融史上第7次扩容如何影响A股市场](https://so.toutiao.com/search?keyword=两融史上第7次扩容如何影响A股市场)
 1. [库里：若对手模仿晚安手势那走着瞧](https://so.toutiao.com/search?keyword=库里：若对手模仿晚安手势那走着瞧)
 1. [印度一患者输血时错输果汁后死亡](https://so.toutiao.com/search?keyword=印度一患者输血时错输果汁后死亡)
@@ -79,7 +82,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Oct 23 2022 05:01:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 23 2022 06:02:01 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -87,7 +90,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sun Oct 23 2022 05:01:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 23 2022 06:02:01 GMT+0800 (China Standard Time) -->
 1. [中国将进行载人月球探测](https://www.zhihu.com/search?q=中国将进行载人月球探测)
 1. [王楚钦 3 比 2 马龙](https://www.zhihu.com/search?q=王楚钦 3 比 2 马龙)
 <!-- END ZHIHUSEARCH -->
@@ -96,7 +99,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Oct 23 2022 05:01:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 23 2022 06:02:01 GMT+0800 (China Standard Time) -->
 1. [中国共产党第二十次全国代表大会在京闭幕 习近平主持大会并发表重要讲话](https://www.zhihu.com/question/576230957)
 1. [中国共产党第二十届中央委员会委员名单](https://www.zhihu.com/question/576156054)
 1. [中国共产党第二十次全国代表大会关于十九届中央委员会报告的决议](https://www.zhihu.com/question/576239392)
@@ -130,32 +133,32 @@
 1. [今年刚转入人工智能专业，了解到现在算法岗的形势，有些迷茫了，继续读下去还有出路吗？](https://www.zhihu.com/question/555136786)
 1. [如何看待张艺兴是格莱美博物馆建馆以来被邀请和表演的唯一中国歌手？](https://www.zhihu.com/question/561184754)
 1. [你会从别人的口中去了解一个人吗？](https://www.zhihu.com/question/561581052)
-1. [如果世界上没有恶，只有善会变成什么样？](https://www.zhihu.com/question/559620976)
-1. [如何评价《原神》风物集短片-蒙德篇？](https://www.zhihu.com/question/561270796)
-1. [钱对我们为什么重要？](https://www.zhihu.com/question/559702117)
-1. [我买 switch 有错吗?](https://www.zhihu.com/question/560300282)
-1. [今年双十一有哪些「一定不能错过」的超级爆款？](https://www.zhihu.com/question/561272797)
 1. [乌克兰防长称正和马斯克沟通，以解决「星链」运作资金问题，乌方有哪些资金来源？哪些信息值得关注？](https://www.zhihu.com/question/561313360)
+1. [如何评价《原神》风物集短片-蒙德篇？](https://www.zhihu.com/question/561270796)
+1. [线性代数到底应该怎么学？](https://www.zhihu.com/question/36282065)
+1. [如果世界上没有恶，只有善会变成什么样？](https://www.zhihu.com/question/559620976)
+1. [有哪些是你用上了mac才知道的事？](https://www.zhihu.com/question/545108671)
+1. [钱对我们为什么重要？](https://www.zhihu.com/question/559702117)
 1. [沪深交易所同时扩大主板融资融券标的股票范围，共新增 600 只股票，此举将产生哪些影响？](https://www.zhihu.com/question/561301469)
 1. [22-23 赛季 NBA 掘金 128:123 勇士，如何评价这场比赛？](https://www.zhihu.com/question/561386849)
 1. [最新研究表示，气候变化可能增加北极地区病毒感染新宿主的风险，增加「病毒溢出」的风险，如何解读？](https://www.zhihu.com/question/561408616)
-1. [童年的伤痛对一个孩子来说，影响究竟会有多大？](https://www.zhihu.com/question/558713260)
-1. [线性代数到底应该怎么学？](https://www.zhihu.com/question/36282065)
+1. [各版本的金庸武侠电视剧，哪个魔改最让人震惊，哪个魔改恰到好处？](https://www.zhihu.com/question/360354616)
+1. [如何评价《龙之家族》（House of the dragon）第一季第十集?](https://www.zhihu.com/question/561360428)
 1. [如何看待李大鹏博士发现国内埋藏最深金矿体？这一发现有哪些意义？](https://www.zhihu.com/question/561513487)
 1. [动车组将从百米海底驶过，这一技术难度有多大？对交通发展带来哪些贡献？](https://www.zhihu.com/question/560841914)
 1. [为什么大部分蓝色食物会使人食欲不振，但蓝莓不会?](https://www.zhihu.com/question/559756030)
+1. [我买 switch 有错吗?](https://www.zhihu.com/question/560300282)
+1. [今年双十一有哪些「一定不能错过」的超级爆款？](https://www.zhihu.com/question/561272797)
+1. [童年的伤痛对一个孩子来说，影响究竟会有多大？](https://www.zhihu.com/question/558713260)
 1. [家用卫生间装修要注意什么？](https://www.zhihu.com/question/49168656)
 1. [孩子社交渴望特别强烈，却常常得不到小朋友的回应，应该怎样帮助他？](https://www.zhihu.com/question/451816191)
 1. [读书早晚都会忘，为什么还要读书？意义是什么？](https://www.zhihu.com/question/555164076)
 1. [《西游记》有哪些谣言在网络上广为流传？](https://www.zhihu.com/question/502890402)
 1. [当一个人把什么都看透了，生活中会有什么状态、表现、境界？](https://www.zhihu.com/question/406215941)
 1. [幼儿园孩子的同班同学对他说「我不喜欢你，我不要和你一起玩」，该怎样回应才能开解孩子？](https://www.zhihu.com/question/560250750)
-1. [有哪些是你用上了mac才知道的事？](https://www.zhihu.com/question/545108671)
 1. [C 罗遭处罚后首次在社交平台发声，你对此次事件有何看法？](https://www.zhihu.com/question/561251304)
 1. [哪个电脑文件搜索软件速度快、好用？](https://www.zhihu.com/question/57288464)
-1. [如何评价《龙之家族》（House of the dragon）第一季第十集?](https://www.zhihu.com/question/561360428)
 1. [《三体》结局后，所有主要人物坐在一起吃饭，会是怎样一种场面？](https://www.zhihu.com/question/518016021)
-1. [各版本的金庸武侠电视剧，哪个魔改最让人震惊，哪个魔改恰到好处？](https://www.zhihu.com/question/360354616)
 1. [程序员究竟是做什么的？](https://www.zhihu.com/question/560465003)
 <!-- END ZHIHUQUESTIONS -->
 

@@ -13,61 +13,63 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Oct 25 2022 05:07:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 06:06:44 GMT+0800 (China Standard Time) -->
 1. [党的新一届中央领导机构产生纪实](https://so.toutiao.com/search?keyword=党的新一届中央领导机构产生纪实)
 1. [中纪委：防止干部成为权势团体代言人](https://so.toutiao.com/search?keyword=中纪委：防止干部成为权势团体代言人)
 1. [始终坚持一切为了人民一切依靠人民](https://so.toutiao.com/search?keyword=始终坚持一切为了人民一切依靠人民)
 1. [反“台独”入党章引关注](https://so.toutiao.com/search?keyword=反“台独”入党章引关注)
 1. [中央政策研究室主任谈共同富裕](https://so.toutiao.com/search?keyword=中央政策研究室主任谈共同富裕)
-1. [女子刷单被骗42万 警方追回21万](https://so.toutiao.com/search?keyword=女子刷单被骗42万+警方追回21万)
-1. [前三季度GDP同比增长3.0%](https://so.toutiao.com/search?keyword=前三季度GDP同比增长3.0%)
 1. [费东斌任国家铁路局局长](https://so.toutiao.com/search?keyword=费东斌任国家铁路局局长)
 1. [东北出现罕见鹰柱鹰河奇景](https://so.toutiao.com/search?keyword=东北出现罕见鹰柱鹰河奇景)
-1. [男子偷吃小松鼠囤的板栗后加倍奉还](https://so.toutiao.com/search?keyword=男子偷吃小松鼠囤的板栗后加倍奉还)
+1. [前三季度GDP同比增长3.0%](https://so.toutiao.com/search?keyword=前三季度GDP同比增长3.0%)
+1. [女子刷单被骗42万 警方追回21万](https://so.toutiao.com/search?keyword=女子刷单被骗42万+警方追回21万)
+1. [专家：郑州疫情传播快 但毒性减弱](https://so.toutiao.com/search?keyword=专家：郑州疫情传播快+但毒性减弱)
 1. [英国将迎首位印度裔首相](https://so.toutiao.com/search?keyword=英国将迎首位印度裔首相)
 1. [朝鲜射火箭炮回应韩军鸣枪驱逐商船](https://so.toutiao.com/search?keyword=朝鲜射火箭炮回应韩军鸣枪驱逐商船)
 1. [特斯拉再降价 国产车企如何应对](https://so.toutiao.com/search?keyword=特斯拉再降价+国产车企如何应对)
 1. [胡锡进谈德国总理朔尔茨将访华](https://so.toutiao.com/search?keyword=胡锡进谈德国总理朔尔茨将访华)
 1. [身价7.3亿英镑 英国新首相是谁](https://so.toutiao.com/search?keyword=身价7.3亿英镑+英国新首相是谁)
 1. [德国总理下周访华？中方回应](https://so.toutiao.com/search?keyword=德国总理下周访华？中方回应)
-1. [德总理：没有国家想与中国“脱钩”](https://so.toutiao.com/search?keyword=德总理：没有国家想与中国“脱钩”)
 1. [广西北海辟谣海滩存在陪泳等不法行为](https://so.toutiao.com/search?keyword=广西北海辟谣海滩存在陪泳等不法行为)
-1. [伊朗将向俄罗斯提供40台涡轮机](https://so.toutiao.com/search?keyword=伊朗将向俄罗斯提供40台涡轮机)
+1. [德总理：没有国家想与中国“脱钩”](https://so.toutiao.com/search?keyword=德总理：没有国家想与中国“脱钩”)
+1. [抗议者在伦敦游行要求重新加入欧盟](https://so.toutiao.com/search?keyword=抗议者在伦敦游行要求重新加入欧盟)
 1. [原国务院参事谈提振消费 需让农民富](https://so.toutiao.com/search?keyword=原国务院参事谈提振消费+需让农民富)
 1. [医院为何越来越像“互联网大厂”](https://so.toutiao.com/search?keyword=医院为何越来越像“互联网大厂”)
 1. [陌陌上结识“保时捷” 女子被骗5万](https://so.toutiao.com/search?keyword=陌陌上结识“保时捷”+女子被骗5万)
-1. [乌克兰或用“脏弹”？泽连斯基回应](https://so.toutiao.com/search?keyword=乌克兰或用“脏弹”？泽连斯基回应)
 1. [俄美防长时隔一天再次通话](https://so.toutiao.com/search?keyword=俄美防长时隔一天再次通话)
+1. [乌克兰或用“脏弹”？泽连斯基回应](https://so.toutiao.com/search?keyword=乌克兰或用“脏弹”？泽连斯基回应)
 1. [货车司机服务区睡觉一箱油被偷光](https://so.toutiao.com/search?keyword=货车司机服务区睡觉一箱油被偷光)
-1. [马克龙称俄乌和平由乌克兰人决定](https://so.toutiao.com/search?keyword=马克龙称俄乌和平由乌克兰人决定)
 1. [曝美空降师已做好进入乌克兰准备](https://so.toutiao.com/search?keyword=曝美空降师已做好进入乌克兰准备)
-1. [超千万人极端通勤：有人单程3小时](https://so.toutiao.com/search?keyword=超千万人极端通勤：有人单程3小时)
 1. [华为折叠屏新机发布时间公布](https://so.toutiao.com/search?keyword=华为折叠屏新机发布时间公布)
-1. [抗议者在伦敦游行要求重新加入欧盟](https://so.toutiao.com/search?keyword=抗议者在伦敦游行要求重新加入欧盟)
+1. [马克龙称俄乌和平由乌克兰人决定](https://so.toutiao.com/search?keyword=马克龙称俄乌和平由乌克兰人决定)
+1. [超千万人极端通勤：有人单程3小时](https://so.toutiao.com/search?keyword=超千万人极端通勤：有人单程3小时)
+1. [伊朗将向俄罗斯提供40台涡轮机](https://so.toutiao.com/search?keyword=伊朗将向俄罗斯提供40台涡轮机)
+1. [付费自习室雇“水军”制造学习氛围](https://so.toutiao.com/search?keyword=付费自习室雇“水军”制造学习氛围)
+1. [男子偷吃小松鼠囤的板栗后加倍奉还](https://so.toutiao.com/search?keyword=男子偷吃小松鼠囤的板栗后加倍奉还)
+1. [外交部提醒中国公民暂勿前往利比亚](https://so.toutiao.com/search?keyword=外交部提醒中国公民暂勿前往利比亚)
 1. [男子租车仅拍照 退租检出20项问题](https://so.toutiao.com/search?keyword=男子租车仅拍照+退租检出20项问题)
 1. [克宫称法德领导人不愿聆听俄立场](https://so.toutiao.com/search?keyword=克宫称法德领导人不愿聆听俄立场)
-1. [俄苏34坠毁新画面：飞行员弹射逃生](https://so.toutiao.com/search?keyword=俄苏34坠毁新画面：飞行员弹射逃生)
-1. [付费自习室雇“水军”制造学习氛围](https://so.toutiao.com/search?keyword=付费自习室雇“水军”制造学习氛围)
-1. [外交部提醒中国公民暂勿前往利比亚](https://so.toutiao.com/search?keyword=外交部提醒中国公民暂勿前往利比亚)
-1. [专家：郑州疫情传播快 但毒性减弱](https://so.toutiao.com/search?keyword=专家：郑州疫情传播快+但毒性减弱)
-1. [解析俄罗斯版“星链”有何功能](https://so.toutiao.com/search?keyword=解析俄罗斯版“星链”有何功能)
-1. [手机贴膜应该怎么选](https://so.toutiao.com/search?keyword=手机贴膜应该怎么选)
-1. [新一股冷空气影响北方 南方迎降雨](https://so.toutiao.com/search?keyword=新一股冷空气影响北方+南方迎降雨)
 1. [武契奇回应美军空中突击师部署东欧](https://so.toutiao.com/search?keyword=武契奇回应美军空中突击师部署东欧)
-1. [日澳签署一项安全协议 外交部回应](https://so.toutiao.com/search?keyword=日澳签署一项安全协议+外交部回应)
-1. [飞利浦将在全球范围内裁员约4000人](https://so.toutiao.com/search?keyword=飞利浦将在全球范围内裁员约4000人)
-1. [纽约豪宅最贵50万一平 多用现金交易](https://so.toutiao.com/search?keyword=纽约豪宅最贵50万一平+多用现金交易)
-1. [牧原股份：第三季度净利润81.96亿](https://so.toutiao.com/search?keyword=牧原股份：第三季度净利润81.96亿)
+1. [新一股冷空气影响北方 南方迎降雨](https://so.toutiao.com/search?keyword=新一股冷空气影响北方+南方迎降雨)
+1. [手机贴膜应该怎么选](https://so.toutiao.com/search?keyword=手机贴膜应该怎么选)
+1. [解析俄罗斯版“星链”有何功能](https://so.toutiao.com/search?keyword=解析俄罗斯版“星链”有何功能)
+1. [美媒：俄乌冲突正耗尽欧洲武器库存](https://so.toutiao.com/search?keyword=美媒：俄乌冲突正耗尽欧洲武器库存)
 1. [特朗普参加集会批佩洛西是“疯子”](https://so.toutiao.com/search?keyword=特朗普参加集会批佩洛西是“疯子”)
 1. [男子生吞螃蟹后感染寄生虫腰背剧痛](https://so.toutiao.com/search?keyword=男子生吞螃蟹后感染寄生虫腰背剧痛)
-1. [日元对美元年内已贬值约30%](https://so.toutiao.com/search?keyword=日元对美元年内已贬值约30%)
-1. [印度11月将用印地语教医学引争议](https://so.toutiao.com/search?keyword=印度11月将用印地语教医学引争议)
-1. [解读美接连公布新型战略轰炸机状态](https://so.toutiao.com/search?keyword=解读美接连公布新型战略轰炸机状态)
+1. [纽约豪宅最贵50万一平 多用现金交易](https://so.toutiao.com/search?keyword=纽约豪宅最贵50万一平+多用现金交易)
 1. [女排奥运冠军林莉宣布退役](https://so.toutiao.com/search?keyword=女排奥运冠军林莉宣布退役)
+1. [欧盟明年每月将为乌提供15亿欧元](https://so.toutiao.com/search?keyword=欧盟明年每月将为乌提供15亿欧元)
+1. [印度11月将用印地语教医学引争议](https://so.toutiao.com/search?keyword=印度11月将用印地语教医学引争议)
+1. [外媒：美国今冬或面临“三重疫情”](https://so.toutiao.com/search?keyword=外媒：美国今冬或面临“三重疫情”)
+1. [日元对美元年内已贬值约30%](https://so.toutiao.com/search?keyword=日元对美元年内已贬值约30%)
+1. [飞利浦将在全球范围内裁员约4000人](https://so.toutiao.com/search?keyword=飞利浦将在全球范围内裁员约4000人)
+1. [解读美接连公布新型战略轰炸机状态](https://so.toutiao.com/search?keyword=解读美接连公布新型战略轰炸机状态)
+1. [俄苏34坠毁新画面：飞行员弹射逃生](https://so.toutiao.com/search?keyword=俄苏34坠毁新画面：飞行员弹射逃生)
+1. [日澳签署一项安全协议 外交部回应](https://so.toutiao.com/search?keyword=日澳签署一项安全协议+外交部回应)
+1. [牧原股份：第三季度净利润81.96亿](https://so.toutiao.com/search?keyword=牧原股份：第三季度净利润81.96亿)
 1. [普京未计划与马克龙或拜登通话](https://so.toutiao.com/search?keyword=普京未计划与马克龙或拜登通话)
 1. [韩国一载173人客机在菲律宾冲出跑道](https://so.toutiao.com/search?keyword=韩国一载173人客机在菲律宾冲出跑道)
 1. [莫奈作品被泼土豆泥](https://so.toutiao.com/search?keyword=莫奈作品被泼土豆泥)
-1. [欧盟明年每月将为乌提供15亿欧元](https://so.toutiao.com/search?keyword=欧盟明年每月将为乌提供15亿欧元)
 1. [官方：中国将申办2031年女足世界杯](https://so.toutiao.com/search?keyword=官方：中国将申办2031年女足世界杯)
 1. [曝日本将在鹿儿岛基地建加油设备](https://so.toutiao.com/search?keyword=曝日本将在鹿儿岛基地建加油设备)
 1. [统计局10位司局长解读三季度经济](https://so.toutiao.com/search?keyword=统计局10位司局长解读三季度经济)
@@ -85,7 +87,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Oct 25 2022 05:07:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 06:06:44 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -93,7 +95,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Oct 25 2022 05:07:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 06:06:44 GMT+0800 (China Standard Time) -->
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [苏纳克：将接替特拉斯成为英国新首相](https://www.zhihu.com/search?q=苏纳克：将接替特拉斯成为英国新首相)
 1. [嫦娥五号月壤揭示月球年轻火山成因](https://www.zhihu.com/search?q=嫦娥五号月壤揭示月球年轻火山成因)
@@ -109,7 +111,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Oct 25 2022 05:07:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 06:06:44 GMT+0800 (China Standard Time) -->
 1. [中共中央新闻发布会：共同富裕不是平均主义，不是劫富济贫](https://www.zhihu.com/question/576641397)
 1. [中央政治局委员 书记处书记简历](https://www.zhihu.com/question/576472423)
 1. [中纪委：防止领导干部成为利益集团和权势团体代言人](https://www.zhihu.com/question/576641656)
@@ -126,8 +128,8 @@
 1. [互联网人均熬夜，为什么只有程序员在掉头发？](https://www.zhihu.com/question/561790755)
 1. [iPhone14pro 双十一大概降价多少钱?](https://www.zhihu.com/question/552410756)
 1. [如何评价B站某19岁虚拟主播宣称“上舰长送黄金”，疑似诈骗，目前已获8500舰？](https://www.zhihu.com/question/561370406)
-1. [工作十年以后，你们悟出了什么职场道理？](https://www.zhihu.com/question/38252049)
 1. [为什么老百姓自制腊肉香肠不加任何防腐剂能放好几个月？](https://www.zhihu.com/question/561213611)
+1. [工作十年以后，你们悟出了什么职场道理？](https://www.zhihu.com/question/38252049)
 1. [2022年「双11」10月24日晚8点正式开启预售，你的购物车里都装了什么？有哪些攻略值得分享？](https://www.zhihu.com/question/561976333)
 1. [2022 年最轻薄的游戏本有什么推荐的吗？](https://www.zhihu.com/question/520378493)
 1. [Aster 能在 TI11 赛事上走多远？](https://www.zhihu.com/question/552673696)
@@ -144,14 +146,14 @@
 1. [有什么小众的成人礼礼物？](https://www.zhihu.com/question/338752294)
 1. [大家都入手了哪个牌子的安全座椅，求推荐？](https://www.zhihu.com/question/54887253)
 1. [有什么值得长期坚持的好习惯？](https://www.zhihu.com/question/440957405)
-1. [Deft 时隔八年再次晋级全球总决赛四强，对此你有什么想说？](https://www.zhihu.com/question/561793364)
 1. [如何评价叶舒华这次回归造型?](https://www.zhihu.com/question/561601934)
+1. [Deft 时隔八年再次晋级全球总决赛四强，对此你有什么想说？](https://www.zhihu.com/question/561793364)
 1. [你觉得什么可以称得上是最邪恶的发明？](https://www.zhihu.com/question/327418024)
 1. [未来五年，哪些汽车相关的科技有可能颠覆整个汽车行业？](https://www.zhihu.com/question/561609702)
 1. [22年双十一有没有必买的家电推荐？](https://www.zhihu.com/question/558166448)
 1. [人到中年，如何缓解父母的固执和愚昧？](https://www.zhihu.com/question/264824299)
-1. [这个双十一，哪些预售好物诚意十足，血赚不亏？](https://www.zhihu.com/question/561667013)
 1. [你给公司副职领导汇报工作，他说做不了主让给正职汇报，可正职又说这是让副职定就行，怎么办？](https://www.zhihu.com/question/502621907)
+1. [这个双十一，哪些预售好物诚意十足，血赚不亏？](https://www.zhihu.com/question/561667013)
 1. [家里用投影仪追剧真的很爽吗？2022 年有哪些新上市的投影仪值得关注？](https://www.zhihu.com/question/552202173)
 1. [如何克制黑胡子的暗暗果实？](https://www.zhihu.com/question/22594964)
 1. [本人学生党，没用过手柄，想买个手柄玩 steam 游戏，仅用 steam 平台，有什么手柄值得推荐？](https://www.zhihu.com/question/513803428)

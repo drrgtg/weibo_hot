@@ -13,59 +13,63 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Dec 12 2022 03:00:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 04:00:59 GMT+0800 (China Standard Time) -->
 1. [江泽民骨灰撒入江海 扬州舰送别](https://so.toutiao.com/search?keyword=江泽民骨灰撒入江海+扬州舰送别)
 1. [“通信行程卡”13日起正式下线](https://so.toutiao.com/search?keyword=“通信行程卡”13日起正式下线)
 1. [落实好疫情防控优化措施](https://so.toutiao.com/search?keyword=落实好疫情防控优化措施)
-1. [冯巩当选民革第十四届中央副主席](https://so.toutiao.com/search?keyword=冯巩当选民革第十四届中央副主席)
 1. [新变异株XBB传播性更强致病性更弱](https://so.toutiao.com/search?keyword=新变异株XBB传播性更强致病性更弱)
+1. [女网红开车送货遇害 嫌犯被抓](https://so.toutiao.com/search?keyword=女网红开车送货遇害+嫌犯被抓)
+1. [冯巩当选民革第十四届中央副主席](https://so.toutiao.com/search?keyword=冯巩当选民革第十四届中央副主席)
 1. [致死率高的新毒株在日本疯传？假的](https://so.toutiao.com/search?keyword=致死率高的新毒株在日本疯传？假的)
 1. [钟南山：今年春节就地过年可能性很小](https://so.toutiao.com/search?keyword=钟南山：今年春节就地过年可能性很小)
-1. [多地核酸调整：愿检尽检自费单人单管](https://so.toutiao.com/search?keyword=多地核酸调整：愿检尽检自费单人单管)
 1. [加强县级医院重症医疗资源准备](https://so.toutiao.com/search?keyword=加强县级医院重症医疗资源准备)
-1. [女孩看世界杯迟到误入卡塔尔王妃包厢](https://so.toutiao.com/search?keyword=女孩看世界杯迟到误入卡塔尔王妃包厢)
+1. [多地核酸调整：愿检尽检自费单人单管](https://so.toutiao.com/search?keyword=多地核酸调整：愿检尽检自费单人单管)
 1. [专家：预计1个月内达到感染峰值](https://so.toutiao.com/search?keyword=专家：预计1个月内达到感染峰值)
 1. [山东女子带亲友开车10公里偷苹果](https://so.toutiao.com/search?keyword=山东女子带亲友开车10公里偷苹果)
-1. [连花清瘟买不到？这些常见药也有效](https://so.toutiao.com/search?keyword=连花清瘟买不到？这些常见药也有效)
 1. [冯巩在艺术界影响力有多大](https://so.toutiao.com/search?keyword=冯巩在艺术界影响力有多大)
-1. [健康码、核酸证明的新骗局出现了](https://so.toutiao.com/search?keyword=健康码、核酸证明的新骗局出现了)
-1. [钟南山回应春运途中如何防护](https://so.toutiao.com/search?keyword=钟南山回应春运途中如何防护)
+1. [女孩看世界杯迟到误入卡塔尔王妃包厢](https://so.toutiao.com/search?keyword=女孩看世界杯迟到误入卡塔尔王妃包厢)
+1. [夫妻时隔35年在同一地点拍照](https://so.toutiao.com/search?keyword=夫妻时隔35年在同一地点拍照)
+1. [连花清瘟买不到？这些常见药也有效](https://so.toutiao.com/search?keyword=连花清瘟买不到？这些常见药也有效)
 1. [已有40个新冠抗原检测试剂获批](https://so.toutiao.com/search?keyword=已有40个新冠抗原检测试剂获批)
-1. [河北一家四口的阳转阴历程](https://so.toutiao.com/search?keyword=河北一家四口的阳转阴历程)
+1. [健康码、核酸证明的新骗局出现了](https://so.toutiao.com/search?keyword=健康码、核酸证明的新骗局出现了)
 1. [内马尔谈出局：最伤心的一次失败](https://so.toutiao.com/search?keyword=内马尔谈出局：最伤心的一次失败)
-1. [俄罗斯扩大杀伤武器生产](https://so.toutiao.com/search?keyword=俄罗斯扩大杀伤武器生产)
+1. [河北一家四口的阳转阴历程](https://so.toutiao.com/search?keyword=河北一家四口的阳转阴历程)
 1. [张兰分享感染新冠后的感受](https://so.toutiao.com/search?keyword=张兰分享感染新冠后的感受)
-1. [小米13售价3999元起](https://so.toutiao.com/search?keyword=小米13售价3999元起)
+1. [钟南山回应春运途中如何防护](https://so.toutiao.com/search?keyword=钟南山回应春运途中如何防护)
 1. [NASA局长称会先于中国重返月球](https://so.toutiao.com/search?keyword=NASA局长称会先于中国重返月球)
-1. [美国助理国务卿将访问中韩日](https://so.toutiao.com/search?keyword=美国助理国务卿将访问中韩日)
-1. [法国警方视法国VS摩洛哥为高危赛事](https://so.toutiao.com/search?keyword=法国警方视法国VS摩洛哥为高危赛事)
-1. [曝美国防部默许乌袭击俄境内目标](https://so.toutiao.com/search?keyword=曝美国防部默许乌袭击俄境内目标)
-1. [女网红开车送货遇害 嫌犯被抓](https://so.toutiao.com/search?keyword=女网红开车送货遇害+嫌犯被抓)
-1. [各地发热门诊情况如何](https://so.toutiao.com/search?keyword=各地发热门诊情况如何)
-1. [俄媒：乌官员称已准备好攻击俄领土](https://so.toutiao.com/search?keyword=俄媒：乌官员称已准备好攻击俄领土)
-1. [多地强调不戴口罩致疫情传播将追责](https://so.toutiao.com/search?keyword=多地强调不戴口罩致疫情传播将追责)
-1. [武契奇称默克尔乌克兰言论颠覆认知](https://so.toutiao.com/search?keyword=武契奇称默克尔乌克兰言论颠覆认知)
+1. [小米13售价3999元起](https://so.toutiao.com/search?keyword=小米13售价3999元起)
+1. [俄罗斯扩大杀伤武器生产](https://so.toutiao.com/search?keyword=俄罗斯扩大杀伤武器生产)
 1. [台当局怠慢致99%水产品输大陆受阻](https://so.toutiao.com/search?keyword=台当局怠慢致99%水产品输大陆受阻)
-1. [小米13 Pro售价4999元起](https://so.toutiao.com/search?keyword=小米13+Pro售价4999元起)
+1. [曝美国防部默许乌袭击俄境内目标](https://so.toutiao.com/search?keyword=曝美国防部默许乌袭击俄境内目标)
+1. [多地强调不戴口罩致疫情传播将追责](https://so.toutiao.com/search?keyword=多地强调不戴口罩致疫情传播将追责)
+1. [美国助理国务卿将访问中韩日](https://so.toutiao.com/search?keyword=美国助理国务卿将访问中韩日)
+1. [俄媒：乌官员称已准备好攻击俄领土](https://so.toutiao.com/search?keyword=俄媒：乌官员称已准备好攻击俄领土)
+1. [武契奇称默克尔乌克兰言论颠覆认知](https://so.toutiao.com/search?keyword=武契奇称默克尔乌克兰言论颠覆认知)
+1. [各地发热门诊情况如何](https://so.toutiao.com/search?keyword=各地发热门诊情况如何)
 1. [调查：保定如何应对“发热潮”冲击](https://so.toutiao.com/search?keyword=调查：保定如何应对“发热潮”冲击)
-1. [欧文：我认为法国将蝉联世界杯冠军](https://so.toutiao.com/search?keyword=欧文：我认为法国将蝉联世界杯冠军)
-1. [小米13正式发布](https://so.toutiao.com/search?keyword=小米13正式发布)
-1. [C罗：我的世界杯夺冠梦想结束了](https://so.toutiao.com/search?keyword=C罗：我的世界杯夺冠梦想结束了)
+1. [钟南山：建议及时接种疫苗加强针](https://so.toutiao.com/search?keyword=钟南山：建议及时接种疫苗加强针)
 1. [妻子走40分钟山路为阳性丈夫送饭](https://so.toutiao.com/search?keyword=妻子走40分钟山路为阳性丈夫送饭)
-1. [美军一B2轰炸机降落时冲出跑道受损](https://so.toutiao.com/search?keyword=美军一B2轰炸机降落时冲出跑道受损)
-1. [美国一男子被发现是新冠超级免疫者](https://so.toutiao.com/search?keyword=美国一男子被发现是新冠超级免疫者)
-1. [著名水稻专家杨振玉逝世](https://so.toutiao.com/search?keyword=著名水稻专家杨振玉逝世)
-1. [葡萄牙丢球瞬间替补席上C罗的表情](https://so.toutiao.com/search?keyword=葡萄牙丢球瞬间替补席上C罗的表情)
-1. [北京两机场航班量增势明显](https://so.toutiao.com/search?keyword=北京两机场航班量增势明显)
+1. [欧盟对俄贸易逆差达08年以来最大值](https://so.toutiao.com/search?keyword=欧盟对俄贸易逆差达08年以来最大值)
+1. [C罗：我的世界杯夺冠梦想结束了](https://so.toutiao.com/search?keyword=C罗：我的世界杯夺冠梦想结束了)
 1. [布洛芬不能与这些食物药物同用](https://so.toutiao.com/search?keyword=布洛芬不能与这些食物药物同用)
 1. [《县委大院》黄磊诠释的“官样”](https://so.toutiao.com/search?keyword=《县委大院》黄磊诠释的“官样”)
+1. [小米13正式发布](https://so.toutiao.com/search?keyword=小米13正式发布)
+1. [著名水稻专家杨振玉逝世](https://so.toutiao.com/search?keyword=著名水稻专家杨振玉逝世)
+1. [美国一男子被发现是新冠超级免疫者](https://so.toutiao.com/search?keyword=美国一男子被发现是新冠超级免疫者)
+1. [小米13 Pro售价4999元起](https://so.toutiao.com/search?keyword=小米13+Pro售价4999元起)
+1. [风热感冒类药物对治疗新冠均有效](https://so.toutiao.com/search?keyword=风热感冒类药物对治疗新冠均有效)
 1. [多地取消核酸检测混采](https://so.toutiao.com/search?keyword=多地取消核酸检测混采)
 1. [哪些情况下口罩必须更换](https://so.toutiao.com/search?keyword=哪些情况下口罩必须更换)
-1. [曝美要求日响应半导体对华出口管制](https://so.toutiao.com/search?keyword=曝美要求日响应半导体对华出口管制)
-1. [风热感冒类药物对治疗新冠均有效](https://so.toutiao.com/search?keyword=风热感冒类药物对治疗新冠均有效)
-1. [小米迷你主机拆解](https://so.toutiao.com/search?keyword=小米迷你主机拆解)
+1. [北京两机场航班量增势明显](https://so.toutiao.com/search?keyword=北京两机场航班量增势明显)
 1. [德国总理：希望与俄总统保持对话](https://so.toutiao.com/search?keyword=德国总理：希望与俄总统保持对话)
-1. [欧盟对俄贸易逆差达08年以来最大值](https://so.toutiao.com/search?keyword=欧盟对俄贸易逆差达08年以来最大值)
+1. [记者评半决赛：克罗地亚不惧阿根廷](https://so.toutiao.com/search?keyword=记者评半决赛：克罗地亚不惧阿根廷)
+1. [专家分析赖清德指向2024是否有胜算](https://so.toutiao.com/search?keyword=专家分析赖清德指向2024是否有胜算)
+1. [法国警方视法国VS摩洛哥为高危赛事](https://so.toutiao.com/search?keyword=法国警方视法国VS摩洛哥为高危赛事)
+1. [欧文：我认为法国将蝉联世界杯冠军](https://so.toutiao.com/search?keyword=欧文：我认为法国将蝉联世界杯冠军)
+1. [美军一B2轰炸机降落时冲出跑道受损](https://so.toutiao.com/search?keyword=美军一B2轰炸机降落时冲出跑道受损)
+1. [葡萄牙丢球瞬间替补席上C罗的表情](https://so.toutiao.com/search?keyword=葡萄牙丢球瞬间替补席上C罗的表情)
+1. [曝美要求日响应半导体对华出口管制](https://so.toutiao.com/search?keyword=曝美要求日响应半导体对华出口管制)
+1. [小米迷你主机拆解](https://so.toutiao.com/search?keyword=小米迷你主机拆解)
 1. [客户囤一箱连花清瘟被骑手吐槽](https://so.toutiao.com/search?keyword=客户囤一箱连花清瘟被骑手吐槽)
 1. [新冠不用布洛芬？这些谣言不可信](https://so.toutiao.com/search?keyword=新冠不用布洛芬？这些谣言不可信)
 1. [佩佩怒喷裁判：可以给阿根廷冠军了](https://so.toutiao.com/search?keyword=佩佩怒喷裁判：可以给阿根廷冠军了)
@@ -76,14 +80,13 @@
 1. [感染新冠后为什么会全身酸疼](https://so.toutiao.com/search?keyword=感染新冠后为什么会全身酸疼)
 1. [应对新冠症状的对症常用药物](https://so.toutiao.com/search?keyword=应对新冠症状的对症常用药物)
 1. [黄桃罐头遭疯抢 厂商：狂欢是短暂的](https://so.toutiao.com/search?keyword=黄桃罐头遭疯抢+厂商：狂欢是短暂的)
-1. [钟南山：建议及时接种疫苗加强针](https://so.toutiao.com/search?keyword=钟南山：建议及时接种疫苗加强针)
 <!-- END TOUTIAO -->
 
 
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Dec 12 2022 03:00:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 04:00:59 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -91,7 +94,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Dec 12 2022 03:00:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 04:00:59 GMT+0800 (China Standard Time) -->
 1. [法国淘汰英格兰晋级 4 强](https://www.zhihu.com/search?q=法国淘汰英格兰晋级 4 强)
 1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
 1. [钟南山：今年倡导就地过年的可能性很小](https://www.zhihu.com/search?q=钟南山：今年倡导就地过年的可能性很小)
@@ -106,16 +109,16 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Dec 12 2022 03:00:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 04:00:59 GMT+0800 (China Standard Time) -->
 1. [钟南山称得了奥密克戎相当于接种疫苗，重复感染在一段时间内大概率不会发生，如何从传染病学角度解读？](https://www.zhihu.com/question/571722167)
-1. [西安一小区垃圾堆成「隧道」，清理费高达一千万，社区回应「正协调解决，暂无方案」，目前当地情况如何？](https://www.zhihu.com/question/571252732)
 1. [30 岁小伙攒 100 万「提前退休」，本人回应称暂时休养，没钱会复出工作，如何看待他人生的这一抉择？](https://www.zhihu.com/question/571210117)
 1. [美退役军官称「乌军在巴赫穆特伤亡惨重，伤亡率高达 70% 」，如何评价这一数字？若属实对乌方意味什么？](https://www.zhihu.com/question/571454783)
+1. [西安一小区垃圾堆成「隧道」，清理费高达一千万，社区回应「正协调解决，暂无方案」，目前当地情况如何？](https://www.zhihu.com/question/571252732)
 1. [如何看待防疫调整后多地现「 购药热 」感冒及退烧药一度缺货，有必要抢药么？](https://www.zhihu.com/question/570727016)
-1. [因不满工资福利，《纽约时报》报道《纽约时报》工会罢工一天，英国，韩国也面临罢工麻烦，如何看待这一现象？](https://www.zhihu.com/question/571552865)
 1. [专家预计 1 个月内达到感染峰值，重症救治更考验医疗资源配置，怎样防止无症状、轻症感染者转向重症？](https://www.zhihu.com/question/571776237)
 1. [台式电脑插头以多快的速度拔开又插入不会断电关机?](https://www.zhihu.com/question/507787148)
 1. [俄罗斯正在扩大最具杀伤力武器的生产，其中也包括采用新物理原则的武器，哪些信息值得关注？](https://www.zhihu.com/question/571791092)
+1. [因不满工资福利，《纽约时报》报道《纽约时报》工会罢工一天，英国，韩国也面临罢工麻烦，如何看待这一现象？](https://www.zhihu.com/question/571552865)
 1. [美国一男子被发现是「新冠超级免疫者」，其血液稀释1 万倍仍能杀死病毒，如何看待此案例？有哪些科学依据？](https://www.zhihu.com/question/571791784)
 1. [很多人明明不住在农村，为什么还要回农村建房子？](https://www.zhihu.com/question/561752967)
 1. [如何看待《自然》论文研究者对熊去氧胆酸被称为「新冠终结者」的回应？](https://www.zhihu.com/question/571598079)
@@ -132,8 +135,8 @@
 1. [女子买连花清瘟被捆绑销售其它 5 种药品，医药行业该如何加强监管？疫情期间有哪些乱象？](https://www.zhihu.com/question/571776469)
 1. [李兰娟表示喝酒并不能防治新冠肺炎，关于疫情防护和治疗，还有哪些谣言需要认清和澄清？](https://www.zhihu.com/question/571751890)
 1. [吴尊友称新冠与流感有很多相同之处，如何区别和预防？](https://www.zhihu.com/question/571145807)
-1. [钟南山表示 2023 年春节还采用就地过年办法的可能性很小，春节春运将来临，该如何防护？](https://www.zhihu.com/question/571722736)
 1. [你收藏过哪些老古董电子产品?](https://www.zhihu.com/question/557809319)
+1. [钟南山表示 2023 年春节还采用就地过年办法的可能性很小，春节春运将来临，该如何防护？](https://www.zhihu.com/question/571722736)
 1. [台积电赴美设厂，对中美科技竞争格局有何影响？](https://www.zhihu.com/question/571775946)
 1. [有什么对现在大学生的建议？](https://www.zhihu.com/question/306275416)
 1. [空客A380已经停产，近日最后一架波音747也下线了，是否意味着美西方曾经领先的航空工业面临颓势？](https://www.zhihu.com/question/571228229)

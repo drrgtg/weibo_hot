@@ -13,7 +13,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Sep 10 2024 21:14:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 22:01:09 GMT+0800 (China Standard Time) -->
 1. [人大审议延迟退休年龄决定草案](https://so.toutiao.com/search?keyword=人大审议延迟退休年龄决定草案)
 1. [华为三折叠售价19999元起](https://so.toutiao.com/search?keyword=华为三折叠售价19999元起)
 1. [老师 您辛苦了！](https://so.toutiao.com/search?keyword=老师+您辛苦了！)
@@ -319,7 +319,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Sep 10 2024 21:14:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 22:01:09 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -327,17 +327,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Sep 10 2024 21:14:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 22:01:09 GMT+0800 (China Standard Time) -->
 1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [教师节快乐](https://www.zhihu.com/search?q=教师节快乐)
-1. [问界 M9](https://www.zhihu.com/search?q=问界 M9)
 1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=真正的狠人是什么样的)
-1. [智界R7](https://www.zhihu.com/search?q=智界R7)
 1. [国人平均每秒喝掉676杯奶茶](https://www.zhihu.com/search?q=国人平均每秒喝掉676杯奶茶)
 1. [C罗900球](https://www.zhihu.com/search?q=C罗900球)
 1. [我国将实施首次近地小行星防御任务](https://www.zhihu.com/search?q=我国将实施首次近地小行星防御任务)
 1. [拟允许在北上广等地设外商独资医院](https://www.zhihu.com/search?q=拟允许在北上广等地设外商独资医院)
 1. [LCK 夏季赛总决赛](https://www.zhihu.com/search?q=LCK 夏季赛总决赛)
+1. [郑钦文美网轰出 54 记排名第一](https://www.zhihu.com/search?q=郑钦文美网轰出 54 记排名第一)
+1. [HLE夺冠 ](https://www.zhihu.com/search?q=HLE夺冠 )
+1. [问界 M9](https://www.zhihu.com/search?q=问界 M9)
+1. [智界R7](https://www.zhihu.com/search?q=智界R7)
 1. [双十一 MiniLED 电视怎么选](https://www.zhihu.com/search?q=双十一 MiniLED 电视怎么选)
 1. [外商独资医院是什么意思](https://www.zhihu.com/search?q=外商独资医院是什么意思)
 1. [海南道路受损严重](https://www.zhihu.com/search?q=海南道路受损严重)
@@ -360,26 +362,41 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Sep 10 2024 21:14:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 22:01:09 GMT+0800 (China Standard Time) -->
 1. [如何评价华为 9 月 10 日举办的华为品牌盛典？](https://www.zhihu.com/question/666747249)
+1. [国足 18 强赛：中国男足主场迎战沙特，如何评价本场比赛？](https://www.zhihu.com/question/666751367)
 1. [天津警方通报「一女子因感情纠葛捅伤男子母亲致死」，已被依法刑拘，具体情况如何？她将承担怎样的法律责任？](https://www.zhihu.com/question/666643184)
-1. [2024 苹果发布会出现《王者荣耀世界》，宣布游戏明年登陆 iPhone，对此你有什么想说？](https://www.zhihu.com/question/666699804)
 1. [网传东北雨姐视频造假塌房，本人回应「视频是为盘锦的稻田蟹做宣传」，此举是否涉嫌虚假宣传？有何法律责任？](https://www.zhihu.com/question/666460835)
-1. [为什么在我看来RGB#0000FF是紫色？](https://www.zhihu.com/question/666434527)
 1. [空降领导带了自己团队来，双标得厉害怎么办?](https://www.zhihu.com/question/666505092)
-1. [《白夜追凶 2》（白夜破晓）首发预告， 原班人马回归，你对这部经典悬疑剧有什么期待？](https://www.zhihu.com/question/666733458)
-1. [多空转换的临界条件是什么？](https://www.zhihu.com/question/657901371)
+1. [丰巢快递柜靠滞留金 3 年半赚 8 个亿，丰巢真的赚钱了吗？智能快递柜真是一门好生意吗？](https://www.zhihu.com/question/666743464)
+1. [第一次去武汉旅行有哪些景点值得一去？](https://www.zhihu.com/question/570744956)
+1. [如何评价《战锤40k星际战士2》的全程普通话配音？](https://www.zhihu.com/question/666275362)
 1. [网上清一色说网文行业已经饱和了，是否真的没有机会了?](https://www.zhihu.com/question/648975005)
+1. [为什么在我看来RGB#0000FF是紫色？](https://www.zhihu.com/question/666434527)
+1. [多空转换的临界条件是什么？](https://www.zhihu.com/question/657901371)
+1. [《白夜追凶 2》（白夜破晓）首发预告， 原班人马回归，你对这部经典悬疑剧有什么期待？](https://www.zhihu.com/question/666733458)
+1. [2024 苹果发布会出现《王者荣耀世界》，宣布游戏明年登陆 iPhone，对此你有什么想说？](https://www.zhihu.com/question/666699804)
+1. [气温40度，办公室新同事把空调关了并说：“我身体不好，吹不了空调，希望大家理解！”你怎么高情商回答？](https://www.zhihu.com/question/666691632)
+1. [华为发布全球首款三折叠屏手机，售价 19999 元起，顶配 23999 元，怎样评价它的配置和售价？](https://www.zhihu.com/question/666752927)
+1. [做一名房东是怎样一种体验?](https://www.zhihu.com/question/36889096)
 1. [RNG 官推发文「相信我，你无法想象我们下赛季的阵容升级」你觉得他们能整出什么新活儿？](https://www.zhihu.com/question/666741485)
+1. [如何看待老人文殊院拜佛推猫，被截图带轰飞打飞等字样被全网网爆？](https://www.zhihu.com/question/666400319)
 1. [你更喜欢《脱口秀和Ta的朋友们》还是《喜剧大王单口季》？](https://www.zhihu.com/question/665129412)
+1. [为什么vae效果不好，但vae+diffusion效果就好了？](https://www.zhihu.com/question/649097976)
+1. [神宗一郎为什么会被樱木花道防出心理阴影？](https://www.zhihu.com/question/666117041)
+1. [如何用 AI 为科研学习提效？](https://www.zhihu.com/question/666088182)
+1. [青岛有辅警疑未系安全带开私家车逆行，警方通报「涉事人员已停职」，暴露出哪些问题？](https://www.zhihu.com/question/666744279)
+1. [自动驾驶汽车涉及哪些技术？](https://www.zhihu.com/question/24506695)
+1. [为什么大道理都懂，就是过不好这一生？](https://www.zhihu.com/question/665968405)
+1. [水稻在赤道可以四熟吗？](https://www.zhihu.com/question/52910720)
+1. [普通人月薪过万真的很难吗？](https://www.zhihu.com/question/666444121)
+1. [如何评价东罗马最后一个王朝巴列奥略王朝？](https://www.zhihu.com/question/563739381)
+1. [如何看待华为发布的首款轿跑 SUV 智界 R7 预售价 26.8 万起？是否值得购买？](https://www.zhihu.com/question/666731288)
+1. [关系还比较好的同事，总是会让我不舒服，但还是天天中午饭搭子，怎么办？](https://www.zhihu.com/question/666020930)
 1. [目前都在说新能源电车，那氢能源汽车何时能像电车一样普及？](https://www.zhihu.com/question/666529994)
 1. [为什么读指令这么臭名昭著，游戏公司还是争相使用？](https://www.zhihu.com/question/666697565)
 1. [《黑神话：悟空》有机会拿到 TGA 年度最佳游戏奖吗？](https://www.zhihu.com/question/666161455)
-1. [气温40度，办公室新同事把空调关了并说：“我身体不好，吹不了空调，希望大家理解！”你怎么高情商回答？](https://www.zhihu.com/question/666691632)
-1. [华为发布全球首款三折叠屏手机，售价 19999 元起，顶配 23999 元，怎样评价它的配置和售价？](https://www.zhihu.com/question/666752927)
-1. [青岛有辅警疑未系安全带开私家车逆行，警方通报「涉事人员已停职」，暴露出哪些问题？](https://www.zhihu.com/question/666744279)
 1. [为什么人口大爆发的清朝，汉族人口越来越多，而汉蒙一家的满族人越来越少？](https://www.zhihu.com/question/571789240)
-1. [如何看待老人文殊院拜佛推猫，被截图带轰飞打飞等字样被全网网爆？](https://www.zhihu.com/question/666400319)
 1. [《喜人奇妙夜》呱呱乐团队的毕业大戏为什么被剪了？](https://www.zhihu.com/question/666364218)
 1. [多个养老机构「抢聘」毕业生，首批养老专业本科生为何这么抢手？其职业发展前景如何？](https://www.zhihu.com/question/666647367)
 1. [大学生，知道学习的重要性，但是没有动力，学习效率不高怎么办？](https://www.zhihu.com/question/666489057)
@@ -395,7 +412,6 @@
 1. [健身私教在课上全程都在看手机，要不要直接换掉私教？](https://www.zhihu.com/question/660659335)
 1. [如果有个NBA球员，场均5分5助5篮5抢5盖5犯5失误，上场25分钟，会是什么地位？](https://www.zhihu.com/question/666685945)
 1. [如何评价 iPhone 16 Pro 系列在影像上的升级，你对新机的拍摄体验有哪些期待？](https://www.zhihu.com/question/666699533)
-1. [普通人月薪过万真的很难吗？](https://www.zhihu.com/question/666444121)
 1. [沈阳激励外卖骑手「随手拍」监督食品安全问题，会带来哪些变化？有可能推广到更多城市吗？](https://www.zhihu.com/question/666558394)
 1. [如果《英雄联盟》卡牌大师的W技能改成稳定黄牌，卡牌大师会更强吗？](https://www.zhihu.com/question/645291273)
 1. [工作中处于摸鱼状态领导真的不知道吗？](https://www.zhihu.com/question/666058474)
@@ -403,7 +419,6 @@
 1. [《黑神话：悟空》里的「毒敌大王」他为什么怕血月？](https://www.zhihu.com/question/665619611)
 1. [想买 iPhone16 ，天猫苹果旗舰店的 24 期免息活动对想换手机的用户友好吗？](https://www.zhihu.com/question/666389807)
 1. [足球联赛「假赌黑」整治，44 人终身禁止从事足球行业，将带来哪些影响？](https://www.zhihu.com/question/666729595)
-1. [水稻在赤道可以四熟吗？](https://www.zhihu.com/question/52910720)
 1. [用造“行星发动机和地下城”的资源造宇宙飞船能不能救下更多的人？](https://www.zhihu.com/question/582029970)
 1. [公职人员中，为什么警察要叫警“官”？](https://www.zhihu.com/question/661919424)
 1. [如何评价方大同新歌《我不是农人》?](https://www.zhihu.com/question/666695559)
@@ -421,7 +436,6 @@
 1. [如何评价2024年9月米哈游《崩坏星穹铁道》2.5版本任务《碧羽飞黄射天狼》？](https://www.zhihu.com/question/666721503)
 1. [如果给你九千万，但是你需要到一个丧尸题材的电影/游戏中生存30天，你会选择什么电影/游戏？](https://www.zhihu.com/question/666252904)
 1. [如何评价 9 月 10 日发布的 iPhone 16  系列，哪些升级值得关注？](https://www.zhihu.com/question/666699170)
-1. [神宗一郎为什么会被樱木花道防出心理阴影？](https://www.zhihu.com/question/666117041)
 1. [游戏行业有多暴利？](https://www.zhihu.com/question/54400008)
 1. [麦克阿瑟为什么会被日本人尊敬？](https://www.zhihu.com/question/665778727)
 1. [怎么样评价电视剧《凡人歌》的剧情？为什么这部都市剧讨论度这么高？](https://www.zhihu.com/question/666314566)
@@ -430,12 +444,9 @@
 1. [如果你穿越到《战锤40K》并获得下例的四项技能，你会选哪四样？](https://www.zhihu.com/question/639257618)
 1. [电视剧中的哪个角色让你真实的心疼了？](https://www.zhihu.com/question/449979273)
 1. [《黑神话：悟空》估计热度能持续多久？](https://www.zhihu.com/question/665873567)
-1. [关系还比较好的同事，总是会让我不舒服，但还是天天中午饭搭子，怎么办？](https://www.zhihu.com/question/666020930)
 1. [王皓的球迷和张继科的球迷喜欢樊振东吗？](https://www.zhihu.com/question/666594740)
 1. [国足 18 强赛，第二轮对阵沙特，你对本场比赛有何期待？](https://www.zhihu.com/question/666637649)
-1. [为什么vae效果不好，但vae+diffusion效果就好了？](https://www.zhihu.com/question/649097976)
 1. [哪些电影到结尾了坏蛋依然逍遥法外？](https://www.zhihu.com/question/31856109)
-1. [为什么大道理都懂，就是过不好这一生？](https://www.zhihu.com/question/665968405)
 1. [济南一女生疑被同桌用铁锥扎数百下，教育局回应称「未达到校园霸凌标准」，校园霸凌的标准是什么？](https://www.zhihu.com/question/666641156)
 1. [伊朗总统提议迁都，「德黑兰问题太多了」，迁都基于什么考量？迁移后问题就能解决吗？](https://www.zhihu.com/question/666634392)
 1. [三只羊旗下主播沫沫被拘留，知情者称「去年 12 月在上海被带走，已关押很久」，具体情况如何？](https://www.zhihu.com/question/666575662)
@@ -444,7 +455,6 @@
 1. [成年男子手持棍棒进入《黑神话悟空》中，可以打过哪些敌人？](https://www.zhihu.com/question/666160598)
 1. [为什么手机要戴手机壳？](https://www.zhihu.com/question/633879791)
 1. [请问医生为什么周末拒绝给病人做手术？](https://www.zhihu.com/question/665849452)
-1. [如何用 AI 为科研学习提效？](https://www.zhihu.com/question/666088182)
 1. [《英雄联盟》前教练白色月牙开团高振宁，发生了什么？](https://www.zhihu.com/question/666650643)
 1. [今天是我国第40个教师节，你心目中的好老师是什么样的？有哪些令你终身难忘的老师吗？](https://www.zhihu.com/question/666626164)
 1. [女子未栓绳，宠物狗追小女孩吓哭，孩子爷爷摔死宠物狗，这样犯法吗?](https://www.zhihu.com/question/666302761)
@@ -452,7 +462,6 @@
 1. [《黑神话：悟空》中蛇将被斩，作为主人的真武大帝为何没有登场呢？](https://www.zhihu.com/question/665715747)
 1. [可以分享一下平凡生活里的小幸福吗？](https://www.zhihu.com/question/478867747)
 1. [大学生因一顿烧烤进 ICU 换了 5 次血，确诊为吉兰-巴雷综合征，诱发的因素有哪些？如何治疗？](https://www.zhihu.com/question/666577659)
-1. [如何评价东罗马最后一个王朝巴列奥略王朝？](https://www.zhihu.com/question/563739381)
 1. [什么样的教师节，对老师来说最有意义？](https://www.zhihu.com/question/666249960)
 1. [特朗普称「不使用美元的国家，将被征收 100% 关税」，怎样看待他的观点？会对美国大选带来哪些影响？](https://www.zhihu.com/question/666628390)
 1. [河北男孩骑行被碾压案司机妻子微博清空，家属回应「不便透露原因」，此案目前进展如何？](https://www.zhihu.com/question/666633656)

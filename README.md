@@ -13,64 +13,68 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sat Sep 14 2024 00:07:21 GMT+0800 (China Standard Time) -->
-1. [武警遭长矛戳嘴瞬间击毙暴徒](https://so.toutiao.com/search?keyword=武警遭长矛戳嘴瞬间击毙暴徒)
+<!-- 最后更新时间 Sat Sep 14 2024 01:00:38 GMT+0800 (China Standard Time) -->
 1. [何雷中将：若美为菲舰护航 我们有手段](https://so.toutiao.com/search?keyword=何雷中将：若美为菲舰护航+我们有手段)
+1. [武警遭长矛戳嘴瞬间击毙暴徒](https://so.toutiao.com/search?keyword=武警遭长矛戳嘴瞬间击毙暴徒)
 1. [“数”读75年来中国服务业焕“新”发展](https://so.toutiao.com/search?keyword=“数”读75年来中国服务业焕“新”发展)
 1. [博主谈中国歼16拦截澳P-8A影响](https://so.toutiao.com/search?keyword=博主谈中国歼16拦截澳P-8A影响)
 1. [逐步延至男63女55或58周岁退休](https://so.toutiao.com/search?keyword=逐步延至男63女55或58周岁退休)
 1. [腾讯回应办公室亲昵事件](https://so.toutiao.com/search?keyword=腾讯回应办公室亲昵事件)
 1. [延迟退休年龄方案对照表公布](https://so.toutiao.com/search?keyword=延迟退休年龄方案对照表公布)
 1. [妈妈抗癌失败去世 男孩回家后痛哭](https://so.toutiao.com/search?keyword=妈妈抗癌失败去世+男孩回家后痛哭)
-1. [京东将实现20薪](https://so.toutiao.com/search?keyword=京东将实现20薪)
-1. [福建舰内部画面首次公开](https://so.toutiao.com/search?keyword=福建舰内部画面首次公开)
-1. [《凡人歌》：婚姻家庭剧有了新三观](https://so.toutiao.com/search?keyword=《凡人歌》：婚姻家庭剧有了新三观)
-1. [女生网上晒手被网友劝查肝功能](https://so.toutiao.com/search?keyword=女生网上晒手被网友劝查肝功能)
-1. [苹果和华为都掉进了“创新怪圈”吗](https://so.toutiao.com/search?keyword=苹果和华为都掉进了“创新怪圈”吗)
-1. [碎花裙女生大勺哥被认定见义勇为](https://so.toutiao.com/search?keyword=碎花裙女生大勺哥被认定见义勇为)
-1. [陕西警方辟谣5人涉嫌杀害官员及家属](https://so.toutiao.com/search?keyword=陕西警方辟谣5人涉嫌杀害官员及家属)
 1. [水桶半夜从天花板掉下险砸中宝宝](https://so.toutiao.com/search?keyword=水桶半夜从天花板掉下险砸中宝宝)
+1. [女生网上晒手被网友劝查肝功能](https://so.toutiao.com/search?keyword=女生网上晒手被网友劝查肝功能)
+1. [《凡人歌》：婚姻家庭剧有了新三观](https://so.toutiao.com/search?keyword=《凡人歌》：婚姻家庭剧有了新三观)
 1. [普京：西方介入俄乌冲突是与俄开战](https://so.toutiao.com/search?keyword=普京：西方介入俄乌冲突是与俄开战)
+1. [福建舰内部画面首次公开](https://so.toutiao.com/search?keyword=福建舰内部画面首次公开)
+1. [京东将实现20薪](https://so.toutiao.com/search?keyword=京东将实现20薪)
+1. [陕西警方辟谣5人涉嫌杀害官员及家属](https://so.toutiao.com/search?keyword=陕西警方辟谣5人涉嫌杀害官员及家属)
+1. [碎花裙女生大勺哥被认定见义勇为](https://so.toutiao.com/search?keyword=碎花裙女生大勺哥被认定见义勇为)
+1. [苹果和华为都掉进了“创新怪圈”吗](https://so.toutiao.com/search?keyword=苹果和华为都掉进了“创新怪圈”吗)
 1. [吴谨言洪尧官宣结婚](https://so.toutiao.com/search?keyword=吴谨言洪尧官宣结婚)
-1. [国防部长会见出席北京香山论坛客人](https://so.toutiao.com/search?keyword=国防部长会见出席北京香山论坛客人)
 1. [杀妻欲藏尸冰柜案凶手被执行死刑](https://so.toutiao.com/search?keyword=杀妻欲藏尸冰柜案凶手被执行死刑)
-1. [军训教官让报数学生们立马四散抱树](https://so.toutiao.com/search?keyword=军训教官让报数学生们立马四散抱树)
-1. [日方公布对NHK中国播音员处理结果](https://so.toutiao.com/search?keyword=日方公布对NHK中国播音员处理结果)
-1. [男生拍篮球闯红灯过马路被撞](https://so.toutiao.com/search?keyword=男生拍篮球闯红灯过马路被撞)
-1. [新型战机已在辽宁舰放飞](https://so.toutiao.com/search?keyword=新型战机已在辽宁舰放飞)
 1. [扫黄现场女子大喊“我又没干嘛”](https://so.toutiao.com/search?keyword=扫黄现场女子大喊“我又没干嘛”)
-1. [云南人出门骑大象？有图有真“象”](https://so.toutiao.com/search?keyword=云南人出门骑大象？有图有真“象”)
-1. [景区回应游客在西藏投喂藏马熊](https://so.toutiao.com/search?keyword=景区回应游客在西藏投喂藏马熊)
-1. [王楚钦超级扣杀](https://so.toutiao.com/search?keyword=王楚钦超级扣杀)
-1. [辽宁一商铺发生闪爆致4伤](https://so.toutiao.com/search?keyword=辽宁一商铺发生闪爆致4伤)
-1. [俄罗斯出版第一本中学无人机教科书](https://so.toutiao.com/search?keyword=俄罗斯出版第一本中学无人机教科书)
-1. [男子拿剪刀拆快递险些戳到眼睛](https://so.toutiao.com/search?keyword=男子拿剪刀拆快递险些戳到眼睛)
-1. [陈幸同被张本美和逆转无缘四强](https://so.toutiao.com/search?keyword=陈幸同被张本美和逆转无缘四强)
+1. [国防部长会见出席北京香山论坛客人](https://so.toutiao.com/search?keyword=国防部长会见出席北京香山论坛客人)
+1. [日方公布对NHK中国播音员处理结果](https://so.toutiao.com/search?keyword=日方公布对NHK中国播音员处理结果)
 1. [普京如何评价中俄军事合作](https://so.toutiao.com/search?keyword=普京如何评价中俄军事合作)
+1. [景区回应游客在西藏投喂藏马熊](https://so.toutiao.com/search?keyword=景区回应游客在西藏投喂藏马熊)
+1. [男子拿剪刀拆快递险些戳到眼睛](https://so.toutiao.com/search?keyword=男子拿剪刀拆快递险些戳到眼睛)
+1. [新型战机已在辽宁舰放飞](https://so.toutiao.com/search?keyword=新型战机已在辽宁舰放飞)
+1. [云南人出门骑大象？有图有真“象”](https://so.toutiao.com/search?keyword=云南人出门骑大象？有图有真“象”)
+1. [男生拍篮球闯红灯过马路被撞](https://so.toutiao.com/search?keyword=男生拍篮球闯红灯过马路被撞)
+1. [军训教官让报数学生们立马四散抱树](https://so.toutiao.com/search?keyword=军训教官让报数学生们立马四散抱树)
 1. [香山论坛开幕 三军仪仗队帅气入场](https://so.toutiao.com/search?keyword=香山论坛开幕+三军仪仗队帅气入场)
-1. [坦克400汽油版实车到店实拍](https://so.toutiao.com/search?keyword=坦克400汽油版实车到店实拍)
-1. [知名超市冰鲜带鱼捕捞日期引质疑](https://so.toutiao.com/search?keyword=知名超市冰鲜带鱼捕捞日期引质疑)
-1. [于正曝吴谨言洪尧恋爱细节](https://so.toutiao.com/search?keyword=于正曝吴谨言洪尧恋爱细节)
-1. [校方回应大二学生称被要求搬至工厂](https://so.toutiao.com/search?keyword=校方回应大二学生称被要求搬至工厂)
-1. [《黑神话：悟空》总收入近65亿](https://so.toutiao.com/search?keyword=《黑神话：悟空》总收入近65亿)
-1. [国际油价跌回两年前](https://so.toutiao.com/search?keyword=国际油价跌回两年前)
-1. [老师改到抓鸭子作文让学生读了三遍](https://so.toutiao.com/search?keyword=老师改到抓鸭子作文让学生读了三遍)
-1. [金正恩视察核物质生产基地](https://so.toutiao.com/search?keyword=金正恩视察核物质生产基地)
-1. [花近2万买品牌月饼是假货 市监介入](https://so.toutiao.com/search?keyword=花近2万买品牌月饼是假货+市监介入)
+1. [柯文哲再被提讯 面对媒体一言不发](https://so.toutiao.com/search?keyword=柯文哲再被提讯+面对媒体一言不发)
+1. [女孩4岁半走失 17年后与家人团聚](https://so.toutiao.com/search?keyword=女孩4岁半走失+17年后与家人团聚)
+1. [王楚钦超级扣杀](https://so.toutiao.com/search?keyword=王楚钦超级扣杀)
 1. [辽宁舰战友们最初扛竹竿模拟起飞](https://so.toutiao.com/search?keyword=辽宁舰战友们最初扛竹竿模拟起飞)
-1. [周杰伦深圳演唱会无人机秀](https://so.toutiao.com/search?keyword=周杰伦深圳演唱会无人机秀)
+1. [辽宁一商铺发生闪爆致4伤](https://so.toutiao.com/search?keyword=辽宁一商铺发生闪爆致4伤)
+1. [广东：全力保障中秋假期交通出行](https://so.toutiao.com/search?keyword=广东：全力保障中秋假期交通出行)
+1. [于正曝吴谨言洪尧恋爱细节](https://so.toutiao.com/search?keyword=于正曝吴谨言洪尧恋爱细节)
+1. [老师改到抓鸭子作文让学生读了三遍](https://so.toutiao.com/search?keyword=老师改到抓鸭子作文让学生读了三遍)
+1. [坦克400汽油版实车到店实拍](https://so.toutiao.com/search?keyword=坦克400汽油版实车到店实拍)
+1. [《黑神话：悟空》总收入近65亿](https://so.toutiao.com/search?keyword=《黑神话：悟空》总收入近65亿)
 1. [台风贝碧嘉将在上海到福建沿海登陆](https://so.toutiao.com/search?keyword=台风贝碧嘉将在上海到福建沿海登陆)
+1. [金正恩视察核物质生产基地](https://so.toutiao.com/search?keyword=金正恩视察核物质生产基地)
+1. [知名超市冰鲜带鱼捕捞日期引质疑](https://so.toutiao.com/search?keyword=知名超市冰鲜带鱼捕捞日期引质疑)
+1. [俄罗斯出版第一本中学无人机教科书](https://so.toutiao.com/search?keyword=俄罗斯出版第一本中学无人机教科书)
+1. [周杰伦深圳演唱会无人机秀](https://so.toutiao.com/search?keyword=周杰伦深圳演唱会无人机秀)
+1. [三星电子计划全球大裁员](https://so.toutiao.com/search?keyword=三星电子计划全球大裁员)
 1. [博主锐评大众发布会语音演示翻车](https://so.toutiao.com/search?keyword=博主锐评大众发布会语音演示翻车)
+1. [陈幸同被张本美和逆转无缘四强](https://so.toutiao.com/search?keyword=陈幸同被张本美和逆转无缘四强)
+1. [俄称西方已解除乌使用远程武器限制](https://so.toutiao.com/search?keyword=俄称西方已解除乌使用远程武器限制)
+1. [国际油价跌回两年前](https://so.toutiao.com/search?keyword=国际油价跌回两年前)
+1. [校方回应大二学生称被要求搬至工厂](https://so.toutiao.com/search?keyword=校方回应大二学生称被要求搬至工厂)
+1. [花近2万买品牌月饼是假货 市监介入](https://so.toutiao.com/search?keyword=花近2万买品牌月饼是假货+市监介入)
 1. [在外商投资医院看病有啥不同](https://so.toutiao.com/search?keyword=在外商投资医院看病有啥不同)
 1. [长城魏建军谈中国足球和汽车](https://so.toutiao.com/search?keyword=长城魏建军谈中国足球和汽车)
-1. [柯文哲再被提讯 面对媒体一言不发](https://so.toutiao.com/search?keyword=柯文哲再被提讯+面对媒体一言不发)
 <!-- END TOUTIAO -->
 
 
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sat Sep 14 2024 00:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 14 2024 01:00:38 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,7 +82,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sat Sep 14 2024 00:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 14 2024 01:00:38 GMT+0800 (China Standard Time) -->
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
 1. [欧洲央行宣布降息25个基点](https://www.zhihu.com/search?q=欧洲央行宣布降息25个基点)
 1. [网传东北雨姐视频造假塌房](https://www.zhihu.com/search?q=网传东北雨姐视频造假塌房)
@@ -95,28 +99,37 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Sep 14 2024 00:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 14 2024 01:00:38 GMT+0800 (China Standard Time) -->
 1. [京东宣布再次启动加薪，零售集团和职能体系将用两年时间实现 20 薪，此时涨薪原因为何？将带来哪些影响？](https://www.zhihu.com/question/667021085)
 1. [如何看待财政部对普华永道开出「顶格」罚单，暂停经营业务 6 个月并撤销广州分所，还有哪些信息值得关注？](https://www.zhihu.com/question/667052226)
 1. [8月M2同比增长6.3%，前八个月社融增量21.9万亿元、人民币存款增加12.88万亿元，如何解读？](https://www.zhihu.com/question/667075139)
-1. [郑州一公司订 51 份黄焖鸡米饭超 20 人中毒，卫健委已介入，具体情况如何？](https://www.zhihu.com/question/666620313)
 1. [2 男子盗播超 8 万部剧获利 3.92 亿，被判有期徒刑 5 年 6 个月和 3 年，有何警示意义？](https://www.zhihu.com/question/666555680)
+1. [郑州一公司订 51 份黄焖鸡米饭超 20 人中毒，卫健委已介入，具体情况如何？](https://www.zhihu.com/question/666620313)
 1. [全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定](https://www.zhihu.com/question/719956044)
 1. [一组图读懂我国延迟退休政策 内附退休年龄查询方式→](https://www.zhihu.com/question/719970380)
-1. [如果进化论正确，为什么基因这座屎山没有变得更简洁？](https://www.zhihu.com/question/666758942)
-1. [如何评价绝区零1.2版本前瞻【火狱骑行】？](https://www.zhihu.com/question/666985146)
+1. [如何评价《绝区零》1.2前瞻节目？](https://www.zhihu.com/question/667076716)
 1. [草根法学生的出路在哪？](https://www.zhihu.com/question/666838377)
+1. [国家为什么不建个国家虚拟建筑库，把中国著名古建筑通过虚拟扫描成为建模，提供给制作3a游戏的人使用?](https://www.zhihu.com/question/665334963)
+1. [如何评价电视剧《凡人歌》中的那隽和李晓悦的感情？](https://www.zhihu.com/question/666389707)
+1. [网友挖出《黑神话：悟空》「四妹」删减台词，你觉得「四妹」部分的剧情会是怎样的一段故事？](https://www.zhihu.com/question/666738355)
 1. [《黑神话：悟空》里「六六村」的NPC，为什么只有这么几个？](https://www.zhihu.com/question/665544197)
+1. [为什么日本动漫的题材能够如此丰富?](https://www.zhihu.com/question/666887905)
 1. [如何评价孙千、翟子路主演电视剧《迎风的青春》？](https://www.zhihu.com/question/666553411)
+1. [为什么孙悟空明明只学了7年本事却基本无敌的存在？](https://www.zhihu.com/question/664292534)
+1. [新电脑需要下些什么软件？](https://www.zhihu.com/question/640888270)
 1. [如何自学传统武术?](https://www.zhihu.com/question/24714584)
 1. [吴谨言洪尧官宣结婚 ，二人曾合作《延禧攻略》《皓镧传》，对此你有哪些祝福？](https://www.zhihu.com/question/667033712)
-1. [比起心理咨询师/治疗师，你是否更愿意向「能提供情绪价值的 AI」诉说你的经历与情绪？](https://www.zhihu.com/question/666505810)
 1. [如何看待比亚迪员工数量突破90万？](https://www.zhihu.com/question/667033816)
 1. [疯狂小杨哥直播间售卖香港月饼，却被证实在香港买不到产地在广州，这是否对消费者存在误导？反映出哪些问题？](https://www.zhihu.com/question/666983310)
 1. [为什么会有那么多状元上北京大学光华管理学院?](https://www.zhihu.com/question/27785177)
-1. [即便在10年前天津很辉煌的时候，为什么也很少有人把天津列为一线城市？](https://www.zhihu.com/question/658130919)
+1. [如何评价绝区零1.2版本前瞻【火狱骑行】？](https://www.zhihu.com/question/666985146)
 1. [世界上最大的宫殿是故宫吗?](https://www.zhihu.com/question/65792489)
+1. [如果进化论正确，为什么基因这座屎山没有变得更简洁？](https://www.zhihu.com/question/666758942)
 1. [如何看待郑州一学校「教职工吃鲜肉学生吃冻碎肉」被官方通报，师生「同餐同菜」制度能否避免类似事件发生？](https://www.zhihu.com/question/667023480)
+1. [比起心理咨询师/治疗师，你是否更愿意向「能提供情绪价值的 AI」诉说你的经历与情绪？](https://www.zhihu.com/question/666505810)
+1. [唐宋八大家中，为什么宋代的几位文人都集中在了几乎同一个时期出现？](https://www.zhihu.com/question/27589485)
+1. [即便在10年前天津很辉煌的时候，为什么也很少有人把天津列为一线城市？](https://www.zhihu.com/question/658130919)
+1. [iPhone 16 系列 9 月 13 日 20 点开启预售，你会入手吗？你选择入手哪款？](https://www.zhihu.com/question/666970445)
 1. [普华永道因恒大问题被财政部和证监会合计罚没 4.41 亿元， 暂停经营业务 6 个月，带来哪些警示？](https://www.zhihu.com/question/667053269)
 1. [如果让你的老板来做你做的工作，他能做好吗？](https://www.zhihu.com/question/666677653)
 1. [如果你是领导，你喜欢「听话」的员工还是「有主见」的员工？](https://www.zhihu.com/question/666775098)
@@ -125,7 +138,6 @@
 1. [有什么非常需要耐心的游戏吗？](https://www.zhihu.com/question/660954177)
 1. [滴滴称 2024 上半年垫付 1.29 亿元给司机，均为乘客尚未支付车费，这种商业模式是否存在问题？](https://www.zhihu.com/question/666843160)
 1. [是不是该禁止新能源汽车进住宅地下车库？](https://www.zhihu.com/question/664703711)
-1. [iPhone 16 系列 9 月 13 日 20 点开启预售，你会入手吗？你选择入手哪款？](https://www.zhihu.com/question/666970445)
 <!-- END ZHIHUQUESTIONS -->
 
 

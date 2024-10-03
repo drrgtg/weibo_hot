@@ -13,26 +13,26 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Oct 04 2024 04:00:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 04 2024 05:00:45 GMT+0800 (China Standard Time) -->
 1. [舒马赫时隔11年首次公开露面](https://so.toutiao.com/search?keyword=舒马赫时隔11年首次公开露面)
 1. [巴菲特抛售3亿美元美国银行股票](https://so.toutiao.com/search?keyword=巴菲特抛售3亿美元美国银行股票)
 1. [清澈的爱 只为那抹中国红](https://so.toutiao.com/search?keyword=清澈的爱+只为那抹中国红)
 1. [中国记者向以色列代表发出灵魂拷问](https://so.toutiao.com/search?keyword=中国记者向以色列代表发出灵魂拷问)
 1. [美印拒绝后日本暂不推进亚洲版北约](https://so.toutiao.com/search?keyword=美印拒绝后日本暂不推进亚洲版北约)
-1. [男子吃野蘑菇炖肉出现幻觉昏迷3天](https://so.toutiao.com/search?keyword=男子吃野蘑菇炖肉出现幻觉昏迷3天)
+1. [住酒店如何躲避隐藏摄像头](https://so.toutiao.com/search?keyword=住酒店如何躲避隐藏摄像头)
 1. [中方反对以对联合国秘书长无端指责](https://so.toutiao.com/search?keyword=中方反对以对联合国秘书长无端指责)
-1. [张本智和被莫雷加德淘汰](https://so.toutiao.com/search?keyword=张本智和被莫雷加德淘汰)
-1. [石破茂因政治资金问题被检举](https://so.toutiao.com/search?keyword=石破茂因政治资金问题被检举)
 1. [中国公民从黎巴嫩撤离车顶贴国旗](https://so.toutiao.com/search?keyword=中国公民从黎巴嫩撤离车顶贴国旗)
+1. [石破茂因政治资金问题被检举](https://so.toutiao.com/search?keyword=石破茂因政治资金问题被检举)
+1. [专家：肥东不会再发生更大余震](https://so.toutiao.com/search?keyword=专家：肥东不会再发生更大余震)
 1. [中方警告一场全面战争一触即发](https://so.toutiao.com/search?keyword=中方警告一场全面战争一触即发)
-1. [俄航弹直冲乌军据点 几乎瞬间成废墟](https://so.toutiao.com/search?keyword=俄航弹直冲乌军据点+几乎瞬间成废墟)
 1. [北上广售楼处成黄金周最“烧钱”景点](https://so.toutiao.com/search?keyword=北上广售楼处成黄金周最“烧钱”景点)
+1. [俄航弹直冲乌军据点 几乎瞬间成废墟](https://so.toutiao.com/search?keyword=俄航弹直冲乌军据点+几乎瞬间成废墟)
 1. [美国：完全完全完全支持以色列](https://so.toutiao.com/search?keyword=美国：完全完全完全支持以色列)
 1. [河鲀都有毒？假的](https://so.toutiao.com/search?keyword=河鲀都有毒？假的)
 1. [股民连夜找回密码重启账户](https://so.toutiao.com/search?keyword=股民连夜找回密码重启账户)
 1. [卫星图显示以军最先进战机机库被炸](https://so.toutiao.com/search?keyword=卫星图显示以军最先进战机机库被炸)
 1. [摩根士丹利：中国股市可能再上涨15%](https://so.toutiao.com/search?keyword=摩根士丹利：中国股市可能再上涨15%)
-1. [《绑架游戏》曝“面具之下”预告](https://so.toutiao.com/search?keyword=《绑架游戏》曝“面具之下”预告)
+1. [外资想抢在A股开市前布局中国资产](https://so.toutiao.com/search?keyword=外资想抢在A股开市前布局中国资产)
 1. [网友称天猫购五粮液官方鉴定为假](https://so.toutiao.com/search?keyword=网友称天猫购五粮液官方鉴定为假)
 1. [贵州织金山体垮塌6人死亡](https://so.toutiao.com/search?keyword=贵州织金山体垮塌6人死亡)
 1. [俄代表：以色列扇了所有人耳光](https://so.toutiao.com/search?keyword=俄代表：以色列扇了所有人耳光)
@@ -42,37 +42,43 @@
 1. [车主高速上自动驾驶时盖被子睡觉](https://so.toutiao.com/search?keyword=车主高速上自动驾驶时盖被子睡觉)
 1. [为什么出去旅游女厕所永远在排队](https://so.toutiao.com/search?keyword=为什么出去旅游女厕所永远在排队)
 1. [伊朗与真主党清查以色列渗透](https://so.toutiao.com/search?keyword=伊朗与真主党清查以色列渗透)
-1. [汪峰太原演唱会太嗨了](https://so.toutiao.com/search?keyword=汪峰太原演唱会太嗨了)
-1. [印度男子围观爆破被飞石砸中身亡](https://so.toutiao.com/search?keyword=印度男子围观爆破被飞石砸中身亡)
+1. [印度两劫匪凌晨入室轮奸女住户](https://so.toutiao.com/search?keyword=印度两劫匪凌晨入室轮奸女住户)
+1. [媒体人：弗格多次安慰山东队新外援](https://so.toutiao.com/search?keyword=媒体人：弗格多次安慰山东队新外援)
 1. [伊朗议员集体高呼“美以去死”](https://so.toutiao.com/search?keyword=伊朗议员集体高呼“美以去死”)
-1. [俄冻结美金融机构约3.72亿美元资产](https://so.toutiao.com/search?keyword=俄冻结美金融机构约3.72亿美元资产)
+1. [伊藤美诚晋级WTT中国大满贯女单8强](https://so.toutiao.com/search?keyword=伊藤美诚晋级WTT中国大满贯女单8强)
 1. [美银：中国资产还有20%的涨幅](https://so.toutiao.com/search?keyword=美银：中国资产还有20%的涨幅)
 1. [拜登被曝与内塔尼亚胡“大声争论”](https://so.toutiao.com/search?keyword=拜登被曝与内塔尼亚胡“大声争论”)
-1. [伊藤美诚晋级WTT中国大满贯女单8强](https://so.toutiao.com/search?keyword=伊藤美诚晋级WTT中国大满贯女单8强)
-1. [多国表示坚定支持联合国秘书长工作](https://so.toutiao.com/search?keyword=多国表示坚定支持联合国秘书长工作)
-1. [伊朗妇女鼓励家人参战摧毁以色列](https://so.toutiao.com/search?keyword=伊朗妇女鼓励家人参战摧毁以色列)
-1. [外资想抢在A股开市前布局中国资产](https://so.toutiao.com/search?keyword=外资想抢在A股开市前布局中国资产)
-1. [印度两劫匪凌晨入室轮奸女住户](https://so.toutiao.com/search?keyword=印度两劫匪凌晨入室轮奸女住户)
-1. [伊朗总统：以方若还手将更强烈回应](https://so.toutiao.com/search?keyword=伊朗总统：以方若还手将更强烈回应)
-1. [专家：肥东不会再发生更大余震](https://so.toutiao.com/search?keyword=专家：肥东不会再发生更大余震)
-1. [俄扣押美国两家银行数亿美元资金](https://so.toutiao.com/search?keyword=俄扣押美国两家银行数亿美元资金)
 1. [国庆龙门石窟景区人山人海](https://so.toutiao.com/search?keyword=国庆龙门石窟景区人山人海)
+1. [一线城市楼市火热：一天卖四五十套](https://so.toutiao.com/search?keyword=一线城市楼市火热：一天卖四五十套)
+1. [伊朗总统：以方若还手将更强烈回应](https://so.toutiao.com/search?keyword=伊朗总统：以方若还手将更强烈回应)
+1. [外媒：拜登与哈里斯面临三大新考验](https://so.toutiao.com/search?keyword=外媒：拜登与哈里斯面临三大新考验)
+1. [俄扣押美国两家银行数亿美元资金](https://so.toutiao.com/search?keyword=俄扣押美国两家银行数亿美元资金)
+1. [伊朗妇女鼓励家人参战摧毁以色列](https://so.toutiao.com/search?keyword=伊朗妇女鼓励家人参战摧毁以色列)
+1. [多国表示坚定支持联合国秘书长工作](https://so.toutiao.com/search?keyword=多国表示坚定支持联合国秘书长工作)
+1. [黄山山顶餐饮最低10块多](https://so.toutiao.com/search?keyword=黄山山顶餐饮最低10块多)
+1. [黎外长：真主党领导人死前同意停火](https://so.toutiao.com/search?keyword=黎外长：真主党领导人死前同意停火)
+1. [汪峰太原演唱会太嗨了](https://so.toutiao.com/search?keyword=汪峰太原演唱会太嗨了)
+1. [俄称别尔哥罗德州遭乌方袭击致4死](https://so.toutiao.com/search?keyword=俄称别尔哥罗德州遭乌方袭击致4死)
+1. [西班牙首相向联合国秘书长表示支持](https://so.toutiao.com/search?keyword=西班牙首相向联合国秘书长表示支持)
+1. [男子航拍国庆高速堵车不知源头在哪](https://so.toutiao.com/search?keyword=男子航拍国庆高速堵车不知源头在哪)
+1. [私家车机盖没关好 后车一路呼喊提醒](https://so.toutiao.com/search?keyword=私家车机盖没关好+后车一路呼喊提醒)
+1. [俄无人机在库尔斯克炸毁乌装甲车](https://so.toutiao.com/search?keyword=俄无人机在库尔斯克炸毁乌装甲车)
+1. [国庆长沙到底有多挤](https://so.toutiao.com/search?keyword=国庆长沙到底有多挤)
+1. [男子吃野蘑菇炖肉出现幻觉昏迷3天](https://so.toutiao.com/search?keyword=男子吃野蘑菇炖肉出现幻觉昏迷3天)
+1. [张本智和被莫雷加德淘汰](https://so.toutiao.com/search?keyword=张本智和被莫雷加德淘汰)
+1. [《绑架游戏》曝“面具之下”预告](https://so.toutiao.com/search?keyword=《绑架游戏》曝“面具之下”预告)
+1. [印度男子围观爆破被飞石砸中身亡](https://so.toutiao.com/search?keyword=印度男子围观爆破被飞石砸中身亡)
+1. [俄冻结美金融机构约3.72亿美元资产](https://so.toutiao.com/search?keyword=俄冻结美金融机构约3.72亿美元资产)
 1. [宝宝不小心踢翻奶瓶自己打扫卫生](https://so.toutiao.com/search?keyword=宝宝不小心踢翻奶瓶自己打扫卫生)
 1. [专家：美若直接介入中东或引大战](https://so.toutiao.com/search?keyword=专家：美若直接介入中东或引大战)
-1. [黄山山顶餐饮最低10块多](https://so.toutiao.com/search?keyword=黄山山顶餐饮最低10块多)
-1. [国庆长沙到底有多挤](https://so.toutiao.com/search?keyword=国庆长沙到底有多挤)
 1. [中东危局：伊朗与以色列冲突加剧](https://so.toutiao.com/search?keyword=中东危局：伊朗与以色列冲突加剧)
-1. [私家车机盖没关好 后车一路呼喊提醒](https://so.toutiao.com/search?keyword=私家车机盖没关好+后车一路呼喊提醒)
 1. [莫雷加德：赢张本报了奥运一箭之仇](https://so.toutiao.com/search?keyword=莫雷加德：赢张本报了奥运一箭之仇)
 1. [英国一家五口被国庆人群震撼](https://so.toutiao.com/search?keyword=英国一家五口被国庆人群震撼)
 1. [国庆档两部影片撤档](https://so.toutiao.com/search?keyword=国庆档两部影片撤档)
 1. [成毅方回应吊威亚摔在台阶上](https://so.toutiao.com/search?keyword=成毅方回应吊威亚摔在台阶上)
-1. [西班牙首相向联合国秘书长表示支持](https://so.toutiao.com/search?keyword=西班牙首相向联合国秘书长表示支持)
 1. [卡塔尔批以色列在加沙实施种族灭绝](https://so.toutiao.com/search?keyword=卡塔尔批以色列在加沙实施种族灭绝)
-1. [黎外长：真主党领导人死前同意停火](https://so.toutiao.com/search?keyword=黎外长：真主党领导人死前同意停火)
 1. [2024年国庆档票房破12亿](https://so.toutiao.com/search?keyword=2024年国庆档票房破12亿)
 1. [博主回应哀牢山“疑似凶兽”是树根](https://so.toutiao.com/search?keyword=博主回应哀牢山“疑似凶兽”是树根)
-1. [男子航拍国庆高速堵车不知源头在哪](https://so.toutiao.com/search?keyword=男子航拍国庆高速堵车不知源头在哪)
 1. [洛阳重渡沟情绪价值直接给满](https://so.toutiao.com/search?keyword=洛阳重渡沟情绪价值直接给满)
 1. [约旦男子用伊朗导弹碎片点烟](https://so.toutiao.com/search?keyword=约旦男子用伊朗导弹碎片点烟)
 1. [蚊子包一直不下去 女生直接用针扎](https://so.toutiao.com/search?keyword=蚊子包一直不下去+女生直接用针扎)
@@ -94,7 +100,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Oct 04 2024 04:00:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 04 2024 05:00:45 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -102,7 +108,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Oct 04 2024 04:00:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 04 2024 05:00:45 GMT+0800 (China Standard Time) -->
 1. [郑钦文](https://www.zhihu.com/search?q=郑钦文)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=上海海港vs上海申花)
@@ -119,20 +125,20 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Oct 04 2024 04:00:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 04 2024 05:00:45 GMT+0800 (China Standard Time) -->
 1. [你所生活的这个地方，曾在哪一刻打动过你？什么时候，你突然发现这里其实很「可爱」？](https://www.zhihu.com/question/667514842)
 1. [如何评价贝莱德投资研究所表示，将中国股票的评级从中性上调至超配?](https://www.zhihu.com/question/710651180)
 1. [如何看待电影《出入平安》撤出 2024 国庆档，称「电影在上映期间遭遇到了前所未有的困难和挑战」？](https://www.zhihu.com/question/731085243)
-1. [做生意的本质究竟是什么？](https://www.zhihu.com/question/661898402)
-1. [《黑神话：悟空》的战斗系统属于什么梯队？](https://www.zhihu.com/question/664874072)
 1. [杭州女生付完 6 元餐具费后打包带走碗筷，此举合法吗？如何看待此事？](https://www.zhihu.com/question/722168940)
 1. [为什么突厥人统治了印度一千余年，印度却完全看不到任何突厥化痕迹？](https://www.zhihu.com/question/624726803)
+1. [做生意的本质究竟是什么？](https://www.zhihu.com/question/661898402)
 1. [S14瑞士轮GEN 1:0 WBG，如何评价这场比赛？](https://www.zhihu.com/question/731517922)
-1. [西方面包已经成为国人日常食物，食用频率不低于饺子馒头，后者却没在外域流传开，是说明国人对吃的开放博采？](https://www.zhihu.com/question/267835749)
-1. [S14 瑞士轮首日 TES 1:0 T1 拿下开门红，如何评价这场比赛？](https://www.zhihu.com/question/730910020)
 1. [为什么我会特别讨厌「讨好型性格的人」？这样的心态底层隐藏着怎样的原因？](https://www.zhihu.com/question/671400754)
 1. [《流浪地球3》会不会设定人类叛军是没有知识的文盲且一心争权夺利的野心家的烂活？](https://www.zhihu.com/question/667570640)
+1. [《黑神话：悟空》的战斗系统属于什么梯队？](https://www.zhihu.com/question/664874072)
+1. [西方面包已经成为国人日常食物，食用频率不低于饺子馒头，后者却没在外域流传开，是说明国人对吃的开放博采？](https://www.zhihu.com/question/267835749)
 1. [如何评价wtt北京大满贯张本智和对莫雷加德这场球?](https://www.zhihu.com/question/728312975)
+1. [S14 瑞士轮首日 TES 1:0 T1 拿下开门红，如何评价这场比赛？](https://www.zhihu.com/question/730910020)
 1. [如何看待《甄嬛传》中孟静娴这个人？](https://www.zhihu.com/question/447167009)
 1. [2024 国庆档电影如果只能看一部电影的话，你会推荐哪部？](https://www.zhihu.com/question/702547137)
 1. [普通人得到《死亡笔记》被发现的几率有多大？](https://www.zhihu.com/question/663813428)

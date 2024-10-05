@@ -13,64 +13,71 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Oct 06 2024 00:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 01:00:36 GMT+0800 (China Standard Time) -->
 1. [林诗栋：没想到能4-2赢下比赛](https://so.toutiao.com/search?keyword=林诗栋：没想到能4-2赢下比赛)
-1. [郑钦文带伤遗憾落败 无缘中网决赛](https://so.toutiao.com/search?keyword=郑钦文带伤遗憾落败+无缘中网决赛)
+1. [92岁志愿军女兵打靶10发97环](https://so.toutiao.com/search?keyword=92岁志愿军女兵打靶10发97环)
 1. [从国庆假期看文旅新趋势](https://so.toutiao.com/search?keyword=从国庆假期看文旅新趋势)
-1. [专家解读为何哀牢山是禁区](https://so.toutiao.com/search?keyword=专家解读为何哀牢山是禁区)
-1. [国庆黄山天都峰“人从众”](https://so.toutiao.com/search?keyword=国庆黄山天都峰“人从众”)
+1. [郑钦文带伤遗憾落败 无缘中网决赛](https://so.toutiao.com/search?keyword=郑钦文带伤遗憾落败+无缘中网决赛)
+1. [美联储：亏损已破2000亿美元](https://so.toutiao.com/search?keyword=美联储：亏损已破2000亿美元)
 1. [郑钦文谈滑倒：太累了精神不集中](https://so.toutiao.com/search?keyword=郑钦文谈滑倒：太累了精神不集中)
 1. [港股涨幅登顶 节后A股哪些板块稳](https://so.toutiao.com/search?keyword=港股涨幅登顶+节后A股哪些板块稳)
-1. [美联储：亏损已破2000亿美元](https://so.toutiao.com/search?keyword=美联储：亏损已破2000亿美元)
-1. [与“神十八”航天员共度国庆](https://so.toutiao.com/search?keyword=与“神十八”航天员共度国庆)
 1. [联合国秘书长发言人点名央视记者](https://so.toutiao.com/search?keyword=联合国秘书长发言人点名央视记者)
+1. [与“神十八”航天员共度国庆](https://so.toutiao.com/search?keyword=与“神十八”航天员共度国庆)
+1. [上海外滩特警小姐姐执勤 安全感拉满](https://so.toutiao.com/search?keyword=上海外滩特警小姐姐执勤+安全感拉满)
+1. [专家解读为何哀牢山是禁区](https://so.toutiao.com/search?keyword=专家解读为何哀牢山是禁区)
 1. [伊朗弹道导弹库存或超3000枚](https://so.toutiao.com/search?keyword=伊朗弹道导弹库存或超3000枚)
 1. [股市向上还有空间吗](https://so.toutiao.com/search?keyword=股市向上还有空间吗)
-1. [新娘四个闺蜜婚礼上突然“整活儿”](https://so.toutiao.com/search?keyword=新娘四个闺蜜婚礼上突然“整活儿”)
 1. [设施故障致游客悬空？景区辟谣](https://so.toutiao.com/search?keyword=设施故障致游客悬空？景区辟谣)
+1. [伊朗：未来仍可能适时回击以色列](https://so.toutiao.com/search?keyword=伊朗：未来仍可能适时回击以色列)
+1. [新娘四个闺蜜婚礼上突然“整活儿”](https://so.toutiao.com/search?keyword=新娘四个闺蜜婚礼上突然“整活儿”)
+1. [“禁区”哀牢山国庆假期堵车了](https://so.toutiao.com/search?keyword=“禁区”哀牢山国庆假期堵车了)
 1. [以色列总理将向全国发表电视讲话](https://so.toutiao.com/search?keyword=以色列总理将向全国发表电视讲话)
 1. [演唱会上被指表演划水 李玉刚道歉](https://so.toutiao.com/search?keyword=演唱会上被指表演划水+李玉刚道歉)
 1. [网友拍到新鲜牛肉挂上货架还在跳动](https://so.toutiao.com/search?keyword=网友拍到新鲜牛肉挂上货架还在跳动)
-1. [伊朗：未来仍可能适时回击以色列](https://so.toutiao.com/search?keyword=伊朗：未来仍可能适时回击以色列)
-1. [“禁区”哀牢山国庆假期堵车了](https://so.toutiao.com/search?keyword=“禁区”哀牢山国庆假期堵车了)
-1. [叙利亚防空系统拦截来自以色列空袭](https://so.toutiao.com/search?keyword=叙利亚防空系统拦截来自以色列空袭)
 1. [弟弟背姐姐出嫁因没经验摔倒](https://so.toutiao.com/search?keyword=弟弟背姐姐出嫁因没经验摔倒)
-1. [节后A股能否迎来开门红](https://so.toutiao.com/search?keyword=节后A股能否迎来开门红)
-1. [伊藤美诚说想赢孙颖莎一分都很难](https://so.toutiao.com/search?keyword=伊藤美诚说想赢孙颖莎一分都很难)
-1. [公安局长现身小西天景区：安全第一](https://so.toutiao.com/search?keyword=公安局长现身小西天景区：安全第一)
-1. [游客自驾罗布泊被困 弃车徒步求助](https://so.toutiao.com/search?keyword=游客自驾罗布泊被困+弃车徒步求助)
 1. [武汉一男子徒手爬大桥墩引围观](https://so.toutiao.com/search?keyword=武汉一男子徒手爬大桥墩引围观)
-1. [孙颖莎上演正手狂轰名场面](https://so.toutiao.com/search?keyword=孙颖莎上演正手狂轰名场面)
-1. [政策优化后多地商品房销量增长](https://so.toutiao.com/search?keyword=政策优化后多地商品房销量增长)
-1. [重温“东风快递”传奇开启瞬间](https://so.toutiao.com/search?keyword=重温“东风快递”传奇开启瞬间)
-1. [上海外滩特警小姐姐执勤 安全感拉满](https://so.toutiao.com/search?keyword=上海外滩特警小姐姐执勤+安全感拉满)
+1. [伊藤美诚说想赢孙颖莎一分都很难](https://so.toutiao.com/search?keyword=伊藤美诚说想赢孙颖莎一分都很难)
 1. [专家：以若攻击伊朗核设施后果严重](https://so.toutiao.com/search?keyword=专家：以若攻击伊朗核设施后果严重)
-1. [苹果CEO库克发文缅怀乔布斯](https://so.toutiao.com/search?keyword=苹果CEO库克发文缅怀乔布斯)
-1. [黄山景区护送未预订住宿的游客下山](https://so.toutiao.com/search?keyword=黄山景区护送未预订住宿的游客下山)
-1. [A股大涨后中产又开始自信起来了吗](https://so.toutiao.com/search?keyword=A股大涨后中产又开始自信起来了吗)
+1. [叙利亚防空系统拦截来自以色列空袭](https://so.toutiao.com/search?keyword=叙利亚防空系统拦截来自以色列空袭)
+1. [公安局长现身小西天景区：安全第一](https://so.toutiao.com/search?keyword=公安局长现身小西天景区：安全第一)
+1. [政策优化后多地商品房销量增长](https://so.toutiao.com/search?keyword=政策优化后多地商品房销量增长)
+1. [节后A股能否迎来开门红](https://so.toutiao.com/search?keyword=节后A股能否迎来开门红)
 1. [特朗普：以色列应该打击伊朗核设施](https://so.toutiao.com/search?keyword=特朗普：以色列应该打击伊朗核设施)
-1. [拜登：担心特朗普拒绝接受大选结果](https://so.toutiao.com/search?keyword=拜登：担心特朗普拒绝接受大选结果)
-1. [92岁志愿军女兵打靶10发97环](https://so.toutiao.com/search?keyword=92岁志愿军女兵打靶10发97环)
-1. [奥迪司机未被让行摇车窗骂人时追尾](https://so.toutiao.com/search?keyword=奥迪司机未被让行摇车窗骂人时追尾)
+1. [卢卡申科：乌领导层据称是美国人](https://so.toutiao.com/search?keyword=卢卡申科：乌领导层据称是美国人)
+1. [苹果CEO库克发文缅怀乔布斯](https://so.toutiao.com/search?keyword=苹果CEO库克发文缅怀乔布斯)
+1. [中东局势升级 以色列下个目标是什么](https://so.toutiao.com/search?keyword=中东局势升级+以色列下个目标是什么)
+1. [国庆黄山天都峰“人从众”](https://so.toutiao.com/search?keyword=国庆黄山天都峰“人从众”)
+1. [俄罗斯女孩远嫁山西小伙](https://so.toutiao.com/search?keyword=俄罗斯女孩远嫁山西小伙)
 1. [消息称真主党高级领导人萨菲丁身亡](https://so.toutiao.com/search?keyword=消息称真主党高级领导人萨菲丁身亡)
-1. [列车员推销化妆品因价格太贵放弃](https://so.toutiao.com/search?keyword=列车员推销化妆品因价格太贵放弃)
+1. [拜登：担心特朗普拒绝接受大选结果](https://so.toutiao.com/search?keyword=拜登：担心特朗普拒绝接受大选结果)
+1. [重温“东风快递”传奇开启瞬间](https://so.toutiao.com/search?keyword=重温“东风快递”传奇开启瞬间)
+1. [马龙4-0横扫梁靖崑进决赛](https://so.toutiao.com/search?keyword=马龙4-0横扫梁靖崑进决赛)
+1. [A股大涨后中产又开始自信起来了吗](https://so.toutiao.com/search?keyword=A股大涨后中产又开始自信起来了吗)
 1. [宠物狗走丢误上公交 司机驱赶引热议](https://so.toutiao.com/search?keyword=宠物狗走丢误上公交+司机驱赶引热议)
+1. [孙颖莎上演正手狂轰名场面](https://so.toutiao.com/search?keyword=孙颖莎上演正手狂轰名场面)
+1. [以色列会动手报复伊朗吗](https://so.toutiao.com/search?keyword=以色列会动手报复伊朗吗)
+1. [带娃出国旅游孩子只想回酒店挖沙](https://so.toutiao.com/search?keyword=带娃出国旅游孩子只想回酒店挖沙)
 1. [阿姨看完《志愿军》哽咽不已](https://so.toutiao.com/search?keyword=阿姨看完《志愿军》哽咽不已)
+1. [小西天迎超级人流量 副县长现场唱歌](https://so.toutiao.com/search?keyword=小西天迎超级人流量+副县长现场唱歌)
+1. [外滩这群“一拐警察”成别样风景](https://so.toutiao.com/search?keyword=外滩这群“一拐警察”成别样风景)
+1. [伊朗导弹袭击以空军基地破坏力如何](https://so.toutiao.com/search?keyword=伊朗导弹袭击以空军基地破坏力如何)
 1. [山东警方最高10万悬赏刑案嫌犯](https://so.toutiao.com/search?keyword=山东警方最高10万悬赏刑案嫌犯)
+1. [叙总统：伊朗打击以是给后者的教训](https://so.toutiao.com/search?keyword=叙总统：伊朗打击以是给后者的教训)
+1. [埃尔多安：以正将战火蔓延整个中东](https://so.toutiao.com/search?keyword=埃尔多安：以正将战火蔓延整个中东)
+1. [游客自驾罗布泊被困 弃车徒步求助](https://so.toutiao.com/search?keyword=游客自驾罗布泊被困+弃车徒步求助)
+1. [黄山景区护送未预订住宿的游客下山](https://so.toutiao.com/search?keyword=黄山景区护送未预订住宿的游客下山)
+1. [奥迪司机未被让行摇车窗骂人时追尾](https://so.toutiao.com/search?keyword=奥迪司机未被让行摇车窗骂人时追尾)
+1. [列车员推销化妆品因价格太贵放弃](https://so.toutiao.com/search?keyword=列车员推销化妆品因价格太贵放弃)
 1. [两男子把荷叶戴在脸上防晒](https://so.toutiao.com/search?keyword=两男子把荷叶戴在脸上防晒)
 1. [《日光之城》张桐这个女婿有多难当](https://so.toutiao.com/search?keyword=《日光之城》张桐这个女婿有多难当)
-1. [俄罗斯女孩远嫁山西小伙](https://so.toutiao.com/search?keyword=俄罗斯女孩远嫁山西小伙)
-1. [叙总统：伊朗打击以是给后者的教训](https://so.toutiao.com/search?keyword=叙总统：伊朗打击以是给后者的教训)
 1. [货车溜车 司机跳车撞到后面小车](https://so.toutiao.com/search?keyword=货车溜车+司机跳车撞到后面小车)
-1. [卢卡申科：乌领导层据称是美国人](https://so.toutiao.com/search?keyword=卢卡申科：乌领导层据称是美国人)
-1. [伊朗导弹袭击以空军基地破坏力如何](https://so.toutiao.com/search?keyword=伊朗导弹袭击以空军基地破坏力如何)
 <!-- END TOUTIAO -->
 
 
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Oct 06 2024 00:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 01:00:36 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,7 +85,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sun Oct 06 2024 00:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 01:00:36 GMT+0800 (China Standard Time) -->
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
 1. [我国制造业企业总量突破600万家](https://www.zhihu.com/search?q=我国制造业企业总量突破600万家)
@@ -95,37 +102,43 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Oct 06 2024 00:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 01:00:36 GMT+0800 (China Standard Time) -->
 1. [本轮牛市会如何收场？](https://www.zhihu.com/question/726049590)
 1. [美联储报告称亏损已破 2000 亿美元，美联储为何巨亏？2024 年还会大幅降息吗？](https://www.zhihu.com/question/747839098)
-1. [2024 WTT 北京大满贯女双决赛，陈幸同钱天一组合击败孙颖莎王艺迪组合夺冠，如何评价这场比赛？](https://www.zhihu.com/question/751028971)
 1. [如何评价美剧《黄石》？](https://www.zhihu.com/question/282564871)
-1. [S14 瑞士轮胜者组 LNG 2:0 DK 成为第一支锁定八强名额队伍，如何评价这场比赛？](https://www.zhihu.com/question/750069329)
-1. [为什么大型食肉动物都是无毒的？](https://www.zhihu.com/question/745758640)
-1. [对方主动给的和伸手要来的有什么不一样？](https://www.zhihu.com/question/644353571)
 1. [如果你的超能力是可以控制一条无限长的线，但线的直径只有一纳米，那你能做什么？](https://www.zhihu.com/question/741108731)
 1. [大学生在上课期间做了兼职，是否还要问家里要生活费？](https://www.zhihu.com/question/725477968)
 1. [自己一个人吃饭，你会做什么?](https://www.zhihu.com/question/280283392)
+1. [如何评价《黑神话：悟空》「马哥」这个 NPC？](https://www.zhihu.com/question/665619846)
 1. [如何看待2024年金摇杆中，《黑神话》仅获1项提名？](https://www.zhihu.com/question/742539700)
+1. [为什么大型食肉动物都是无毒的？](https://www.zhihu.com/question/745758640)
 1. [马龙战胜队友梁靖崑，晋级 WTT 中国大满贯男单决赛，将对阵林诗栋，如何评价这场比赛？](https://www.zhihu.com/question/750556170)
-1. [当你去面试时，面试官说：“你前面一位面试者是清华毕业的，为什么我要录取你而不是他呢”，该如何回答？](https://www.zhihu.com/question/735366470)
 1. [为什么王语嫣会认为段誉会是天下第一？](https://www.zhihu.com/question/603262456)
+1. [2024 WTT 北京大满贯女双决赛，陈幸同钱天一组合击败孙颖莎王艺迪组合夺冠，如何评价这场比赛？](https://www.zhihu.com/question/751028971)
+1. [对方主动给的和伸手要来的有什么不一样？](https://www.zhihu.com/question/644353571)
+1. [S14 瑞士轮胜者组 LNG 2:0 DK 成为第一支锁定八强名额队伍，如何评价这场比赛？](https://www.zhihu.com/question/750069329)
+1. [当你去面试时，面试官说：“你前面一位面试者是清华毕业的，为什么我要录取你而不是他呢”，该如何回答？](https://www.zhihu.com/question/735366470)
 1. [「嫉妒心」的本质是什么？](https://www.zhihu.com/question/671404236)
 1. [消息称腾讯和 Guillemot 家族考虑收购育碧，可能性有多大？](https://www.zhihu.com/question/746299078)
 1. [如何评价向佐、郭碧婷主演的武侠电影《门前宝地》？](https://www.zhihu.com/question/666381366)
 1. [如何评价网飞电影《饥饿站台 2》？](https://www.zhihu.com/question/739640621)
-1. [怎么做才能不被领导轻松拿捏?](https://www.zhihu.com/question/732468109)
 1. [郑钦文带伤遗憾落败，止步中网女单四强，赛中受伤对其比赛影响有多大？如何评价这场比赛？](https://www.zhihu.com/question/750574932)
+1. [怎么做才能不被领导轻松拿捏?](https://www.zhihu.com/question/732468109)
 1. [建国时期的影视剧，骑自行车都先滑行一段再迈步上车，现在大家骑车为什么不用这种方式了？](https://www.zhihu.com/question/605318585)
 1. [优质男大部分真的都在大学里被女生预定了吗？](https://www.zhihu.com/question/657376611)
+1. [你见过最好看的字是什么样子的？](https://www.zhihu.com/question/371404904)
+1. [为什么电影里哈利·波特知道自己爸爸欺凌斯内普后却没有一句道歉？](https://www.zhihu.com/question/491295786)
+1. [知道《黑神话:悟空》好，但好到什么程度？](https://www.zhihu.com/question/618282357)
+1. [大家喜欢城市生活还是农村生活？](https://www.zhihu.com/question/731061168)
+1. [长期不运动的人身体会怎么样？](https://www.zhihu.com/question/660247055)
+1. [如何看待 OpenAI 以 1570 亿美元估值融资 66 亿美元，成为硅谷史上最大的一次融资？](https://www.zhihu.com/question/731705384)
+1. [王楚钦/梁靖崑获 WTT 中国大满贯赛男双冠军，如何评价这场比赛？](https://www.zhihu.com/question/747854256)
 1. [奥运会乒乓球队员，你最喜欢谁？](https://www.zhihu.com/question/663577344)
 1. [23-24 赛季 NBA 季前赛森林狼 124:107 湖人，如何评价这场比赛？](https://www.zhihu.com/question/746038182)
 1. [国乒新生代焦点战，林诗栋 4:2 向鹏晋级 2024 WTT 中国大满贯男单决赛，如何评价本场比赛？](https://www.zhihu.com/question/745372270)
 1. [有没有哪个瞬间，让你突然爱上了某项运动？](https://www.zhihu.com/question/666758457)
 1. [S14 瑞士轮 1-1 组 BLG vs T1 谁能赢？](https://www.zhihu.com/question/745280106)
-1. [长期不运动的人身体会怎么样？](https://www.zhihu.com/question/660247055)
 1. [为什么以稳定著称的intel处理器近些年老出问题?](https://www.zhihu.com/question/669871770)
-1. [王楚钦/梁靖崑获 WTT 中国大满贯赛男双冠军，如何评价这场比赛？](https://www.zhihu.com/question/747854256)
 <!-- END ZHIHUQUESTIONS -->
 
 

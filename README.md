@@ -13,63 +13,65 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Dec 02 2024 04:01:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 05:00:43 GMT+0800 (China Standard Time) -->
 1. [航拍叙利亚战场：多人举枪指天喊号](https://so.toutiao.com/search?keyword=航拍叙利亚战场：多人举枪指天喊号)
-1. [罗斯柴尔德家族一成员死于火灾](https://so.toutiao.com/search?keyword=罗斯柴尔德家族一成员死于火灾)
-1. [让文化资源优势转化为文化发展优势](https://so.toutiao.com/search?keyword=让文化资源优势转化为文化发展优势)
 1. [闯进居民家被杀黑熊尸体将用于科研](https://so.toutiao.com/search?keyword=闯进居民家被杀黑熊尸体将用于科研)
+1. [让文化资源优势转化为文化发展优势](https://so.toutiao.com/search?keyword=让文化资源优势转化为文化发展优势)
+1. [罗斯柴尔德家族一成员死于火灾](https://so.toutiao.com/search?keyword=罗斯柴尔德家族一成员死于火灾)
 1. [省委原常委落马后 其妻追讨5千万债务](https://so.toutiao.com/search?keyword=省委原常委落马后+其妻追讨5千万债务)
 1. [日本首相石破茂遭遇车祸](https://so.toutiao.com/search?keyword=日本首相石破茂遭遇车祸)
 1. [叙利亚总统巴沙尔处境如何](https://so.toutiao.com/search?keyword=叙利亚总统巴沙尔处境如何)
 1. [“艾滋夫妇”确诊感染后的第20年](https://so.toutiao.com/search?keyword=“艾滋夫妇”确诊感染后的第20年)
-1. [日本宣布军援菲律宾等四国](https://so.toutiao.com/search?keyword=日本宣布军援菲律宾等四国)
 1. [新疆塔克拉玛干沙漠开始产珍珠了](https://so.toutiao.com/search?keyword=新疆塔克拉玛干沙漠开始产珍珠了)
+1. [A股传来五大利好 12月行情如何](https://so.toutiao.com/search?keyword=A股传来五大利好+12月行情如何)
 1. [叙利亚叛军推倒叙总统兄长雕像](https://so.toutiao.com/search?keyword=叙利亚叛军推倒叙总统兄长雕像)
 1. [泽连斯基开出停火条件 俄方回应](https://so.toutiao.com/search?keyword=泽连斯基开出停火条件+俄方回应)
-1. [A股传来五大利好 12月行情如何](https://so.toutiao.com/search?keyword=A股传来五大利好+12月行情如何)
-1. [58岁丈夫讲述熊口救妻搏斗过程](https://so.toutiao.com/search?keyword=58岁丈夫讲述熊口救妻搏斗过程)
-1. [多地大米重金属镉超标？假的](https://so.toutiao.com/search?keyword=多地大米重金属镉超标？假的)
-1. [人民网评胖东来彩礼事件](https://so.toutiao.com/search?keyword=人民网评胖东来彩礼事件)
-1. [三问叙利亚为何重燃大规模冲突](https://so.toutiao.com/search?keyword=三问叙利亚为何重燃大规模冲突)
-1. [男子42万买到6个8手机号：捡大便宜](https://so.toutiao.com/search?keyword=男子42万买到6个8手机号：捡大便宜)
 1. [周红波任南京市委书记](https://so.toutiao.com/search?keyword=周红波任南京市委书记)
-1. [专家：石破茂“亚洲版北约”梦碎](https://so.toutiao.com/search?keyword=专家：石破茂“亚洲版北约”梦碎)
+1. [人民网评胖东来彩礼事件](https://so.toutiao.com/search?keyword=人民网评胖东来彩礼事件)
+1. [多地大米重金属镉超标？假的](https://so.toutiao.com/search?keyword=多地大米重金属镉超标？假的)
+1. [58岁丈夫讲述熊口救妻搏斗过程](https://so.toutiao.com/search?keyword=58岁丈夫讲述熊口救妻搏斗过程)
 1. [泽连斯基为何改口希望乌部分入约](https://so.toutiao.com/search?keyword=泽连斯基为何改口希望乌部分入约)
-1. [外交部回应赖清德“过境”夏威夷](https://so.toutiao.com/search?keyword=外交部回应赖清德“过境”夏威夷)
-1. [华为Mate 70 Pro+使用体验](https://so.toutiao.com/search?keyword=华为Mate+70 Pro+使用体验)
-1. [特朗普当选美国总统有何影响](https://so.toutiao.com/search?keyword=特朗普当选美国总统有何影响)
-1. [马龙现身台北101 董事长亲自接待](https://so.toutiao.com/search?keyword=马龙现身台北101+董事长亲自接待)
-1. [俄军空袭阿勒颇叙反对派武装据点](https://so.toutiao.com/search?keyword=俄军空袭阿勒颇叙反对派武装据点)
-1. [独居母亲不慎摔倒 儿子越洋报警](https://so.toutiao.com/search?keyword=独居母亲不慎摔倒+儿子越洋报警)
-1. [刀郎献唱回应厦金大桥刀迷](https://so.toutiao.com/search?keyword=刀郎献唱回应厦金大桥刀迷)
-1. [俄专家：叙利亚局势进入危险节点](https://so.toutiao.com/search?keyword=俄专家：叙利亚局势进入危险节点)
+1. [日本宣布军援菲律宾等四国](https://so.toutiao.com/search?keyword=日本宣布军援菲律宾等四国)
+1. [专家：石破茂“亚洲版北约”梦碎](https://so.toutiao.com/search?keyword=专家：石破茂“亚洲版北约”梦碎)
 1. [仨导游强迫游客购买自费项目被判刑](https://so.toutiao.com/search?keyword=仨导游强迫游客购买自费项目被判刑)
-1. [国台办：台当局买武器买不来安全](https://so.toutiao.com/search?keyword=国台办：台当局买武器买不来安全)
+1. [俄军空袭阿勒颇叙反对派武装据点](https://so.toutiao.com/search?keyword=俄军空袭阿勒颇叙反对派武装据点)
+1. [特朗普当选美国总统有何影响](https://so.toutiao.com/search?keyword=特朗普当选美国总统有何影响)
+1. [外交部回应赖清德“过境”夏威夷](https://so.toutiao.com/search?keyword=外交部回应赖清德“过境”夏威夷)
+1. [独居母亲不慎摔倒 儿子越洋报警](https://so.toutiao.com/search?keyword=独居母亲不慎摔倒+儿子越洋报警)
+1. [华为Mate 70 Pro+使用体验](https://so.toutiao.com/search?keyword=华为Mate+70 Pro+使用体验)
+1. [三问叙利亚为何重燃大规模冲突](https://so.toutiao.com/search?keyword=三问叙利亚为何重燃大规模冲突)
+1. [刀郎献唱回应厦金大桥刀迷](https://so.toutiao.com/search?keyword=刀郎献唱回应厦金大桥刀迷)
+1. [乌方因电力短缺已向五国求援](https://so.toutiao.com/search?keyword=乌方因电力短缺已向五国求援)
+1. [俄专家：叙利亚局势进入危险节点](https://so.toutiao.com/search?keyword=俄专家：叙利亚局势进入危险节点)
 1. [国考开考：拟招近4万人超340万过审](https://so.toutiao.com/search?keyword=国考开考：拟招近4万人超340万过审)
 1. [河南三门峡突发山体滑塌致铁路被埋](https://so.toutiao.com/search?keyword=河南三门峡突发山体滑塌致铁路被埋)
 1. [叙总统：叙利亚能击败所有恐怖分子](https://so.toutiao.com/search?keyword=叙总统：叙利亚能击败所有恐怖分子)
-1. [外交部回应美对台3.85亿美元军售](https://so.toutiao.com/search?keyword=外交部回应美对台3.85亿美元军售)
-1. [特朗普提名亲家公库什纳为驻法大使](https://so.toutiao.com/search?keyword=特朗普提名亲家公库什纳为驻法大使)
-1. [阿联酋总统与叙利亚总统通电话](https://so.toutiao.com/search?keyword=阿联酋总统与叙利亚总统通电话)
-1. [乌方因电力短缺已向五国求援](https://so.toutiao.com/search?keyword=乌方因电力短缺已向五国求援)
-1. [去年全球新增艾滋病感染者130万](https://so.toutiao.com/search?keyword=去年全球新增艾滋病感染者130万)
-1. [叙利亚政府军：撤出哈马消息不属实](https://so.toutiao.com/search?keyword=叙利亚政府军：撤出哈马消息不属实)
-1. [鹿晗一天吃一顿每天跑十公里](https://so.toutiao.com/search?keyword=鹿晗一天吃一顿每天跑十公里)
-1. [今年已有53名中管干部被查](https://so.toutiao.com/search?keyword=今年已有53名中管干部被查)
-1. [叙利亚反对派为何此时展开攻势](https://so.toutiao.com/search?keyword=叙利亚反对派为何此时展开攻势)
-1. [鄢手骐3中2拿到5分4抢断](https://so.toutiao.com/search?keyword=鄢手骐3中2拿到5分4抢断)
-1. [俄回应西方欲派10万维和部队进乌](https://so.toutiao.com/search?keyword=俄回应西方欲派10万维和部队进乌)
-1. [专家：不排除叙利亚再次内战的可能](https://so.toutiao.com/search?keyword=专家：不排除叙利亚再次内战的可能)
-1. [马龙现身日月潭与粉丝击掌握手](https://so.toutiao.com/search?keyword=马龙现身日月潭与粉丝击掌握手)
-1. [辽篮外援威尔斯21投11中砍28分](https://so.toutiao.com/search?keyword=辽篮外援威尔斯21投11中砍28分)
-1. [李行亮遭抵制 商场删除官宣视频](https://so.toutiao.com/search?keyword=李行亮遭抵制+商场删除官宣视频)
-1. [中国正推进研发新一代“超级高铁”](https://so.toutiao.com/search?keyword=中国正推进研发新一代“超级高铁”)
 1. [95岁姥姥去世 黄晓明发文悼念](https://so.toutiao.com/search?keyword=95岁姥姥去世+黄晓明发文悼念)
+1. [今年已有53名中管干部被查](https://so.toutiao.com/search?keyword=今年已有53名中管干部被查)
+1. [去年全球新增艾滋病感染者130万](https://so.toutiao.com/search?keyword=去年全球新增艾滋病感染者130万)
+1. [马龙现身台北101 董事长亲自接待](https://so.toutiao.com/search?keyword=马龙现身台北101+董事长亲自接待)
+1. [阿联酋总统与叙利亚总统通电话](https://so.toutiao.com/search?keyword=阿联酋总统与叙利亚总统通电话)
+1. [特朗普提名亲家公库什纳为驻法大使](https://so.toutiao.com/search?keyword=特朗普提名亲家公库什纳为驻法大使)
+1. [辽篮外援威尔斯21投11中砍28分](https://so.toutiao.com/search?keyword=辽篮外援威尔斯21投11中砍28分)
+1. [叙利亚政府军：撤出哈马消息不属实](https://so.toutiao.com/search?keyword=叙利亚政府军：撤出哈马消息不属实)
+1. [新能源车起火 “卖鱼哥”仗义灭火](https://so.toutiao.com/search?keyword=新能源车起火+“卖鱼哥”仗义灭火)
+1. [鹿晗一天吃一顿每天跑十公里](https://so.toutiao.com/search?keyword=鹿晗一天吃一顿每天跑十公里)
+1. [叙利亚反对派为何此时展开攻势](https://so.toutiao.com/search?keyword=叙利亚反对派为何此时展开攻势)
+1. [唐嫣罗晋带娃逛迪士尼](https://so.toutiao.com/search?keyword=唐嫣罗晋带娃逛迪士尼)
+1. [李慕豪6中4拿到11分10板](https://so.toutiao.com/search?keyword=李慕豪6中4拿到11分10板)
+1. [专家：不排除叙利亚再次内战的可能](https://so.toutiao.com/search?keyword=专家：不排除叙利亚再次内战的可能)
+1. [中国正推进研发新一代“超级高铁”](https://so.toutiao.com/search?keyword=中国正推进研发新一代“超级高铁”)
+1. [国台办：台当局买武器买不来安全](https://so.toutiao.com/search?keyword=国台办：台当局买武器买不来安全)
+1. [李行亮遭抵制 商场删除官宣视频](https://so.toutiao.com/search?keyword=李行亮遭抵制+商场删除官宣视频)
+1. [俄回应西方欲派10万维和部队进乌](https://so.toutiao.com/search?keyword=俄回应西方欲派10万维和部队进乌)
+1. [男子42万买到6个8手机号：捡大便宜](https://so.toutiao.com/search?keyword=男子42万买到6个8手机号：捡大便宜)
+1. [外交部回应美对台3.85亿美元军售](https://so.toutiao.com/search?keyword=外交部回应美对台3.85亿美元军售)
+1. [鄢手骐3中2拿到5分4抢断](https://so.toutiao.com/search?keyword=鄢手骐3中2拿到5分4抢断)
+1. [马龙现身日月潭与粉丝击掌握手](https://so.toutiao.com/search?keyword=马龙现身日月潭与粉丝击掌握手)
 1. [徐杰空砍32分7板9助5断](https://so.toutiao.com/search?keyword=徐杰空砍32分7板9助5断)
 1. [王楚钦回应“只打两局就下班”](https://so.toutiao.com/search?keyword=王楚钦回应“只打两局就下班”)
 1. [02年下雪时出生歌迷与刀郎本名撞名](https://so.toutiao.com/search?keyword=02年下雪时出生歌迷与刀郎本名撞名)
 1. [知名医生车祸离世 肇事方希望被谅解](https://so.toutiao.com/search?keyword=知名医生车祸离世+肇事方希望被谅解)
-1. [唐嫣罗晋带娃逛迪士尼](https://so.toutiao.com/search?keyword=唐嫣罗晋带娃逛迪士尼)
 1. [赵露思上了凤凰传奇演唱会大屏](https://so.toutiao.com/search?keyword=赵露思上了凤凰传奇演唱会大屏)
 1. [机动车行驶证电子化12月2日全面推行](https://so.toutiao.com/search?keyword=机动车行驶证电子化12月2日全面推行)
 1. [菲村民分食海龟致3人死亡31人送医](https://so.toutiao.com/search?keyword=菲村民分食海龟致3人死亡31人送医)
@@ -77,7 +79,6 @@
 1. [赫塔费中场：相信姆巴佩会找回状态](https://so.toutiao.com/search?keyword=赫塔费中场：相信姆巴佩会找回状态)
 1. [75岁老人控告50岁妻子要回房产](https://so.toutiao.com/search?keyword=75岁老人控告50岁妻子要回房产)
 1. [华晨宇丢的31万耳钉找到了](https://so.toutiao.com/search?keyword=华晨宇丢的31万耳钉找到了)
-1. [新能源车起火 “卖鱼哥”仗义灭火](https://so.toutiao.com/search?keyword=新能源车起火+“卖鱼哥”仗义灭火)
 1. [男子骑摩托摔下山 后座婆婆被挂树上](https://so.toutiao.com/search?keyword=男子骑摩托摔下山+后座婆婆被挂树上)
 1. [奥运冠军陈梦开始恢复训练](https://so.toutiao.com/search?keyword=奥运冠军陈梦开始恢复训练)
 1. [陕西一村路边发现婴儿 警方介入](https://so.toutiao.com/search?keyword=陕西一村路边发现婴儿+警方介入)
@@ -92,7 +93,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Dec 02 2024 04:01:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 05:00:43 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -100,7 +101,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Dec 02 2024 04:01:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 05:00:43 GMT+0800 (China Standard Time) -->
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [](https://www.zhihu.com/search?q=)
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
@@ -117,12 +118,13 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Dec 02 2024 04:01:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 05:00:43 GMT+0800 (China Standard Time) -->
 1. [顾客 1 万买巴黎世家衣服 8 天后被要求补差价，柜姐称折扣取消了，这合理吗？消费者该如何维权？](https://www.zhihu.com/question/5482596534)
 1. [如何看待在靖国神社涂鸦的男子被日本公审？](https://www.zhihu.com/question/5560846221)
 1. [如何看待 17 岁中专生被六七家企业高薪疯抢，释放了什么信号？未来技能会比学历更抢手吗？](https://www.zhihu.com/question/5657827303)
 1. [一个月内两次上调，杭州首套房贷利率涨至3.1%，全国多城房贷利率已上涨，反映了什么？](https://www.zhihu.com/question/5646321105)
 1. [如何看待周冠宇在2024F1卡塔尔大奖赛正赛获得第八和最佳车手?](https://www.zhihu.com/question/5681621523)
+1. [24-25 赛季英超英超第13轮利物浦 2:0 曼城，如何评价这场比赛？](https://www.zhihu.com/question/5679418018)
 1. [各类存款产品利率继续下行，「揽储利器」大额存单利率也进入 1 字头，未来走势如何？投资者该如何布局？](https://www.zhihu.com/question/5352741574)
 1. [詹姆斯季后赛+常规赛出场次数升至历史第一，有什么让你印象深刻的场面?](https://www.zhihu.com/question/5561493592)
 1. [自卑者，如何释怀?](https://www.zhihu.com/question/5465529936)

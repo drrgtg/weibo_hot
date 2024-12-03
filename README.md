@@ -13,7 +13,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Wed Dec 04 2024 02:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 04 2024 03:00:48 GMT+0800 (China Standard Time) -->
 1. [韩国国会通过解除戒严决议](https://so.toutiao.com/search?keyword=韩国国会通过解除戒严决议)
 1. [进入韩国国会主楼军人已全部撤出](https://so.toutiao.com/search?keyword=进入韩国国会主楼军人已全部撤出)
 1. [“冷资源”释放“热消费”](https://so.toutiao.com/search?keyword=“冷资源”释放“热消费”)
@@ -22,44 +22,52 @@
 1. [特朗普威胁金砖国家 中方表态](https://so.toutiao.com/search?keyword=特朗普威胁金砖国家+中方表态)
 1. [37岁清华女博士任县委书记](https://so.toutiao.com/search?keyword=37岁清华女博士任县委书记)
 1. [中方加强相关两用物项对美出口管制](https://so.toutiao.com/search?keyword=中方加强相关两用物项对美出口管制)
-1. [外媒关注“中国发现世界最大金矿”](https://so.toutiao.com/search?keyword=外媒关注“中国发现世界最大金矿”)
-1. [普京：俄将利用一切渠道控制叙局势](https://so.toutiao.com/search?keyword=普京：俄将利用一切渠道控制叙局势)
-1. [19岁机车女网红因车祸去世](https://so.toutiao.com/search?keyword=19岁机车女网红因车祸去世)
-1. [黄子佼一审被判八个月](https://so.toutiao.com/search?keyword=黄子佼一审被判八个月)
-1. [大陆女生说“中国台北”遭绿营攻击](https://so.toutiao.com/search?keyword=大陆女生说“中国台北”遭绿营攻击)
-1. [立陶宛为何对华态度强硬](https://so.toutiao.com/search?keyword=立陶宛为何对华态度强硬)
-1. [天津“小升初”不摇号了？不实](https://so.toutiao.com/search?keyword=天津“小升初”不摇号了？不实)
-1. [部分退役军人抚恤补助标准提高](https://so.toutiao.com/search?keyword=部分退役军人抚恤补助标准提高)
-1. [于东来建议外地朋友不要来胖东来](https://so.toutiao.com/search?keyword=于东来建议外地朋友不要来胖东来)
 1. [赖清德窜访后会否军演？外交部回应](https://so.toutiao.com/search?keyword=赖清德窜访后会否军演？外交部回应)
 1. [男子转账遇限额起争执 中国银行回应](https://so.toutiao.com/search?keyword=男子转账遇限额起争执+中国银行回应)
-1. [商务部回应美国半导体出口管制措施](https://so.toutiao.com/search?keyword=商务部回应美国半导体出口管制措施)
-1. [乌总统喊话拜登：退休前拉我进北约](https://so.toutiao.com/search?keyword=乌总统喊话拜登：退休前拉我进北约)
-1. [广东队vs山西队共68个犯规82个罚球](https://so.toutiao.com/search?keyword=广东队vs山西队共68个犯规82个罚球)
-1. [学者：美国打贸易战害人害己](https://so.toutiao.com/search?keyword=学者：美国打贸易战害人害己)
-1. [“蹭跑”全马女孩父亲承认违规](https://so.toutiao.com/search?keyword=“蹭跑”全马女孩父亲承认违规)
-1. [台湾绿媒贴脸开大？马龙撞个正着](https://so.toutiao.com/search?keyword=台湾绿媒贴脸开大？马龙撞个正着)
-1. [当着德外长面 王毅三句话别有内涵](https://so.toutiao.com/search?keyword=当着德外长面+王毅三句话别有内涵)
+1. [19岁机车女网红因车祸去世](https://so.toutiao.com/search?keyword=19岁机车女网红因车祸去世)
+1. [普京：俄将利用一切渠道控制叙局势](https://so.toutiao.com/search?keyword=普京：俄将利用一切渠道控制叙局势)
 1. [苏州一露营者疑因取暖不当意外身亡](https://so.toutiao.com/search?keyword=苏州一露营者疑因取暖不当意外身亡)
-1. [刘家昌遗愿：再唱一次《我是中国人》](https://so.toutiao.com/search?keyword=刘家昌遗愿：再唱一次《我是中国人》)
 1. [沙利文批特朗普不守规矩](https://so.toutiao.com/search?keyword=沙利文批特朗普不守规矩)
-1. [女硕士患精神分裂症失踪15年被找回](https://so.toutiao.com/search?keyword=女硕士患精神分裂症失踪15年被找回)
-1. [粉丝在台挥舞五星红旗 马龙送上礼物](https://so.toutiao.com/search?keyword=粉丝在台挥舞五星红旗+马龙送上礼物)
+1. [天津“小升初”不摇号了？不实](https://so.toutiao.com/search?keyword=天津“小升初”不摇号了？不实)
+1. [大陆女生说“中国台北”遭绿营攻击](https://so.toutiao.com/search?keyword=大陆女生说“中国台北”遭绿营攻击)
+1. [于东来建议外地朋友不要来胖东来](https://so.toutiao.com/search?keyword=于东来建议外地朋友不要来胖东来)
+1. [商务部回应美国半导体出口管制措施](https://so.toutiao.com/search?keyword=商务部回应美国半导体出口管制措施)
+1. [台湾绿媒贴脸开大？马龙撞个正着](https://so.toutiao.com/search?keyword=台湾绿媒贴脸开大？马龙撞个正着)
+1. [孙颖莎女单比赛光速获胜](https://so.toutiao.com/search?keyword=孙颖莎女单比赛光速获胜)
+1. [部分退役军人抚恤补助标准提高](https://so.toutiao.com/search?keyword=部分退役军人抚恤补助标准提高)
+1. [乌总统喊话拜登：退休前拉我进北约](https://so.toutiao.com/search?keyword=乌总统喊话拜登：退休前拉我进北约)
+1. [刘家昌遗愿：再唱一次《我是中国人》](https://so.toutiao.com/search?keyword=刘家昌遗愿：再唱一次《我是中国人》)
+1. [立陶宛为何对华态度强硬](https://so.toutiao.com/search?keyword=立陶宛为何对华态度强硬)
+1. [外媒关注“中国发现世界最大金矿”](https://so.toutiao.com/search?keyword=外媒关注“中国发现世界最大金矿”)
+1. [广东队vs山西队共68个犯规82个罚球](https://so.toutiao.com/search?keyword=广东队vs山西队共68个犯规82个罚球)
+1. [黄子佼一审被判八个月](https://so.toutiao.com/search?keyword=黄子佼一审被判八个月)
+1. [“蹭跑”全马女孩父亲承认违规](https://so.toutiao.com/search?keyword=“蹭跑”全马女孩父亲承认违规)
+1. [法国总理会被赶下台吗](https://so.toutiao.com/search?keyword=法国总理会被赶下台吗)
+1. [当着德外长面 王毅三句话别有内涵](https://so.toutiao.com/search?keyword=当着德外长面+王毅三句话别有内涵)
+1. [越南北南高铁将“独立自主”修建](https://so.toutiao.com/search?keyword=越南北南高铁将“独立自主”修建)
+1. [学者：美国打贸易战害人害己](https://so.toutiao.com/search?keyword=学者：美国打贸易战害人害己)
+1. [乌军被曝接到命令坚守至特朗普就职](https://so.toutiao.com/search?keyword=乌军被曝接到命令坚守至特朗普就职)
 1. [越南法院维持判女首富张美兰死刑](https://so.toutiao.com/search?keyword=越南法院维持判女首富张美兰死刑)
-1. [女子称男友滑雪太好被要求出示证件](https://so.toutiao.com/search?keyword=女子称男友滑雪太好被要求出示证件)
+1. [粉丝在台挥舞五星红旗 马龙送上礼物](https://so.toutiao.com/search?keyword=粉丝在台挥舞五星红旗+马龙送上礼物)
+1. [专家：美国会不会同中国“脱钩”](https://so.toutiao.com/search?keyword=专家：美国会不会同中国“脱钩”)
 1. [“拦路虎”被喇叭吓得虎躯三震](https://so.toutiao.com/search?keyword=“拦路虎”被喇叭吓得虎躯三震)
 1. [215元存银行19年后只剩8元](https://so.toutiao.com/search?keyword=215元存银行19年后只剩8元)
-1. [《往事只能回味》作曲家刘家昌去世](https://so.toutiao.com/search?keyword=《往事只能回味》作曲家刘家昌去世)
-1. [美法官再次驳回马斯克高额薪酬计划](https://so.toutiao.com/search?keyword=美法官再次驳回马斯克高额薪酬计划)
-1. [越南北南高铁将“独立自主”修建](https://so.toutiao.com/search?keyword=越南北南高铁将“独立自主”修建)
+1. [专家：中方反制菲南海挑衅工具很多](https://so.toutiao.com/search?keyword=专家：中方反制菲南海挑衅工具很多)
+1. [高校回应保安翻学生行李查外卖](https://so.toutiao.com/search?keyword=高校回应保安翻学生行李查外卖)
+1. [国际乒联混团世界杯八强出炉](https://so.toutiao.com/search?keyword=国际乒联混团世界杯八强出炉)
+1. [女硕士患精神分裂症失踪15年被找回](https://so.toutiao.com/search?keyword=女硕士患精神分裂症失踪15年被找回)
 1. [刀郎团队“神秘”控制台确实专业](https://so.toutiao.com/search?keyword=刀郎团队“神秘”控制台确实专业)
+1. [75后平原已任深圳市工信局副局长](https://so.toutiao.com/search?keyword=75后平原已任深圳市工信局副局长)
+1. [女子称男友滑雪太好被要求出示证件](https://so.toutiao.com/search?keyword=女子称男友滑雪太好被要求出示证件)
+1. [美法官再次驳回马斯克高额薪酬计划](https://so.toutiao.com/search?keyword=美法官再次驳回马斯克高额薪酬计划)
+1. [军事博主分析福建舰第5次海试归来](https://so.toutiao.com/search?keyword=军事博主分析福建舰第5次海试归来)
+1. [立陶宛对华关系出问题根本原因何在](https://so.toutiao.com/search?keyword=立陶宛对华关系出问题根本原因何在)
+1. [女收银员称拒绝老板潜规则次日被辞](https://so.toutiao.com/search?keyword=女收银员称拒绝老板潜规则次日被辞)
+1. [蓝民代喊话赖清德促成两岸交流](https://so.toutiao.com/search?keyword=蓝民代喊话赖清德促成两岸交流)
+1. [《往事只能回味》作曲家刘家昌去世](https://so.toutiao.com/search?keyword=《往事只能回味》作曲家刘家昌去世)
 1. [女子称买房上当两次](https://so.toutiao.com/search?keyword=女子称买房上当两次)
 1. [王宝强律师回应小演员签“卖身契”](https://so.toutiao.com/search?keyword=王宝强律师回应小演员签“卖身契”)
-1. [乌军被曝接到命令坚守至特朗普就职](https://so.toutiao.com/search?keyword=乌军被曝接到命令坚守至特朗普就职)
-1. [军事博主分析福建舰第5次海试归来](https://so.toutiao.com/search?keyword=军事博主分析福建舰第5次海试归来)
 1. [华为12月多款新品曝光](https://so.toutiao.com/search?keyword=华为12月多款新品曝光)
-1. [专家：中方反制菲南海挑衅工具很多](https://so.toutiao.com/search?keyword=专家：中方反制菲南海挑衅工具很多)
-1. [孙颖莎女单比赛光速获胜](https://so.toutiao.com/search?keyword=孙颖莎女单比赛光速获胜)
 1. [自助彩票机成“提款机”？案情曝光](https://so.toutiao.com/search?keyword=自助彩票机成“提款机”？案情曝光)
 1. [徐杰压哨绝杀 广东男篮复仇山西](https://so.toutiao.com/search?keyword=徐杰压哨绝杀+广东男篮复仇山西)
 1. [孙颖莎：宪法伴我成长](https://so.toutiao.com/search?keyword=孙颖莎：宪法伴我成长)
@@ -68,7 +76,6 @@
 1. [陕西洛川一越野车起火 车主身亡](https://so.toutiao.com/search?keyword=陕西洛川一越野车起火+车主身亡)
 1. [越野车爆炸起火司机当场遇难](https://so.toutiao.com/search?keyword=越野车爆炸起火司机当场遇难)
 1. [男子帮老板运送800万现金卷款逃跑](https://so.toutiao.com/search?keyword=男子帮老板运送800万现金卷款逃跑)
-1. [法国总理会被赶下台吗](https://so.toutiao.com/search?keyword=法国总理会被赶下台吗)
 1. [美国摇滚乐手离世 遗体遭爱犬啃食](https://so.toutiao.com/search?keyword=美国摇滚乐手离世+遗体遭爱犬啃食)
 1. [丈夫出轨向情人转账6.5万 妻子起诉](https://so.toutiao.com/search?keyword=丈夫出轨向情人转账6.5万+妻子起诉)
 1. [韩国部分网站瘫痪](https://so.toutiao.com/search?keyword=韩国部分网站瘫痪)
@@ -94,7 +101,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Wed Dec 04 2024 02:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 04 2024 03:00:48 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -102,7 +109,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Wed Dec 04 2024 02:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 04 2024 03:00:48 GMT+0800 (China Standard Time) -->
 1. [国考笔试](https://www.zhihu.com/search?q=国考笔试)
 1. [申论](https://www.zhihu.com/search?q=申论)
 1. [申论大作文](https://www.zhihu.com/search?q=申论大作文)
@@ -119,19 +126,19 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Dec 04 2024 02:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 04 2024 03:00:48 GMT+0800 (China Standard Time) -->
 1. [韩国政治纷争加剧，总统尹锡悦深夜宣布「紧急戒严」，具体情况如何？](https://www.zhihu.com/question/5866339329)
 1. [中国半导体行业等多协会发声「美国芯片不再安全、不再可靠，谨慎采购」，将带来哪些影响？](https://www.zhihu.com/question/5849919930)
 1. [韩国最大在野党召集紧急议员会议，李在明呼吁民众保护国会，韩国政坛目前出现哪些问题？](https://www.zhihu.com/question/5869069738)
 1. [如何看待韩国流行周五下班后去中国？](https://www.zhihu.com/question/5723407427)
 1. [郑州多人工资被折换成一商场购物卡，每月仅一天能用，消费额被控制，此举涉及哪些法律问题？该如何维权？](https://www.zhihu.com/question/5831303123)
 1. [你觉得哪一种水果最能代表冬天？](https://www.zhihu.com/question/4691878659)
-1. [在明白什么道理后你不在焦虑了？](https://www.zhihu.com/question/629658395)
-1. [困扰数学界近 60 年的移动沙发问题近日疑似被 Jineon Baek 解决，如何看待其论文研究成果？](https://www.zhihu.com/question/5741969956)
-1. [东契奇为什么在巅峰年龄，断涯式下滑呢？](https://www.zhihu.com/question/5533738500)
 1. [美国发布半导体出口管制措施，「实体清单」新增 136 个中国实体，将对我国半导体产业带来哪些影响？](https://www.zhihu.com/question/5799478913)
-1. [韩国国会全体会议通过「解除戒严」决议，如何解读？当前局势将如何发展？](https://www.zhihu.com/question/5876358129)
+1. [东契奇为什么在巅峰年龄，断涯式下滑呢？](https://www.zhihu.com/question/5533738500)
 1. [分子可以永不停息的做无规则运动，那未来的某一天人们能不能提取其中的能量？](https://www.zhihu.com/question/4188871011)
+1. [困扰数学界近 60 年的移动沙发问题近日疑似被 Jineon Baek 解决，如何看待其论文研究成果？](https://www.zhihu.com/question/5741969956)
+1. [韩国国会全体会议通过「解除戒严」决议，如何解读？当前局势将如何发展？](https://www.zhihu.com/question/5876358129)
+1. [在明白什么道理后你不在焦虑了？](https://www.zhihu.com/question/629658395)
 1. [为什么日式西幻作品的世界生产力通常是极度过剩的，而大部分中式西幻作品的世界则更原始残酷?](https://www.zhihu.com/question/5717531200)
 1. [当你难过的时候，你最想和谁聊天？](https://www.zhihu.com/question/5494007963)
 1. [10 年期国债收益率下破 2.0%，央行下通知紧急调研，此次下跌影响有多大？债市后续怎么走？](https://www.zhihu.com/question/5717982925)
@@ -147,9 +154,10 @@
 1. [做涉外律师是一种什么样的体验?](https://www.zhihu.com/question/422398155)
 1. [哈利波特到底有多强？](https://www.zhihu.com/question/268493229)
 1. [新政持续发力，11 月百强房企销售降幅再收窄，重点 30 城成交同比增长 20%，透露了哪些信息？](https://www.zhihu.com/question/5646178122)
-1. [高强度用脑人群需要补充什么营养？](https://www.zhihu.com/question/41474450)
 1. [现在的小学生如果没有家长辅导，还可以靠自己取得好成绩吗？](https://www.zhihu.com/question/5380389135)
 1. [假如人类可以像某些动物一样冬眠，社会将会发生哪些重大的变化？](https://www.zhihu.com/question/5087282068)
+1. [24-25赛季常规赛，湖人80：109森林狼，詹姆斯浓眉双双低迷，该怎么评价这场比赛？](https://www.zhihu.com/question/5814931129)
+1. [高强度用脑人群需要补充什么营养？](https://www.zhihu.com/question/41474450)
 1. [韩国戒严司令部发布一号戒严令，禁止政治结社、集会、示威等政治活动，戒严令发布对民众生活影响有多大？](https://www.zhihu.com/question/5871112108)
 1. [神锋无影威力这么大的咒语为什么哈利几乎不使用？](https://www.zhihu.com/question/491457987)
 1. [10 年期国债收益率早盘跌破 2%，创 2002 年 4 月以来新低，说明了什么？受哪些因素影响？](https://www.zhihu.com/question/5732274591)

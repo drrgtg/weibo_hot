@@ -13,55 +13,63 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Dec 09 2024 02:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 09 2024 03:00:39 GMT+0800 (China Standard Time) -->
 1. [蔡国强烟花秀大量无人机坠海](https://so.toutiao.com/search?keyword=蔡国强烟花秀大量无人机坠海)
 1. [王楚钦用身体接住韩国队的球](https://so.toutiao.com/search?keyword=王楚钦用身体接住韩国队的球)
 1. [我国超90种罕见病用药进医保](https://so.toutiao.com/search?keyword=我国超90种罕见病用药进医保)
-1. [德总理：大众汽车关闭工厂是错误](https://so.toutiao.com/search?keyword=德总理：大众汽车关闭工厂是错误)
 1. [有人穿AJ领免费羽绒服 大冰回应](https://so.toutiao.com/search?keyword=有人穿AJ领免费羽绒服+大冰回应)
+1. [德总理：大众汽车关闭工厂是错误](https://so.toutiao.com/search?keyword=德总理：大众汽车关闭工厂是错误)
 1. [俄方：阿萨德已放弃叙利亚总统职位](https://so.toutiao.com/search?keyword=俄方：阿萨德已放弃叙利亚总统职位)
-1. [中山美穗死因公布](https://so.toutiao.com/search?keyword=中山美穗死因公布)
-1. [孩子花70万上港大 刚上了1年被清退](https://so.toutiao.com/search?keyword=孩子花70万上港大+刚上了1年被清退)
 1. [克宫回应特朗普呼吁俄乌停火谈判](https://so.toutiao.com/search?keyword=克宫回应特朗普呼吁俄乌停火谈判)
-1. [镓和锗禁止出口有何影响](https://so.toutiao.com/search?keyword=镓和锗禁止出口有何影响)
+1. [孩子花70万上港大 刚上了1年被清退](https://so.toutiao.com/search?keyword=孩子花70万上港大+刚上了1年被清退)
+1. [特朗普马克龙和泽连斯基三方会晤](https://so.toutiao.com/search?keyword=特朗普马克龙和泽连斯基三方会晤)
+1. [中山美穗死因公布](https://so.toutiao.com/search?keyword=中山美穗死因公布)
 1. [蔡国强：无人机不要带回家](https://so.toutiao.com/search?keyword=蔡国强：无人机不要带回家)
 1. [叙利亚局势突变 直击当地现状](https://so.toutiao.com/search?keyword=叙利亚局势突变+直击当地现状)
 1. [特朗普称泽连斯基希望与俄达成协议](https://so.toutiao.com/search?keyword=特朗普称泽连斯基希望与俄达成协议)
 1. [韩国宣布逮捕前国防部长官金龙显](https://so.toutiao.com/search?keyword=韩国宣布逮捕前国防部长官金龙显)
 1. [深圳警方辟谣地铁3号线发生爆炸](https://so.toutiao.com/search?keyword=深圳警方辟谣地铁3号线发生爆炸)
-1. [中方回应叙利亚最新局势](https://so.toutiao.com/search?keyword=中方回应叙利亚最新局势)
-1. [浏阳烟花秀仿佛打开星际之门](https://so.toutiao.com/search?keyword=浏阳烟花秀仿佛打开星际之门)
+1. [叙利亚反对派称阿萨德政权垮台](https://so.toutiao.com/search?keyword=叙利亚反对派称阿萨德政权垮台)
 1. [郑超升正处1个月后再拟任新职](https://so.toutiao.com/search?keyword=郑超升正处1个月后再拟任新职)
+1. [镓和锗禁止出口有何影响](https://so.toutiao.com/search?keyword=镓和锗禁止出口有何影响)
+1. [中方回应叙利亚最新局势](https://so.toutiao.com/search?keyword=中方回应叙利亚最新局势)
+1. [私家车挡住救护车去路？多部门回应](https://so.toutiao.com/search?keyword=私家车挡住救护车去路？多部门回应)
+1. [人类第11次成功预警小行星撞击](https://so.toutiao.com/search?keyword=人类第11次成功预警小行星撞击)
 1. [一架从大马士革起飞的飞机疑似坠毁](https://so.toutiao.com/search?keyword=一架从大马士革起飞的飞机疑似坠毁)
+1. [CBA：凯尔·弗格砍下29分11板10助](https://so.toutiao.com/search?keyword=CBA：凯尔·弗格砍下29分11板10助)
+1. [浏阳烟花秀仿佛打开星际之门](https://so.toutiao.com/search?keyword=浏阳烟花秀仿佛打开星际之门)
+1. [叙反政府武装在首都分发组装武器](https://so.toutiao.com/search?keyword=叙反政府武装在首都分发组装武器)
 1. [哈尔滨冰雪大世界票价定了](https://so.toutiao.com/search?keyword=哈尔滨冰雪大世界票价定了)
 1. [男子酒后与妻子争吵致女儿坠亡获刑](https://so.toutiao.com/search?keyword=男子酒后与妻子争吵致女儿坠亡获刑)
-1. [叙利亚反对派称阿萨德政权垮台](https://so.toutiao.com/search?keyword=叙利亚反对派称阿萨德政权垮台)
-1. [胖东来被吐槽排队3小时购物10分钟](https://so.toutiao.com/search?keyword=胖东来被吐槽排队3小时购物10分钟)
-1. [私家车挡住救护车去路？多部门回应](https://so.toutiao.com/search?keyword=私家车挡住救护车去路？多部门回应)
-1. [叙反政府武装在首都分发组装武器](https://so.toutiao.com/search?keyword=叙反政府武装在首都分发组装武器)
-1. [孙颖莎：赢下冠军是对团队最好回报](https://so.toutiao.com/search?keyword=孙颖莎：赢下冠军是对团队最好回报)
-1. [广州动物园回应鳄鱼“皮包骨头”](https://so.toutiao.com/search?keyword=广州动物园回应鳄鱼“皮包骨头”)
-1. [乌情报机构称俄军正从驻叙基地撤出](https://so.toutiao.com/search?keyword=乌情报机构称俄军正从驻叙基地撤出)
-1. [王楚钦孙颖莎2:1战胜赵大成申裕斌](https://so.toutiao.com/search?keyword=王楚钦孙颖莎2:1战胜赵大成申裕斌)
-1. [人类第11次成功预警小行星撞击](https://so.toutiao.com/search?keyword=人类第11次成功预警小行星撞击)
-1. [叙军方：阿萨德统治已经结束](https://so.toutiao.com/search?keyword=叙军方：阿萨德统治已经结束)
+1. [特朗普称美国不应卷入叙利亚冲突](https://so.toutiao.com/search?keyword=特朗普称美国不应卷入叙利亚冲突)
 1. [OBD检测5年前就已上线](https://so.toutiao.com/search?keyword=OBD检测5年前就已上线)
-1. [特朗普马克龙和泽连斯基三方会晤](https://so.toutiao.com/search?keyword=特朗普马克龙和泽连斯基三方会晤)
-1. [CBA：凯尔·弗格砍下29分11板10助](https://so.toutiao.com/search?keyword=CBA：凯尔·弗格砍下29分11板10助)
-1. [叙利亚反对派称在大马士革实施宵禁](https://so.toutiao.com/search?keyword=叙利亚反对派称在大马士革实施宵禁)
-1. [苏菲·玛索回应被称为“冻龄女神”](https://so.toutiao.com/search?keyword=苏菲·玛索回应被称为“冻龄女神”)
-1. [专家：中国经济有望在2026年正循环](https://so.toutiao.com/search?keyword=专家：中国经济有望在2026年正循环)
+1. [广州动物园回应鳄鱼“皮包骨头”](https://so.toutiao.com/search?keyword=广州动物园回应鳄鱼“皮包骨头”)
+1. [叙军方：阿萨德统治已经结束](https://so.toutiao.com/search?keyword=叙军方：阿萨德统治已经结束)
+1. [有中小银行逆势上调存款利率](https://so.toutiao.com/search?keyword=有中小银行逆势上调存款利率)
+1. [送错单骑手重新送回 女子退款仍投诉](https://so.toutiao.com/search?keyword=送错单骑手重新送回+女子退款仍投诉)
+1. [乌情报机构称俄军正从驻叙基地撤出](https://so.toutiao.com/search?keyword=乌情报机构称俄军正从驻叙基地撤出)
+1. [韩国检察厅对尹锡悦立案调查](https://so.toutiao.com/search?keyword=韩国检察厅对尹锡悦立案调查)
+1. [马斯克暗示不会利用影响力报复对手](https://so.toutiao.com/search?keyword=马斯克暗示不会利用影响力报复对手)
+1. [俄称驻叙俄军基地进入高度戒备状态](https://so.toutiao.com/search?keyword=俄称驻叙俄军基地进入高度戒备状态)
+1. [孙颖莎：赢下冠军是对团队最好回报](https://so.toutiao.com/search?keyword=孙颖莎：赢下冠军是对团队最好回报)
+1. [路遇老人摔倒 小学生果断出手搀扶](https://so.toutiao.com/search?keyword=路遇老人摔倒+小学生果断出手搀扶)
 1. [叙利亚战场态势为何迅速变化](https://so.toutiao.com/search?keyword=叙利亚战场态势为何迅速变化)
 1. [山姆回应黄牛收费带人结账](https://so.toutiao.com/search?keyword=山姆回应黄牛收费带人结账)
+1. [市民自发前往琼瑶祖居献鲜花](https://so.toutiao.com/search?keyword=市民自发前往琼瑶祖居献鲜花)
+1. [陈永奇已任江西省委副书记](https://so.toutiao.com/search?keyword=陈永奇已任江西省委副书记)
+1. [巴黎圣母院灾后修复为何这么快](https://so.toutiao.com/search?keyword=巴黎圣母院灾后修复为何这么快)
+1. [胖东来被吐槽排队3小时购物10分钟](https://so.toutiao.com/search?keyword=胖东来被吐槽排队3小时购物10分钟)
+1. [专家：中国经济有望在2026年正循环](https://so.toutiao.com/search?keyword=专家：中国经济有望在2026年正循环)
+1. [苏菲·玛索回应被称为“冻龄女神”](https://so.toutiao.com/search?keyword=苏菲·玛索回应被称为“冻龄女神”)
+1. [主人带金毛体验滑翔伞](https://so.toutiao.com/search?keyword=主人带金毛体验滑翔伞)
+1. [胡塞武装称与伊拉克民兵武装袭击以](https://so.toutiao.com/search?keyword=胡塞武装称与伊拉克民兵武装袭击以)
+1. [付豪14中8贡献19分6篮板](https://so.toutiao.com/search?keyword=付豪14中8贡献19分6篮板)
+1. [王楚钦孙颖莎2:1战胜赵大成申裕斌](https://so.toutiao.com/search?keyword=王楚钦孙颖莎2:1战胜赵大成申裕斌)
+1. [叙利亚反对派称在大马士革实施宵禁](https://so.toutiao.com/search?keyword=叙利亚反对派称在大马士革实施宵禁)
 1. [3孩子父亲去世 亲戚花光72万赔偿款](https://so.toutiao.com/search?keyword=3孩子父亲去世+亲戚花光72万赔偿款)
 1. [叙局势变化 地区未来将被如何塑造](https://so.toutiao.com/search?keyword=叙局势变化+地区未来将被如何塑造)
-1. [韩国检察厅对尹锡悦立案调查](https://so.toutiao.com/search?keyword=韩国检察厅对尹锡悦立案调查)
-1. [送错单骑手重新送回 女子退款仍投诉](https://so.toutiao.com/search?keyword=送错单骑手重新送回+女子退款仍投诉)
-1. [马斯克暗示不会利用影响力报复对手](https://so.toutiao.com/search?keyword=马斯克暗示不会利用影响力报复对手)
 1. [埃文凯尔想把国礼瓷送给中国博物馆](https://so.toutiao.com/search?keyword=埃文凯尔想把国礼瓷送给中国博物馆)
-1. [特朗普称美国不应卷入叙利亚冲突](https://so.toutiao.com/search?keyword=特朗普称美国不应卷入叙利亚冲突)
 1. [44岁张柏芝近照曝光](https://so.toutiao.com/search?keyword=44岁张柏芝近照曝光)
-1. [俄称驻叙俄军基地进入高度戒备状态](https://so.toutiao.com/search?keyword=俄称驻叙俄军基地进入高度戒备状态)
 1. [陈冠希晒与周杰伦合照获回复](https://so.toutiao.com/search?keyword=陈冠希晒与周杰伦合照获回复)
 1. [“言情教母”琼瑶的璀璨人生](https://so.toutiao.com/search?keyword=“言情教母”琼瑶的璀璨人生)
 1. [王楚钦：最后一局心态上有一定起伏](https://so.toutiao.com/search?keyword=王楚钦：最后一局心态上有一定起伏)
@@ -72,13 +80,11 @@
 1. [广州马拉松五人破赛会纪录](https://so.toutiao.com/search?keyword=广州马拉松五人破赛会纪录)
 1. [胖东来限购后被吐槽购物像打仗](https://so.toutiao.com/search?keyword=胖东来限购后被吐槽购物像打仗)
 1. [混团世界杯国乒8-1胜韩国成功卫冕](https://so.toutiao.com/search?keyword=混团世界杯国乒8-1胜韩国成功卫冕)
-1. [胡塞武装称与伊拉克民兵武装袭击以](https://so.toutiao.com/search?keyword=胡塞武装称与伊拉克民兵武装袭击以)
 1. [媒体人：张帆受伤让北控空间更拥堵](https://so.toutiao.com/search?keyword=媒体人：张帆受伤让北控空间更拥堵)
 1. [吴泽桐任珠海代市长 黄志豪辞任市长](https://so.toutiao.com/search?keyword=吴泽桐任珠海代市长+黄志豪辞任市长)
 1. [叙利亚局势变化后土耳其将有何反应](https://so.toutiao.com/search?keyword=叙利亚局势变化后土耳其将有何反应)
 1. [手机“不能开不能关”？壳盖反了](https://so.toutiao.com/search?keyword=手机“不能开不能关”？壳盖反了)
 1. [男子坐高铁惊叫以为要“撞车”了](https://so.toutiao.com/search?keyword=男子坐高铁惊叫以为要“撞车”了)
-1. [主人带金毛体验滑翔伞](https://so.toutiao.com/search?keyword=主人带金毛体验滑翔伞)
 1. [大V分析黄金牛市还能走多远](https://so.toutiao.com/search?keyword=大V分析黄金牛市还能走多远)
 1. [马丽听到晚会过半的反应](https://so.toutiao.com/search?keyword=马丽听到晚会过半的反应)
 <!-- END TOUTIAO -->
@@ -87,7 +93,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Dec 09 2024 02:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 09 2024 03:00:39 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -95,7 +101,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Dec 09 2024 02:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 09 2024 03:00:39 GMT+0800 (China Standard Time) -->
 1. [浙江队无缘亚冠淘汰赛](https://www.zhihu.com/search?q=浙江队无缘亚冠淘汰赛)
 1. [沪深京三市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深京三市成交额突破1万亿元)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=发明魔芋的前辈是经历了什么)
@@ -112,15 +118,17 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Dec 09 2024 02:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 09 2024 03:00:39 GMT+0800 (China Standard Time) -->
 1. [叙军方称，巴沙尔·阿萨德的统治已经结束，接下来叙利亚将面临怎样的统治?](https://www.zhihu.com/question/6282653022)
 1. [俄罗斯外交部称，叙利亚总统阿萨德已放弃总统职位，这意味着什么？谁将接替阿萨德的职位？](https://www.zhihu.com/question/6309216537)
 1. [付费自习室野蛮生长至近 7 万家，用户都是哪些群体？在自习室的学习效率真的会更高吗？](https://www.zhihu.com/question/6129520200)
-1. [如何评价李少红、贾樟柯、董润年等九位导演使用可灵 AI 制作的 9 部电影实验短片？](https://www.zhihu.com/question/6143392593)
 1. [如何看待《崩坏：星穹铁道》2.7版本剧情结尾，黑塔以“魔法”的名义向博识尊提问？](https://www.zhihu.com/question/5950361587)
-1. [大学生为了热爱的东西超前消费到底值不值得？](https://www.zhihu.com/question/6231039807)
+1. [为什么苏联不肯投靠美国，好好搞市场经济？](https://www.zhihu.com/question/5959857144)
+1. [25 赛季，NBA 常规赛，掘金113:122奇才，约基奇 56 分未能带队取胜，如何评价这场比赛？](https://www.zhihu.com/question/6276311717)
 1. [《地下交通站》拍得那么成功，为什么第二部《二号交通站》在几乎是原班人马出演的情况下却反响平平？](https://www.zhihu.com/question/558247060)
+1. [如何评价李少红、贾樟柯、董润年等九位导演使用可灵 AI 制作的 9 部电影实验短片？](https://www.zhihu.com/question/6143392593)
 1. [韩国执政党党首态度转变，称须尽快让尹锡悦停止总统职务，如何解读韩执政党的态度？](https://www.zhihu.com/question/6099505323)
+1. [大学生为了热爱的东西超前消费到底值不值得？](https://www.zhihu.com/question/6231039807)
 1. [孙悟空为什么每次都叫沙僧看着行李，荒山野岭的还怕有人来偷吗？](https://www.zhihu.com/question/2673686131)
 1. [领导给的任务是每个月业绩不低于 1 万元，当月第一天完成了任务，后 29 天是不是就可以摸鱼了？](https://www.zhihu.com/question/5707877909)
 1. [一部电影会失传吗？](https://www.zhihu.com/question/21381181)

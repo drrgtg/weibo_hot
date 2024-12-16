@@ -13,64 +13,69 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Dec 17 2024 00:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 17 2024 01:00:47 GMT+0800 (China Standard Time) -->
 1. [上海和平饭店298元团购套餐遭吐槽](https://so.toutiao.com/search?keyword=上海和平饭店298元团购套餐遭吐槽)
 1. [台当局从美接收38辆坦克 外交部回应](https://so.toutiao.com/search?keyword=台当局从美接收38辆坦克+外交部回应)
 1. [“大”有可为 看澳门独特科技范儿](https://so.toutiao.com/search?keyword=“大”有可为+看澳门独特科技范儿)
 1. [今年冬至将是128年来最早的冬至](https://so.toutiao.com/search?keyword=今年冬至将是128年来最早的冬至)
-1. [樊振东3-1王楚钦](https://so.toutiao.com/search?keyword=樊振东3-1王楚钦)
-1. [阿萨德：离开叙利亚不是计划好的](https://so.toutiao.com/search?keyword=阿萨德：离开叙利亚不是计划好的)
 1. [三男子接亲时把新娘朋友摔骨折](https://so.toutiao.com/search?keyword=三男子接亲时把新娘朋友摔骨折)
-1. [中国公开6.56马赫高超音速飞行器](https://so.toutiao.com/search?keyword=中国公开6.56马赫高超音速飞行器)
+1. [阿萨德：离开叙利亚不是计划好的](https://so.toutiao.com/search?keyword=阿萨德：离开叙利亚不是计划好的)
+1. [奇瑞iCAR V23上市售9.98万起](https://so.toutiao.com/search?keyword=奇瑞iCAR+V23上市售9.98万起)
+1. [樊振东3-1王楚钦](https://so.toutiao.com/search?keyword=樊振东3-1王楚钦)
 1. [燃气公司贴条封灶 官方约谈负责人](https://so.toutiao.com/search?keyword=燃气公司贴条封灶+官方约谈负责人)
-1. [外交部发言人：吸血鬼才怕大蒜](https://so.toutiao.com/search?keyword=外交部发言人：吸血鬼才怕大蒜)
+1. [孩子坐到妈妈孕肚上孕妈急忙挂急诊](https://so.toutiao.com/search?keyword=孩子坐到妈妈孕肚上孕妈急忙挂急诊)
 1. [普京宣布全线反击 覆盖4大领域](https://so.toutiao.com/search?keyword=普京宣布全线反击+覆盖4大领域)
 1. [《战狼》女主余男官宣结婚](https://so.toutiao.com/search?keyword=《战狼》女主余男官宣结婚)
-1. [侯耀华拜访 93岁杨少华激动到泪崩](https://so.toutiao.com/search?keyword=侯耀华拜访+93岁杨少华激动到泪崩)
+1. [B太质疑菏泽羊汤太白引争议](https://so.toutiao.com/search?keyword=B太质疑菏泽羊汤太白引争议)
 1. [梅德韦杰夫访华归来讲话赢得高层掌声](https://so.toutiao.com/search?keyword=梅德韦杰夫访华归来讲话赢得高层掌声)
 1. [广州应急局不存在“安全教育办”](https://so.toutiao.com/search?keyword=广州应急局不存在“安全教育办”)
 1. [专家：朝鲜出兵使俄乌战争性质变化](https://so.toutiao.com/search?keyword=专家：朝鲜出兵使俄乌战争性质变化)
+1. [侯耀华拜访 93岁杨少华激动到泪崩](https://so.toutiao.com/search?keyword=侯耀华拜访+93岁杨少华激动到泪崩)
 1. [全女阵容红毯：刘亦菲压轴](https://so.toutiao.com/search?keyword=全女阵容红毯：刘亦菲压轴)
-1. [B太质疑菏泽羊汤太白引争议](https://so.toutiao.com/search?keyword=B太质疑菏泽羊汤太白引争议)
 1. [朝鲜特种兵为何能在库尔斯克立功](https://so.toutiao.com/search?keyword=朝鲜特种兵为何能在库尔斯克立功)
-1. [博主：傲慢的英伟达踢到铁板上了](https://so.toutiao.com/search?keyword=博主：傲慢的英伟达踢到铁板上了)
+1. [专家：解放军高超音速领域已上台阶](https://so.toutiao.com/search?keyword=专家：解放军高超音速领域已上台阶)
 1. [阿娇被曝知三当三](https://so.toutiao.com/search?keyword=阿娇被曝知三当三)
 1. [俄乌都证实朝军参与作战](https://so.toutiao.com/search?keyword=俄乌都证实朝军参与作战)
-1. [刘亦菲嘉人红毯造型](https://so.toutiao.com/search?keyword=刘亦菲嘉人红毯造型)
 1. [韩媒曝光戒严计划包括暗杀驻韩美军](https://so.toutiao.com/search?keyword=韩媒曝光戒严计划包括暗杀驻韩美军)
-1. [专家：解放军高超音速领域已上台阶](https://so.toutiao.com/search?keyword=专家：解放军高超音速领域已上台阶)
 1. [孟子义如何从全网黑逆袭成大女主](https://so.toutiao.com/search?keyword=孟子义如何从全网黑逆袭成大女主)
-1. [被抱养37年拒绝认亲当事人发声](https://so.toutiao.com/search?keyword=被抱养37年拒绝认亲当事人发声)
-1. [专家：台军坦克在现代火力面前没机会](https://so.toutiao.com/search?keyword=专家：台军坦克在现代火力面前没机会)
-1. [于和伟辟谣《我是刑警》秦川下线](https://so.toutiao.com/search?keyword=于和伟辟谣《我是刑警》秦川下线)
-1. [宁德时代狂投欧洲800个亿](https://so.toutiao.com/search?keyword=宁德时代狂投欧洲800个亿)
-1. [10后女生为何独爱“鲶鱼须”刘海](https://so.toutiao.com/search?keyword=10后女生为何独爱“鲶鱼须”刘海)
-1. [2024“大国粮仓”底气更足](https://so.toutiao.com/search?keyword=2024“大国粮仓”底气更足)
+1. [外交部发言人：吸血鬼才怕大蒜](https://so.toutiao.com/search?keyword=外交部发言人：吸血鬼才怕大蒜)
 1. [专家：房价已经处于底部阶段](https://so.toutiao.com/search?keyword=专家：房价已经处于底部阶段)
-1. [奇瑞iCAR V23上市售9.98万起](https://so.toutiao.com/search?keyword=奇瑞iCAR+V23上市售9.98万起)
-1. [2024年陕西粮食总产量1352.29万吨](https://so.toutiao.com/search?keyword=2024年陕西粮食总产量1352.29万吨)
+1. [被抱养37年拒绝认亲当事人发声](https://so.toutiao.com/search?keyword=被抱养37年拒绝认亲当事人发声)
+1. [10后女生为何独爱“鲶鱼须”刘海](https://so.toutiao.com/search?keyword=10后女生为何独爱“鲶鱼须”刘海)
 1. [董明珠问雷军：你给股民分了多少钱](https://so.toutiao.com/search?keyword=董明珠问雷军：你给股民分了多少钱)
-1. [10月全球电动汽车销量排行](https://so.toutiao.com/search?keyword=10月全球电动汽车销量排行)
+1. [博主：傲慢的英伟达踢到铁板上了](https://so.toutiao.com/search?keyword=博主：傲慢的英伟达踢到铁板上了)
+1. [于和伟辟谣《我是刑警》秦川下线](https://so.toutiao.com/search?keyword=于和伟辟谣《我是刑警》秦川下线)
+1. [刘亦菲嘉人红毯造型](https://so.toutiao.com/search?keyword=刘亦菲嘉人红毯造型)
+1. [专家：台军坦克在现代火力面前没机会](https://so.toutiao.com/search?keyword=专家：台军坦克在现代火力面前没机会)
+1. [《我是刑警》杨小洁原型有多牛](https://so.toutiao.com/search?keyword=《我是刑警》杨小洁原型有多牛)
+1. [我国成功发射卫星互联网低轨卫星](https://so.toutiao.com/search?keyword=我国成功发射卫星互联网低轨卫星)
+1. [格力回应董明珠称小米侵权：是录播](https://so.toutiao.com/search?keyword=格力回应董明珠称小米侵权：是录播)
+1. [特朗普从“获罪者”变身“问罪者”](https://so.toutiao.com/search?keyword=特朗普从“获罪者”变身“问罪者”)
 1. [刘亦菲和陈金飞聚餐](https://so.toutiao.com/search?keyword=刘亦菲和陈金飞聚餐)
 1. [男子叫老人让座？原来是叫爷爷下车](https://so.toutiao.com/search?keyword=男子叫老人让座？原来是叫爷爷下车)
-1. [《我是刑警》杨小洁原型有多牛](https://so.toutiao.com/search?keyword=《我是刑警》杨小洁原型有多牛)
-1. [7岁异瞳女孩在学校受欢迎](https://so.toutiao.com/search?keyword=7岁异瞳女孩在学校受欢迎)
-1. [格力回应董明珠称小米侵权：是录播](https://so.toutiao.com/search?keyword=格力回应董明珠称小米侵权：是录播)
-1. [车臣遭袭后卡德罗夫立即报复](https://so.toutiao.com/search?keyword=车臣遭袭后卡德罗夫立即报复)
 1. [妻子头疼丈夫陪诊却被医生瞧出脑瘤](https://so.toutiao.com/search?keyword=妻子头疼丈夫陪诊却被医生瞧出脑瘤)
-1. [外媒：俄暂停向叙利亚供应小麦](https://so.toutiao.com/search?keyword=外媒：俄暂停向叙利亚供应小麦)
-1. [河南省公安厅一干部被查](https://so.toutiao.com/search?keyword=河南省公安厅一干部被查)
+1. [宁德时代狂投欧洲800个亿](https://so.toutiao.com/search?keyword=宁德时代狂投欧洲800个亿)
+1. [乌克兰将向叙利亚提供人道主义援助](https://so.toutiao.com/search?keyword=乌克兰将向叙利亚提供人道主义援助)
+1. [车臣遭袭后卡德罗夫立即报复](https://so.toutiao.com/search?keyword=车臣遭袭后卡德罗夫立即报复)
 1. [激光切割机为何要出口给美国](https://so.toutiao.com/search?keyword=激光切割机为何要出口给美国)
-1. [四位师生出车祸身亡？学校回应](https://so.toutiao.com/search?keyword=四位师生出车祸身亡？学校回应)
-1. [女子假扮保安混进演唱会被查获](https://so.toutiao.com/search?keyword=女子假扮保安混进演唱会被查获)
 1. [神十九乘组将择机实施首次出舱活动](https://so.toutiao.com/search?keyword=神十九乘组将择机实施首次出舱活动)
+1. [女子假扮保安混进演唱会被查获](https://so.toutiao.com/search?keyword=女子假扮保安混进演唱会被查获)
+1. [2024“大国粮仓”底气更足](https://so.toutiao.com/search?keyword=2024“大国粮仓”底气更足)
+1. [外媒：俄暂停向叙利亚供应小麦](https://so.toutiao.com/search?keyword=外媒：俄暂停向叙利亚供应小麦)
+1. [2个月女婴小便增多查出有4个肾](https://so.toutiao.com/search?keyword=2个月女婴小便增多查出有4个肾)
+1. [7岁异瞳女孩在学校受欢迎](https://so.toutiao.com/search?keyword=7岁异瞳女孩在学校受欢迎)
+1. [中国公开6.56马赫高超音速飞行器](https://so.toutiao.com/search?keyword=中国公开6.56马赫高超音速飞行器)
+1. [2024年陕西粮食总产量1352.29万吨](https://so.toutiao.com/search?keyword=2024年陕西粮食总产量1352.29万吨)
+1. [10月全球电动汽车销量排行](https://so.toutiao.com/search?keyword=10月全球电动汽车销量排行)
+1. [河南省公安厅一干部被查](https://so.toutiao.com/search?keyword=河南省公安厅一干部被查)
+1. [四位师生出车祸身亡？学校回应](https://so.toutiao.com/search?keyword=四位师生出车祸身亡？学校回应)
 <!-- END TOUTIAO -->
 
 
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Dec 17 2024 00:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 17 2024 01:00:47 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,7 +83,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Dec 17 2024 00:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 17 2024 01:00:47 GMT+0800 (China Standard Time) -->
 1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11 月 70 城房价出炉)
 1. [石宇奇夺男单冠军](https://www.zhihu.com/search?q=石宇奇夺男单冠军)
 1. [为什么现在年轻人存不下钱](https://www.zhihu.com/search?q=为什么现在年轻人存不下钱)
@@ -95,25 +100,41 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Dec 17 2024 00:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 17 2024 01:00:47 GMT+0800 (China Standard Time) -->
 1. [养乐多上海公司解散、工厂停产，它在中国市场的竞争力如何？未来发展策略可能是什么？](https://www.zhihu.com/question/6477078418)
 1. [2024 乒超联赛樊振东 3:1 战胜王楚钦，如何评价这场比赛？](https://www.zhihu.com/question/7030717661)
 1. [有哪些大家默认「肯定没人能解释清楚」，而实际上已经被科学解释了的问题？](https://www.zhihu.com/question/263896133)
 1. [有人分享攻略称，反复评论「机票太贵」让票价便宜 2000 多，如何看待这波操作？算法真能被「驯化」吗？](https://www.zhihu.com/question/6902414538)
+1. [中央财办表示，明年是首次实施「更加积极的财政政策」，将适时降准降息，将对我们的生活带来哪些影响？](https://www.zhihu.com/question/7007111128)
+1. [《明日方舟：终末地》二测版本改了哪些内容？](https://www.zhihu.com/question/6933226018)
+1. [2024 年最让你难忘的电影电视剧角色是？为什么？](https://www.zhihu.com/question/6844583681)
+1. [《玫瑰的故事》对女生有哪些启发？](https://www.zhihu.com/question/662337663)
 1. [当前环境下，您还会购买纸质书吗？会在什么情况下购买呢？](https://www.zhihu.com/question/6732147106)
-1. [“哪怕是顶级强者在不使用身体强化类技能的情况下，一个小女孩用刀也能刺伤他的身体”这种设定有什么优缺点？](https://www.zhihu.com/question/660271372)
+1. [《我是刑警》中叶茂生之死，是否说明执法过程中一味秉持程序正义变相降低了犯罪成本？](https://www.zhihu.com/question/5803273094)
+1. [日本东京将允许政府员工执行「上四休三」工作制，将带来哪些影响？是否会更大范围推广？](https://www.zhihu.com/question/6979349938)
+1. [媒体曝光「先用后付」套路多，商家可强制扣款，还能逃避国家监管，「先用后付」还存在哪些问题需要警惕？](https://www.zhihu.com/question/6974968905)
 1. [玉皇大帝和如来哪一个官职比较大？](https://www.zhihu.com/question/477254084)
 1. [如何看待《BanG Dream！It's MyGO！！！！！》动画中的长崎爽世？](https://www.zhihu.com/question/620329076)
-1. [媒体曝光「先用后付」套路多，商家可强制扣款，还能逃避国家监管，「先用后付」还存在哪些问题需要警惕？](https://www.zhihu.com/question/6974968905)
-1. [贾宝玉为什么喜欢和女生一块玩，不和男生一块玩?](https://www.zhihu.com/question/3996316119)
-1. [日本东京将允许政府员工执行「上四休三」工作制，将带来哪些影响？是否会更大范围推广？](https://www.zhihu.com/question/6979349938)
-1. [如果领导在微信上发重要文件，你回复收到却忘记接收，后面想起来已经不能下载，你会怎么办？](https://www.zhihu.com/question/6708252798)
-1. [民乐（中乐）是不是普遍来说比西乐「吵」？如果是，为什么？](https://www.zhihu.com/question/322137461)
 1. [本田中国 2024 年 11 月终端汽车销量同比下降 30.7%，2025 年它的情况会怎样？](https://www.zhihu.com/question/6165818169)
 1. [11 月 70 城房价出炉，17 城新房价格环比上涨，各线城市同比降幅今年以来首次均收窄，如何解读？](https://www.zhihu.com/question/6980969784)
+1. [如果领导在微信上发重要文件，你回复收到却忘记接收，后面想起来已经不能下载，你会怎么办？](https://www.zhihu.com/question/6708252798)
+1. [《纯粹理性批判》讲了什么？](https://www.zhihu.com/question/316417206)
+1. [你们还记得自己玩过的第一款非单机游戏叫什么吗？（单机游戏不算）?](https://www.zhihu.com/question/6164898017)
+1. [“哪怕是顶级强者在不使用身体强化类技能的情况下，一个小女孩用刀也能刺伤他的身体”这种设定有什么优缺点？](https://www.zhihu.com/question/660271372)
+1. [膳食指南建议每天要做 30 分钟中强度运动，吃 500g 深色菜，如何才能做到？](https://www.zhihu.com/question/5823995674)
+1. [韩国执政党党首韩东勋辞职，会带来哪些影响？国民力量党在韩国政坛还能保持竞争力吗？](https://www.zhihu.com/question/6980602034)
+1. [2024 年女性影视角色对比之前产生了哪些变化？是否更鲜活、多样了？](https://www.zhihu.com/question/5959875364)
+1. [因外貌出众在职场获特殊关照，这是优势还是隐患？](https://www.zhihu.com/question/6694643735)
+1. [你愿不愿意在大城市过一辈子？](https://www.zhihu.com/question/6912710464)
+1. [如果学西方哲学必须学外文原版，那么翻译的那些西方哲学著作还有什么用？](https://www.zhihu.com/question/6556798976)
+1. [为什么很多二游和动漫都对“永远活在美梦里”呈批判与反对的态度？](https://www.zhihu.com/question/657610089)
+1. [你是怎样得到安全感的？](https://www.zhihu.com/question/4946522782)
+1. [为什么海运比陆运成本低，但是海军比陆军建设难度大？](https://www.zhihu.com/question/667172326)
+1. [「朋友圈被领导点赞」成加班证据，公司赔偿 1.8 万，如何界定加班证据？朋友圈点赞能作为合法证据吗？](https://www.zhihu.com/question/6571845691)
+1. [贾宝玉为什么喜欢和女生一块玩，不和男生一块玩?](https://www.zhihu.com/question/3996316119)
+1. [民乐（中乐）是不是普遍来说比西乐「吵」？如果是，为什么？](https://www.zhihu.com/question/322137461)
 1. [2024 年，你通过以旧换新置办了哪些家电让你感觉「赚到了」？](https://www.zhihu.com/question/5480179761)
 1. [为什么我总是古怪地认为「别人在关注自己」？](https://www.zhihu.com/question/5681286662)
-1. [《纯粹理性批判》讲了什么？](https://www.zhihu.com/question/316417206)
 1. [在影视作品中剧情非常重要，为什么国内编剧话语权这么低？](https://www.zhihu.com/question/5975505346)
 1. [2024 年全球掀起「降息潮」，当存款进入低利率时代，我们如何尽可能让资产保值?](https://www.zhihu.com/question/6675723940)
 1. [你认为 2024 年最火爆的体坛人物是谁？为什么呢？](https://www.zhihu.com/question/6641984468)
@@ -125,7 +146,6 @@
 1. [24-25 赛季NBA常规赛独行侠 143:133 勇士，如何评价这场比赛？](https://www.zhihu.com/question/6981048049)
 1. [中国科学院3名院士确认华龙洞人是东亚地区向智人演化的最早古人类，如何看待此事？](https://www.zhihu.com/question/6496448002)
 1. [董明珠称小米空调专利侵权赔偿格力 50 万元，小米王化回应「信息不实」，具体情况如何？如何看待此争议？](https://www.zhihu.com/question/6987465478)
-1. [「朋友圈被领导点赞」成加班证据，公司赔偿 1.8 万，如何界定加班证据？朋友圈点赞能作为合法证据吗？](https://www.zhihu.com/question/6571845691)
 <!-- END ZHIHUQUESTIONS -->
 
 

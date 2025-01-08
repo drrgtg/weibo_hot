@@ -13,58 +13,61 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Jan 09 2025 02:14:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 09 2025 03:00:41 GMT+0800 (China Standard Time) -->
 1. [特朗普：不排除军事夺取格陵兰岛](https://so.toutiao.com/search?keyword=特朗普：不排除军事夺取格陵兰岛)
 1. [新郎为了显高特意把头发梳高几公分](https://so.toutiao.com/search?keyword=新郎为了显高特意把头发梳高几公分)
 1. [今年“两新”政策最新部署来了](https://so.toutiao.com/search?keyword=今年“两新”政策最新部署来了)
 1. [格陵兰岛自治政府总理称正争取独立](https://so.toutiao.com/search?keyword=格陵兰岛自治政府总理称正争取独立)
+1. [部队官兵为西藏受灾群众做饭](https://so.toutiao.com/search?keyword=部队官兵为西藏受灾群众做饭)
 1. [特朗普一再扬言吞并加拿大目的何在](https://so.toutiao.com/search?keyword=特朗普一再扬言吞并加拿大目的何在)
-1. [CBA球员把女友装行李箱带进宿舍](https://so.toutiao.com/search?keyword=CBA球员把女友装行李箱带进宿舍)
 1. [特鲁多：加拿大绝无可能并入美国](https://so.toutiao.com/search?keyword=特鲁多：加拿大绝无可能并入美国)
-1. [被骗缅北小伙称若被发现报警九死一生](https://so.toutiao.com/search?keyword=被骗缅北小伙称若被发现报警九死一生)
+1. [CBA球员把女友装行李箱带进宿舍](https://so.toutiao.com/search?keyword=CBA球员把女友装行李箱带进宿舍)
 1. [2025汽车以旧换新政策保姆级解读](https://so.toutiao.com/search?keyword=2025汽车以旧换新政策保姆级解读)
-1. [小学女生在教室呕吐 老师叫家长清理](https://so.toutiao.com/search?keyword=小学女生在教室呕吐+老师叫家长清理)
+1. [被骗缅北小伙称若被发现报警九死一生](https://so.toutiao.com/search?keyword=被骗缅北小伙称若被发现报警九死一生)
 1. [演员王星在飞机上自述剃头过程](https://so.toutiao.com/search?keyword=演员王星在飞机上自述剃头过程)
-1. [刘强东小学老师：给的钱太多太厚了](https://so.toutiao.com/search?keyword=刘强东小学老师：给的钱太多太厚了)
+1. [刘强东2025年拜年信火了](https://so.toutiao.com/search?keyword=刘强东2025年拜年信火了)
 1. [韩红基金会暂停接收定日地震定向捐赠](https://so.toutiao.com/search?keyword=韩红基金会暂停接收定日地震定向捐赠)
 1. [马媒称绑架演员王星的幕后老板被抓](https://so.toutiao.com/search?keyword=马媒称绑架演员王星的幕后老板被抓)
 1. [地震中被压废墟下的小孩图是AI生成](https://so.toutiao.com/search?keyword=地震中被压废墟下的小孩图是AI生成)
-1. [刘强东2025年拜年信火了](https://so.toutiao.com/search?keyword=刘强东2025年拜年信火了)
-1. [泰国警方确认王星是人口贩卖受害者](https://so.toutiao.com/search?keyword=泰国警方确认王星是人口贩卖受害者)
-1. [多国回应特朗普放狠话要抢地盘](https://so.toutiao.com/search?keyword=多国回应特朗普放狠话要抢地盘)
 1. [刘强东发钱 特警押运千万现金回村](https://so.toutiao.com/search?keyword=刘强东发钱+特警押运千万现金回村)
-1. [演员王星被骗细节时间线公布](https://so.toutiao.com/search?keyword=演员王星被骗细节时间线公布)
-1. [比亚迪夏上市 售24.98万起](https://so.toutiao.com/search?keyword=比亚迪夏上市+售24.98万起)
-1. [曾资助刘强东5毛钱上大学老人发声](https://so.toutiao.com/search?keyword=曾资助刘强东5毛钱上大学老人发声)
-1. [女友和演员王星见面 晒出牵手照](https://so.toutiao.com/search?keyword=女友和演员王星见面+晒出牵手照)
-1. [媒体人：特朗普2.0已从交易变豪夺](https://so.toutiao.com/search?keyword=媒体人：特朗普2.0已从交易变豪夺)
-1. [刘强东给父老乡亲的电动车到了](https://so.toutiao.com/search?keyword=刘强东给父老乡亲的电动车到了)
-1. [知情人否认电诈园区收200万放走王星](https://so.toutiao.com/search?keyword=知情人否认电诈园区收200万放走王星)
-1. [哪些手机超6千元不能国补？业内分析](https://so.toutiao.com/search?keyword=哪些手机超6千元不能国补？业内分析)
-1. [老师称56个学生仅刘强东考100分](https://so.toutiao.com/search?keyword=老师称56个学生仅刘强东考100分)
-1. [反诈专家点评王星女友教科书式求救](https://so.toutiao.com/search?keyword=反诈专家点评王星女友教科书式求救)
-1. [手机购新补贴方案来了](https://so.toutiao.com/search?keyword=手机购新补贴方案来了)
-1. [刘强东给老家送年货价值已超3000万](https://so.toutiao.com/search?keyword=刘强东给老家送年货价值已超3000万)
-1. [格陵兰岛“独立”的概率有多大](https://so.toutiao.com/search?keyword=格陵兰岛“独立”的概率有多大)
-1. [车辆高速上躲避违法变道车时出事故](https://so.toutiao.com/search?keyword=车辆高速上躲避违法变道车时出事故)
-1. [刘强东小学班主任计划将10万元捐出](https://so.toutiao.com/search?keyword=刘强东小学班主任计划将10万元捐出)
-1. [法国外长回应特朗普格陵兰岛言论](https://so.toutiao.com/search?keyword=法国外长回应特朗普格陵兰岛言论)
-1. [浙江嘉兴车祸两车斗气视频曝光](https://so.toutiao.com/search?keyword=浙江嘉兴车祸两车斗气视频曝光)
-1. [刘强东家乡老人排队领红包](https://so.toutiao.com/search?keyword=刘强东家乡老人排队领红包)
-1. [格陵兰岛：遥远之地的挣扎与希望](https://so.toutiao.com/search?keyword=格陵兰岛：遥远之地的挣扎与希望)
+1. [泰国警方确认王星是人口贩卖受害者](https://so.toutiao.com/search?keyword=泰国警方确认王星是人口贩卖受害者)
 1. [符合条件的国四燃油车将纳入报废补贴](https://so.toutiao.com/search?keyword=符合条件的国四燃油车将纳入报废补贴)
-1. [部队官兵为西藏受灾群众做饭](https://so.toutiao.com/search?keyword=部队官兵为西藏受灾群众做饭)
-1. [刘强东大学时每次回老家都看望老师](https://so.toutiao.com/search?keyword=刘强东大学时每次回老家都看望老师)
-1. [特朗普为何觊觎格陵兰岛巴拿马运河](https://so.toutiao.com/search?keyword=特朗普为何觊觎格陵兰岛巴拿马运河)
+1. [刘强东小学老师：给的钱太多太厚了](https://so.toutiao.com/search?keyword=刘强东小学老师：给的钱太多太厚了)
+1. [知情人否认电诈园区收200万放走王星](https://so.toutiao.com/search?keyword=知情人否认电诈园区收200万放走王星)
+1. [格陵兰岛“独立”的概率有多大](https://so.toutiao.com/search?keyword=格陵兰岛“独立”的概率有多大)
+1. [曾资助刘强东5毛钱上大学老人发声](https://so.toutiao.com/search?keyword=曾资助刘强东5毛钱上大学老人发声)
+1. [演员王星被骗细节时间线公布](https://so.toutiao.com/search?keyword=演员王星被骗细节时间线公布)
+1. [哪些手机超6千元不能国补？业内分析](https://so.toutiao.com/search?keyword=哪些手机超6千元不能国补？业内分析)
+1. [刘强东给父老乡亲的电动车到了](https://so.toutiao.com/search?keyword=刘强东给父老乡亲的电动车到了)
+1. [女友和演员王星见面 晒出牵手照](https://so.toutiao.com/search?keyword=女友和演员王星见面+晒出牵手照)
+1. [刘强东小学班主任计划将10万元捐出](https://so.toutiao.com/search?keyword=刘强东小学班主任计划将10万元捐出)
+1. [媒体人：特朗普2.0已从交易变豪夺](https://so.toutiao.com/search?keyword=媒体人：特朗普2.0已从交易变豪夺)
+1. [手机购新补贴方案来了](https://so.toutiao.com/search?keyword=手机购新补贴方案来了)
+1. [老师称56个学生仅刘强东考100分](https://so.toutiao.com/search?keyword=老师称56个学生仅刘强东考100分)
+1. [浙江嘉兴车祸两车斗气视频曝光](https://so.toutiao.com/search?keyword=浙江嘉兴车祸两车斗气视频曝光)
 1. [张志磊跃居WBO重量级世界第一](https://so.toutiao.com/search?keyword=张志磊跃居WBO重量级世界第一)
+1. [刘强东给老家送年货价值已超3000万](https://so.toutiao.com/search?keyword=刘强东给老家送年货价值已超3000万)
+1. [多国回应特朗普放狠话要抢地盘](https://so.toutiao.com/search?keyword=多国回应特朗普放狠话要抢地盘)
+1. [车辆高速上躲避违法变道车时出事故](https://so.toutiao.com/search?keyword=车辆高速上躲避违法变道车时出事故)
+1. [刘强东语文老师领红包时现场赋诗](https://so.toutiao.com/search?keyword=刘强东语文老师领红包时现场赋诗)
+1. [特朗普为何觊觎格陵兰岛巴拿马运河](https://so.toutiao.com/search?keyword=特朗普为何觊觎格陵兰岛巴拿马运河)
+1. [韩国代总统称抓尹锡悦不能发生冲突](https://so.toutiao.com/search?keyword=韩国代总统称抓尹锡悦不能发生冲突)
+1. [老人和老师获刘强东红包要交个税吗](https://so.toutiao.com/search?keyword=老人和老师获刘强东红包要交个税吗)
+1. [格陵兰岛：遥远之地的挣扎与希望](https://so.toutiao.com/search?keyword=格陵兰岛：遥远之地的挣扎与希望)
+1. [特朗普退群准备就绪 欧盟官员发警告](https://so.toutiao.com/search?keyword=特朗普退群准备就绪+欧盟官员发警告)
+1. [小学女生在教室呕吐 老师叫家长清理](https://so.toutiao.com/search?keyword=小学女生在教室呕吐+老师叫家长清理)
+1. [法国外长回应特朗普格陵兰岛言论](https://so.toutiao.com/search?keyword=法国外长回应特朗普格陵兰岛言论)
+1. [反诈专家点评王星女友教科书式求救](https://so.toutiao.com/search?keyword=反诈专家点评王星女友教科书式求救)
+1. [比亚迪夏上市 售24.98万起](https://so.toutiao.com/search?keyword=比亚迪夏上市+售24.98万起)
+1. [特朗普派儿子去格陵兰岛干什么](https://so.toutiao.com/search?keyword=特朗普派儿子去格陵兰岛干什么)
+1. [中国锂储量跃居世界第二](https://so.toutiao.com/search?keyword=中国锂储量跃居世界第二)
+1. [西港特区以共赢为中柬友谊增光添彩](https://so.toutiao.com/search?keyword=西港特区以共赢为中柬友谊增光添彩)
+1. [西藏震区男孩说长大也要成为解放军](https://so.toutiao.com/search?keyword=西藏震区男孩说长大也要成为解放军)
+1. [刘强东家乡老人排队领红包](https://so.toutiao.com/search?keyword=刘强东家乡老人排队领红包)
+1. [刘强东大学时每次回老家都看望老师](https://so.toutiao.com/search?keyword=刘强东大学时每次回老家都看望老师)
 1. [村民在刘强东老家门口燃放烟花致谢](https://so.toutiao.com/search?keyword=村民在刘强东老家门口燃放烟花致谢)
 1. [起底妙瓦底诈骗陷阱](https://so.toutiao.com/search?keyword=起底妙瓦底诈骗陷阱)
-1. [特朗普退群准备就绪 欧盟官员发警告](https://so.toutiao.com/search?keyword=特朗普退群准备就绪+欧盟官员发警告)
 1. [舅舅：刘强东创业砸掉几十万](https://so.toutiao.com/search?keyword=舅舅：刘强东创业砸掉几十万)
-1. [西藏震区男孩说长大也要成为解放军](https://so.toutiao.com/search?keyword=西藏震区男孩说长大也要成为解放军)
-1. [特朗普派儿子去格陵兰岛干什么](https://so.toutiao.com/search?keyword=特朗普派儿子去格陵兰岛干什么)
-1. [刘强东语文老师领红包时现场赋诗](https://so.toutiao.com/search?keyword=刘强东语文老师领红包时现场赋诗)
-1. [老人和老师获刘强东红包要交个税吗](https://so.toutiao.com/search?keyword=老人和老师获刘强东红包要交个税吗)
 1. [反腐大片：市委书记给GDP狂注水](https://so.toutiao.com/search?keyword=反腐大片：市委书记给GDP狂注水)
 1. [加执政党发图回击特朗普美加合并图](https://so.toutiao.com/search?keyword=加执政党发图回击特朗普美加合并图)
 1. [特朗普考虑宣布国家经济紧急状态](https://so.toutiao.com/search?keyword=特朗普考虑宣布国家经济紧急状态)
@@ -82,7 +85,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Thu Jan 09 2025 02:14:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 09 2025 03:00:41 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -90,7 +93,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Jan 09 2025 02:14:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 09 2025 03:00:41 GMT+0800 (China Standard Time) -->
 1. [腊八节](https://www.zhihu.com/search?q=腊八节)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [独行侠战胜湖人](https://www.zhihu.com/search?q=独行侠战胜湖人)
@@ -107,7 +110,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Jan 09 2025 02:14:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 09 2025 03:00:41 GMT+0800 (China Standard Time) -->
 1. [去泰国或者东南亚国家旅行还安全吗？你还敢去吗？](https://www.zhihu.com/question/8994233505)
 1. [两部门发布「买手机最高补贴 500 元，电脑最高补贴 2000 元等」，将带来哪些影响？](https://www.zhihu.com/question/9037120208)
 1. [如何看待失业人在「假装上班公司」自费打工，一天交 30 元，怒怼老板另收费？假装上班装的是什么？](https://www.zhihu.com/question/9041136145)
@@ -137,6 +140,7 @@
 1. [在游戏中有没有类似缅北诈骗园区这样的反派组织，一般来说清剿这些组织需要怎样的人员、装备和火力？](https://www.zhihu.com/question/9038172381)
 1. [《海贼王》里的世界有多严谨？](https://www.zhihu.com/question/383356468)
 1. [你怎么看待卖保险的人？](https://www.zhihu.com/question/35524334)
+1. [这届小朋友眼中的「春节」是什么样子？你家小朋友最期待过年的哪个环节呢？](https://www.zhihu.com/question/8352529198)
 1. [如何评价新游戏《燕云十六声》?](https://www.zhihu.com/question/8168848861)
 1. [没有资源的孩子怎样“跑”出未来？](https://www.zhihu.com/question/8682967354)
 1. [东北铁锅炖饭店是不是最近10年才出现的？](https://www.zhihu.com/question/5378742450)

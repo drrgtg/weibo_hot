@@ -13,60 +13,67 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Feb 17 2025 02:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 17 2025 03:00:51 GMT+0800 (China Standard Time) -->
 1. [哪吒2冲击全球影史票房前10](https://so.toutiao.com/search?keyword=哪吒2冲击全球影史票房前10)
 1. [山火后洛杉矶1天下完9个月的雨](https://so.toutiao.com/search?keyword=山火后洛杉矶1天下完9个月的雨)
 1. [经济增长主动力作用持续显现](https://so.toutiao.com/search?keyword=经济增长主动力作用持续显现)
 1. [哪吒2北美首日票房310万美元](https://so.toutiao.com/search?keyword=哪吒2北美首日票房310万美元)
 1. [25岁韩星金赛纶在家中去世](https://so.toutiao.com/search?keyword=25岁韩星金赛纶在家中去世)
-1. [德总理暗讽万斯 台下观众大笑](https://so.toutiao.com/search?keyword=德总理暗讽万斯+台下观众大笑)
 1. [腾讯回应微信接入DeepSeek](https://so.toutiao.com/search?keyword=腾讯回应微信接入DeepSeek)
+1. [德总理暗讽万斯 台下观众大笑](https://so.toutiao.com/search?keyword=德总理暗讽万斯+台下观众大笑)
 1. [六旬老太飞机上昏迷猝死 川航回应](https://so.toutiao.com/search?keyword=六旬老太飞机上昏迷猝死+川航回应)
-1. [法国小伙带622张日军侵华照片来华](https://so.toutiao.com/search?keyword=法国小伙带622张日军侵华照片来华)
-1. [39岁司机猝死 卡友护送遗体回乡](https://so.toutiao.com/search?keyword=39岁司机猝死+卡友护送遗体回乡)
+1. [撞船后美航母受损画面首次曝光](https://so.toutiao.com/search?keyword=撞船后美航母受损画面首次曝光)
+1. [特朗普想要乌克兰一半稀土矿](https://so.toutiao.com/search?keyword=特朗普想要乌克兰一半稀土矿)
 1. [媒体：接入DeepSeek 腾讯也要重估了](https://so.toutiao.com/search?keyword=媒体：接入DeepSeek+腾讯也要重估了)
 1. [乌总统：美国靠不住欧洲要靠自己](https://so.toutiao.com/search?keyword=乌总统：美国靠不住欧洲要靠自己)
-1. [撞船后美航母受损画面首次曝光](https://so.toutiao.com/search?keyword=撞船后美航母受损画面首次曝光)
-1. [美军机降落莫斯科影响几何](https://so.toutiao.com/search?keyword=美军机降落莫斯科影响几何)
+1. [39岁司机猝死 卡友护送遗体回乡](https://so.toutiao.com/search?keyword=39岁司机猝死+卡友护送遗体回乡)
+1. [法国小伙带622张日军侵华照片来华](https://so.toutiao.com/search?keyword=法国小伙带622张日军侵华照片来华)
 1. [3人传播男童被拐谣言遭处罚](https://so.toutiao.com/search?keyword=3人传播男童被拐谣言遭处罚)
-1. [《封神第三部》已剪完](https://so.toutiao.com/search?keyword=《封神第三部》已剪完)
-1. [哪吒2鹿童放大招1帧渲染40小时](https://so.toutiao.com/search?keyword=哪吒2鹿童放大招1帧渲染40小时)
-1. [哪吒2在台没上映 郭正亮教咋看](https://so.toutiao.com/search?keyword=哪吒2在台没上映+郭正亮教咋看)
-1. [DeepSeek爆火的启示](https://so.toutiao.com/search?keyword=DeepSeek爆火的启示)
-1. [特朗普想要乌克兰一半稀土矿](https://so.toutiao.com/search?keyword=特朗普想要乌克兰一半稀土矿)
-1. [除夕出走的成都28岁女子遗体被找到](https://so.toutiao.com/search?keyword=除夕出走的成都28岁女子遗体被找到)
-1. [万岁山巨人演员睡3米大床穿59码鞋](https://so.toutiao.com/search?keyword=万岁山巨人演员睡3米大床穿59码鞋)
-1. [驻美使馆提醒在美中国公民进行登记](https://so.toutiao.com/search?keyword=驻美使馆提醒在美中国公民进行登记)
-1. [大范围阴雨雪将持续到下下周](https://so.toutiao.com/search?keyword=大范围阴雨雪将持续到下下周)
 1. [泽连斯基逼西方二选一能如愿以偿吗](https://so.toutiao.com/search?keyword=泽连斯基逼西方二选一能如愿以偿吗)
-1. [一颗小行星有2%概率2032年撞击地球](https://so.toutiao.com/search?keyword=一颗小行星有2%概率2032年撞击地球)
-1. [普通人怎样当好“AI玩家”](https://so.toutiao.com/search?keyword=普通人怎样当好“AI玩家”)
+1. [哪吒2鹿童放大招1帧渲染40小时](https://so.toutiao.com/search?keyword=哪吒2鹿童放大招1帧渲染40小时)
+1. [《封神第三部》已剪完](https://so.toutiao.com/search?keyword=《封神第三部》已剪完)
+1. [大范围阴雨雪将持续到下下周](https://so.toutiao.com/search?keyword=大范围阴雨雪将持续到下下周)
+1. [驻美使馆提醒在美中国公民进行登记](https://so.toutiao.com/search?keyword=驻美使馆提醒在美中国公民进行登记)
+1. [除夕出走的成都28岁女子遗体被找到](https://so.toutiao.com/search?keyword=除夕出走的成都28岁女子遗体被找到)
 1. [西安“冯村射虎”盛大巡游人山人海](https://so.toutiao.com/search?keyword=西安“冯村射虎”盛大巡游人山人海)
-1. [大V解读王毅用奉陪到底回应美方打压](https://so.toutiao.com/search?keyword=大V解读王毅用奉陪到底回应美方打压)
-1. [人形机器人最多能扛80斤](https://so.toutiao.com/search?keyword=人形机器人最多能扛80斤)
-1. [百度搜索宣布将全面接入DeepSeek](https://so.toutiao.com/search?keyword=百度搜索宣布将全面接入DeepSeek)
-1. [当地回应套圈套中玛莎拉蒂被疑摆拍](https://so.toutiao.com/search?keyword=当地回应套圈套中玛莎拉蒂被疑摆拍)
+1. [普通人怎样当好“AI玩家”](https://so.toutiao.com/search?keyword=普通人怎样当好“AI玩家”)
+1. [DeepSeek爆火的启示](https://so.toutiao.com/search?keyword=DeepSeek爆火的启示)
+1. [官方：感染诺如病毒不得带病上岗上课](https://so.toutiao.com/search?keyword=官方：感染诺如病毒不得带病上岗上课)
+1. [哪吒2在台没上映 郭正亮教咋看](https://so.toutiao.com/search?keyword=哪吒2在台没上映+郭正亮教咋看)
 1. [医生：流感后出现4症状警惕重症](https://so.toutiao.com/search?keyword=医生：流感后出现4症状警惕重症)
-1. [比亚迪和华为智驾谁更强](https://so.toutiao.com/search?keyword=比亚迪和华为智驾谁更强)
+1. [一颗小行星有2%概率2032年撞击地球](https://so.toutiao.com/search?keyword=一颗小行星有2%概率2032年撞击地球)
+1. [美军机降落莫斯科影响几何](https://so.toutiao.com/search?keyword=美军机降落莫斯科影响几何)
+1. [大V解读王毅用奉陪到底回应美方打压](https://so.toutiao.com/search?keyword=大V解读王毅用奉陪到底回应美方打压)
 1. [郭德纲回应不让德云社人员直播和带货](https://so.toutiao.com/search?keyword=郭德纲回应不让德云社人员直播和带货)
-1. [小车突然停下 后方电动车无接触摔倒](https://so.toutiao.com/search?keyword=小车突然停下+后方电动车无接触摔倒)
+1. [媒体：中美背靠背演讲现场温差明显](https://so.toutiao.com/search?keyword=媒体：中美背靠背演讲现场温差明显)
+1. [万岁山巨人演员睡3米大床穿59码鞋](https://so.toutiao.com/search?keyword=万岁山巨人演员睡3米大床穿59码鞋)
 1. [多家银行上调存款利率 10万1年多350](https://so.toutiao.com/search?keyword=多家银行上调存款利率+10万1年多350)
-1. [学者：泽连斯基不想签城下之盟](https://so.toutiao.com/search?keyword=学者：泽连斯基不想签城下之盟)
+1. [DeepSeek重塑中国大模型产业生态](https://so.toutiao.com/search?keyword=DeepSeek重塑中国大模型产业生态)
+1. [评论员：摄像头泛滥需要管住](https://so.toutiao.com/search?keyword=评论员：摄像头泛滥需要管住)
+1. [人形机器人最多能扛80斤](https://so.toutiao.com/search?keyword=人形机器人最多能扛80斤)
+1. [大妈拦婚车抢糖 网友担心车标受损](https://so.toutiao.com/search?keyword=大妈拦婚车抢糖+网友担心车标受损)
+1. [比亚迪和华为智驾谁更强](https://so.toutiao.com/search?keyword=比亚迪和华为智驾谁更强)
+1. [王毅会见乌克兰外长](https://so.toutiao.com/search?keyword=王毅会见乌克兰外长)
+1. [百度搜索宣布将全面接入DeepSeek](https://so.toutiao.com/search?keyword=百度搜索宣布将全面接入DeepSeek)
+1. [新加坡防长谈南海争端本质](https://so.toutiao.com/search?keyword=新加坡防长谈南海争端本质)
 1. [日本人怎么看DeepSeek](https://so.toutiao.com/search?keyword=日本人怎么看DeepSeek)
+1. [万斯慕安会发言为何在欧洲引发争议](https://so.toutiao.com/search?keyword=万斯慕安会发言为何在欧洲引发争议)
+1. [菲律宾外长披露中菲磋商细节](https://so.toutiao.com/search?keyword=菲律宾外长披露中菲磋商细节)
+1. [港星卫诗雅举办婚礼](https://so.toutiao.com/search?keyword=港星卫诗雅举办婚礼)
+1. [特斯拉内部担心马斯克涉政伤害公司](https://so.toutiao.com/search?keyword=特斯拉内部担心马斯克涉政伤害公司)
+1. [媒体评DeepSeek成赶作业“神器”](https://so.toutiao.com/search?keyword=媒体评DeepSeek成赶作业“神器”)
+1. [微信AI搜索是否呼之欲出](https://so.toutiao.com/search?keyword=微信AI搜索是否呼之欲出)
+1. [郭麒麟在单依纯演唱会Kiss环节整活](https://so.toutiao.com/search?keyword=郭麒麟在单依纯演唱会Kiss环节整活)
+1. [当地回应套圈套中玛莎拉蒂被疑摆拍](https://so.toutiao.com/search?keyword=当地回应套圈套中玛莎拉蒂被疑摆拍)
+1. [小车突然停下 后方电动车无接触摔倒](https://so.toutiao.com/search?keyword=小车突然停下+后方电动车无接触摔倒)
+1. [学者：泽连斯基不想签城下之盟](https://so.toutiao.com/search?keyword=学者：泽连斯基不想签城下之盟)
 1. [机器人抗暴力测试表演胸口碎大石](https://so.toutiao.com/search?keyword=机器人抗暴力测试表演胸口碎大石)
 1. [泽连斯基称应由乌方定谈判桌人选](https://so.toutiao.com/search?keyword=泽连斯基称应由乌方定谈判桌人选)
-1. [新加坡防长谈南海争端本质](https://so.toutiao.com/search?keyword=新加坡防长谈南海争端本质)
 1. [申公豹一家的真身是什么动物](https://so.toutiao.com/search?keyword=申公豹一家的真身是什么动物)
-1. [王毅会见乌克兰外长](https://so.toutiao.com/search?keyword=王毅会见乌克兰外长)
 1. [城管凌晨撬门运走搅拌机？官方回应](https://so.toutiao.com/search?keyword=城管凌晨撬门运走搅拌机？官方回应)
-1. [菲律宾外长披露中菲磋商细节](https://so.toutiao.com/search?keyword=菲律宾外长披露中菲磋商细节)
-1. [DeepSeek重塑中国大模型产业生态](https://so.toutiao.com/search?keyword=DeepSeek重塑中国大模型产业生态)
-1. [媒体：中美背靠背演讲现场温差明显](https://so.toutiao.com/search?keyword=媒体：中美背靠背演讲现场温差明显)
 1. [德法官员称反对外来干涉](https://so.toutiao.com/search?keyword=德法官员称反对外来干涉)
 1. [乌尔善说希望观众给封神3机会](https://so.toutiao.com/search?keyword=乌尔善说希望观众给封神3机会)
-1. [媒体评DeepSeek成赶作业“神器”](https://so.toutiao.com/search?keyword=媒体评DeepSeek成赶作业“神器”)
 1. [U20亚洲杯：伊拉克1-0力克沙特](https://so.toutiao.com/search?keyword=U20亚洲杯：伊拉克1-0力克沙特)
-1. [评论员：摄像头泛滥需要管住](https://so.toutiao.com/search?keyword=评论员：摄像头泛滥需要管住)
 1. [云南一女子失联 疑带三月龄女儿跳江](https://so.toutiao.com/search?keyword=云南一女子失联+疑带三月龄女儿跳江)
 1. [郑州暴雨救祖孙3人的菜刀哥病危](https://so.toutiao.com/search?keyword=郑州暴雨救祖孙3人的菜刀哥病危)
 1. [外公突然造访 7岁外孙热情招待](https://so.toutiao.com/search?keyword=外公突然造访+7岁外孙热情招待)
@@ -78,9 +85,7 @@
 1. [U20国足令人眼前一亮证明青训走对路](https://so.toutiao.com/search?keyword=U20国足令人眼前一亮证明青训走对路)
 1. [村副主任耍狮头闹元宵突发心梗离世](https://so.toutiao.com/search?keyword=村副主任耍狮头闹元宵突发心梗离世)
 1. [佩斯科夫：俄罗斯已吸取被骗教训](https://so.toutiao.com/search?keyword=佩斯科夫：俄罗斯已吸取被骗教训)
-1. [郭麒麟在单依纯演唱会Kiss环节整活](https://so.toutiao.com/search?keyword=郭麒麟在单依纯演唱会Kiss环节整活)
 1. [克宫：协商一致后特朗普可随时访俄](https://so.toutiao.com/search?keyword=克宫：协商一致后特朗普可随时访俄)
-1. [港星卫诗雅举办婚礼](https://so.toutiao.com/search?keyword=港星卫诗雅举办婚礼)
 1. [阿鬼让大家看到了不一样的王宝强](https://so.toutiao.com/search?keyword=阿鬼让大家看到了不一样的王宝强)
 1. [小孩被困池塘中间 众人拿长椅救人](https://so.toutiao.com/search?keyword=小孩被困池塘中间+众人拿长椅救人)
 <!-- END TOUTIAO -->
@@ -89,7 +94,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Feb 17 2025 02:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 17 2025 03:00:51 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -97,7 +102,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Feb 17 2025 02:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 17 2025 03:00:51 GMT+0800 (China Standard Time) -->
 1. [小说推文](https://www.zhihu.com/search?q=小说推文)
 1. [央行称实施好适度宽松的货币政策](https://www.zhihu.com/search?q=央行称实施好适度宽松的货币政策)
 1. [独行侠战胜勇士](https://www.zhihu.com/search?q=独行侠战胜勇士)
@@ -114,7 +119,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Feb 17 2025 02:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 17 2025 03:00:51 GMT+0800 (China Standard Time) -->
 1. [《哪吒2》票房破 111 亿，奥斯卡评委喊话饺子「期待角逐奥斯卡，我会投票」，有多大的获奖可能性？](https://www.zhihu.com/question/12349394734)
 1. [微信目前正在灰度测试接入DeepSeek-R1大模型，有哪些信息值得关注？](https://www.zhihu.com/question/12352110602)
 1. [中国体彩辟谣 AI 预测中奖号码，表示「再强大的 AI，也无法预测彩票中奖号码」，有何警示？](https://www.zhihu.com/question/12019987474)
@@ -143,12 +148,12 @@
 1. [勇士交易来吉米巴特勒，真的能帮助库里拿到第五个总冠军吗？](https://www.zhihu.com/question/11436380441)
 1. [本土哪吒民间信仰的起源，究竟是在四川还是天津？](https://www.zhihu.com/question/11650525879)
 1. [为什么现在亲戚变得越来越不亲了？](https://www.zhihu.com/question/618351522)
-1. [中国古代很早就开始使用面食，为什么没有人发明面包和饼干呢?](https://www.zhihu.com/question/11933917789)
 1. [为什么当初京广线不走南昌而走长沙？](https://www.zhihu.com/question/40743279)
+1. [为什么种花会上瘾？](https://www.zhihu.com/question/484095199)
+1. [中国古代很早就开始使用面食，为什么没有人发明面包和饼干呢?](https://www.zhihu.com/question/11933917789)
 1. [如何看待特朗普政府被曝曾建议乌克兰转让 50% 稀土矿所有权给美国？提议背后的战略意图是什么？](https://www.zhihu.com/question/12372962376)
 1. [为什么《宿命之环》完结后书友大多和亚当阿蒙共情?](https://www.zhihu.com/question/9781070500)
 1. [在黄泥岗，晁盖等人为什么不把麻翻了的杨志一伙人杀掉？](https://www.zhihu.com/question/9088193330)
-1. [为什么种花会上瘾？](https://www.zhihu.com/question/484095199)
 <!-- END ZHIHUQUESTIONS -->
 
 

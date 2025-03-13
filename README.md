@@ -13,7 +13,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Mar 13 2025 06:00:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 13 2025 19:00:55 GMT+0800 (China Standard Time) -->
+1. [天津市委组织部部长周德睿被查](https://so.toutiao.com/search?keyword=天津市委组织部部长周德睿被查)
+1. [王树国：福耀科大8年制让学生不内卷](https://so.toutiao.com/search?keyword=王树国：福耀科大8年制让学生不内卷)
+1. [春风行动今年已举办4.1万场招聘](https://so.toutiao.com/search?keyword=春风行动今年已举办4.1万场招聘)
+1. [国务院挂牌督办杨铭宇黄焖鸡乱象](https://so.toutiao.com/search?keyword=国务院挂牌督办杨铭宇黄焖鸡乱象)
+1. [接美国流浪宇航员的发射取消了](https://so.toutiao.com/search?keyword=接美国流浪宇航员的发射取消了)
+1. [网警打谣｜“相亲”男及团伙7人被拘](https://so.toutiao.com/search?keyword=网警打谣｜“相亲”男及团伙7人被拘)
+1. [呼和浩特生三孩补贴10万](https://so.toutiao.com/search?keyword=呼和浩特生三孩补贴10万)
+1. [王树国的教学计划曹德旺都听呆了](https://so.toutiao.com/search?keyword=王树国的教学计划曹德旺都听呆了)
+1. [9.9元每升的100%椰子水安全吗](https://so.toutiao.com/search?keyword=9.9元每升的100%椰子水安全吗)
+1. [褪黑素安全没有副作用？官方辟谣](https://so.toutiao.com/search?keyword=褪黑素安全没有副作用？官方辟谣)
+1. [特朗普称若普京拒停火将搞垮俄经济](https://so.toutiao.com/search?keyword=特朗普称若普京拒停火将搞垮俄经济)
+1. [女子考科目一紧张晕倒后顺利通过](https://so.toutiao.com/search?keyword=女子考科目一紧张晕倒后顺利通过)
+1. [黄晓明幽默否认输了十个亿](https://so.toutiao.com/search?keyword=黄晓明幽默否认输了十个亿)
+1. [福耀科大超60%老师来自国外](https://so.toutiao.com/search?keyword=福耀科大超60%老师来自国外)
+1. [金赛纶下跪才将赔偿金协商到7亿韩元](https://so.toutiao.com/search?keyword=金赛纶下跪才将赔偿金协商到7亿韩元)
+1. [外卖员从来不碰的外卖有哪些](https://so.toutiao.com/search?keyword=外卖员从来不碰的外卖有哪些)
+1. [男子鱼竿误触高压线瞬间被电倒地](https://so.toutiao.com/search?keyword=男子鱼竿误触高压线瞬间被电倒地)
+1. [华为官宣3月20日发布多个重磅产品](https://so.toutiao.com/search?keyword=华为官宣3月20日发布多个重磅产品)
+1. [女子挂空挡踩油门吓跑对面桌的朋友](https://so.toutiao.com/search?keyword=女子挂空挡踩油门吓跑对面桌的朋友)
+1. [特朗普手上淤青没消 白宫：握手太多](https://so.toutiao.com/search?keyword=特朗普手上淤青没消+白宫：握手太多)
+1. [普京：要彻底夺回库尔斯克地区](https://so.toutiao.com/search?keyword=普京：要彻底夺回库尔斯克地区)
+1. [董明珠暗讽有人靠炒高股价成了首富](https://so.toutiao.com/search?keyword=董明珠暗讽有人靠炒高股价成了首富)
+1. [媒体人：叙利亚人开始怀念巴沙尔](https://so.toutiao.com/search?keyword=媒体人：叙利亚人开始怀念巴沙尔)
+1. [内蒙古未成年女遭生父强奸案有进展](https://so.toutiao.com/search?keyword=内蒙古未成年女遭生父强奸案有进展)
+1. [金赛纶被催款细节：吓到浑身发抖](https://so.toutiao.com/search?keyword=金赛纶被催款细节：吓到浑身发抖)
+1. [华为预告一台新形态小折叠手机](https://so.toutiao.com/search?keyword=华为预告一台新形态小折叠手机)
+1. [美国四大半导体全由华人掌舵](https://so.toutiao.com/search?keyword=美国四大半导体全由华人掌舵)
+1. [南京一男子从商场9楼跳下身亡](https://so.toutiao.com/search?keyword=南京一男子从商场9楼跳下身亡)
+1. [董明珠：没有我格力当年就垮了](https://so.toutiao.com/search?keyword=董明珠：没有我格力当年就垮了)
+1. [媒体：沃尔玛鸡贼做法必然面临后果](https://so.toutiao.com/search?keyword=媒体：沃尔玛鸡贼做法必然面临后果)
+1. [驻外人员嫖娼遭威胁 向间谍大量泄密](https://so.toutiao.com/search?keyword=驻外人员嫖娼遭威胁+向间谍大量泄密)
+1. [马琳被曼昱打脑门又被莎莎击肚子](https://so.toutiao.com/search?keyword=马琳被曼昱打脑门又被莎莎击肚子)
+1. [俄外长：俄永不会违背对中国的承诺](https://so.toutiao.com/search?keyword=俄外长：俄永不会违背对中国的承诺)
+1. [美国能让欧洲的F35一键关机吗](https://so.toutiao.com/search?keyword=美国能让欧洲的F35一键关机吗)
+1. [台媒体人：台湾就是中国的一部分](https://so.toutiao.com/search?keyword=台媒体人：台湾就是中国的一部分)
+1. [马来西亚影院隔15分钟一场哪吒2](https://so.toutiao.com/search?keyword=马来西亚影院隔15分钟一场哪吒2)
+1. [黄奕：没有任何事情能阻挡海伦赚钱](https://so.toutiao.com/search?keyword=黄奕：没有任何事情能阻挡海伦赚钱)
+1. [黄焖鸡变“馊”焖鸡 食安漏洞何时休](https://so.toutiao.com/search?keyword=黄焖鸡变“馊”焖鸡+食安漏洞何时休)
+1. [余承东庆祝抖音粉丝破500万](https://so.toutiao.com/search?keyword=余承东庆祝抖音粉丝破500万)
+1. [中国印钞造币集团：从未发售虚拟货币](https://so.toutiao.com/search?keyword=中国印钞造币集团：从未发售虚拟货币)
+1. [媒体：“永久关店”难解食品安全题](https://so.toutiao.com/search?keyword=媒体：“永久关店”难解食品安全题)
+1. [穆婷婷回应长相酷似包上恩](https://so.toutiao.com/search?keyword=穆婷婷回应长相酷似包上恩)
+1. [拉夫罗夫涉华言论传递什么信号](https://so.toutiao.com/search?keyword=拉夫罗夫涉华言论传递什么信号)
+1. [麦琳首次回应质疑和网暴：问心无愧](https://so.toutiao.com/search?keyword=麦琳首次回应质疑和网暴：问心无愧)
+1. [前东北首富上了证监会头条](https://so.toutiao.com/search?keyword=前东北首富上了证监会头条)
+1. [萌娃用善良的面孔欺骗单纯的老师](https://so.toutiao.com/search?keyword=萌娃用善良的面孔欺骗单纯的老师)
+1. [专家分析尹锡悦获释后弹劾案走向](https://so.toutiao.com/search?keyword=专家分析尹锡悦获释后弹劾案走向)
+1. [刘德华倪妮二搭新片定档五一](https://so.toutiao.com/search?keyword=刘德华倪妮二搭新片定档五一)
+1. [仿冒DeepSeek骗局层出不穷](https://so.toutiao.com/search?keyword=仿冒DeepSeek骗局层出不穷)
+1. [余承东：问界M8订单远超预期](https://so.toutiao.com/search?keyword=余承东：问界M8订单远超预期)
 1. [国台办回应政府工作报告没提和平统一](https://so.toutiao.com/search?keyword=国台办回应政府工作报告没提和平统一)
 1. [杨铭宇黄焖鸡致歉](https://so.toutiao.com/search?keyword=杨铭宇黄焖鸡致歉)
 1. [《政府工作报告》全文发布](https://so.toutiao.com/search?keyword=《政府工作报告》全文发布)
@@ -77,7 +127,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Thu Mar 13 2025 06:00:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 13 2025 19:00:55 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -85,24 +135,58 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Mar 13 2025 06:00:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 13 2025 19:00:55 GMT+0800 (China Standard Time) -->
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
-1. [世界上有多少个和弦](https://www.zhihu.com/search?q=世界上有多少个和弦)
-1. [湖人vs篮网](https://www.zhihu.com/search?q=湖人vs篮网)
 1. [著名的设计失败的汽车有哪些](https://www.zhihu.com/search?q=著名的设计失败的汽车有哪些)
 1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=上海申花vs川崎前锋)
-1. [为什么金子是金色](https://www.zhihu.com/search?q=为什么金子是金色)
-1. [俄罗斯遭大规模无人机袭击](https://www.zhihu.com/search?q=俄罗斯遭大规模无人机袭击)
+1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=数学是从什么时候开始反直觉的)
 1. [体制内犯了多大的错误才被开除](https://www.zhihu.com/search?q=体制内犯了多大的错误才被开除)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
 1. [孙颖莎3比0波尔卡诺娃](https://www.zhihu.com/search?q=孙颖莎3比0波尔卡诺娃)
+1. [金融监管总局将研究提高消费贷款额度](https://www.zhihu.com/search?q=金融监管总局将研究提高消费贷款额度)
+1. [广东男篮大胜辽宁男篮](https://www.zhihu.com/search?q=广东男篮大胜辽宁男篮)
+1. [王大陆被裁定交保500万](https://www.zhihu.com/search?q=王大陆被裁定交保500万)
+1. [世界上有多少个和弦](https://www.zhihu.com/search?q=世界上有多少个和弦)
+1. [湖人vs篮网](https://www.zhihu.com/search?q=湖人vs篮网)
+1. [为什么金子是金色](https://www.zhihu.com/search?q=为什么金子是金色)
+1. [俄罗斯遭大规模无人机袭击](https://www.zhihu.com/search?q=俄罗斯遭大规模无人机袭击)
 <!-- END ZHIHUSEARCH -->
 
 
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Mar 13 2025 06:00:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 13 2025 19:00:55 GMT+0800 (China Standard Time) -->
+1. [国家版减肥指南发布，内含权威食谱「细化到不同地区人群健康减肥该怎么吃」，还有哪些内容值得关注？](https://www.zhihu.com/question/14675409502)
+1. [SpaceX 取消 Crew-10 发射任务，美国滞留太空宇航员归家再延期，具体情况如何？](https://www.zhihu.com/question/14816271584)
+1. [如何看待英国演员迈克尔·辛用 10 万英镑帮 900 名穷人化掉 100 万英镑债务？他是怎么做到的？](https://www.zhihu.com/question/14810664679)
+1. [福耀科技大学校长说本硕博 8 年制大学让学生不用内卷，如何评价此模式？本科毕业后你想工作还是继续上学？](https://www.zhihu.com/question/14831511510)
+1. [美国教育部宣布将裁员近 50%，美媒称这是解散教育部的前奏，美国的教育生态会受到何种影响？](https://www.zhihu.com/question/14745942630)
+1. [如何看待云南某版数学教辅书中「锐锐」这一人物形象出圈？](https://www.zhihu.com/question/14708779803)
+1. [有钱人炫富的经典台词「给我来瓶 82 年的拉菲」，82 年的拉菲到底产了多少瓶？为什么要 82 年的？](https://www.zhihu.com/question/14563839976)
+1. [如何看待乔治·马丁采访时声称「我必须尽快写完《冰与火之歌》第六卷」？你期待后续剧情怎么发展？](https://www.zhihu.com/question/14798222470)
+1. [Yu Deng 及合作者在 arxiv 发布希尔伯特第六问题论文，这个世纪数学难题是否已被最终解决？](https://www.zhihu.com/question/14073117334)
+1. [苹果的统一内存可以高达192GB，为什么NVIDIA不能推出一款200GB显存以上的GPU？](https://www.zhihu.com/question/610086426)
+1. [由于「与已故童星金赛纶恋爱争议」持续发酵，金秀贤在韩国遭到抵制，具体情况如何？他的演艺道路还能继续吗？](https://www.zhihu.com/question/14823107574)
+1. [如何看待小米 SU7 系列周新增订单 1.9 万辆？](https://www.zhihu.com/question/14645062362)
+1. [古代饥荒，为什么百姓宁愿吃草根、啃树皮，也不去抓河里的鱼虾？](https://www.zhihu.com/question/13476829979)
+1. [天津公厕紫外线自动消杀惊呆市民，如厕前后消杀两次，实际效果如何？值得推广吗？](https://www.zhihu.com/question/14483860056)
+1. [如何每天只睡6小时，还保持一整天都精力充沛？](https://www.zhihu.com/question/379478413)
+1. [女子通一次马桶被收费 3180 元，几十元的疏通剂被收三百多，你有过类似经历吗？上门维修还有哪些坑？](https://www.zhihu.com/question/14796657491)
+1. [TES在2025全球先锋赛连续不敌HLE与KC，究竟是「版本不适」还是「团队溃败」？](https://www.zhihu.com/question/14841423155)
+1. [你认为《双影奇境》超过了前作《双人成行》吗？](https://www.zhihu.com/question/14248228055)
+1. [24-25赛季NBA常规赛雷霆 118:112 凯尔特人，如何评价这场比赛？](https://www.zhihu.com/question/14815823884)
+1. [字节跳动是怎样在 BAT 三巨头的眼皮底下发展起来的？](https://www.zhihu.com/question/422443922)
+1. [DeepSeek 眼中不会被 AI 替代的职业，教师、心理咨询师、外科医生等在列，你认为有哪些职业？](https://www.zhihu.com/question/14776671347)
+1. [印度一航班 12 个厕所堵 11 个被迫返航，这暴露了哪些问题？你对此有哪些评价？](https://www.zhihu.com/question/14604130813)
+1. [如何评价虞书欣、林一主演的电视剧《嘘，国王在冬眠》？](https://www.zhihu.com/question/14504733749)
+1. [如何看待《哪吒之魔童闹海》将于 3 月 21 日在欧洲 37 个国家和地区上映？在欧洲能收获多少票房？](https://www.zhihu.com/question/14685471590)
+1. [越来越多年轻人出门开始自带物品，奶茶店用自带杯、餐馆就餐自带酒，这反映了什么趋势？你出门会自带装备吗？](https://www.zhihu.com/question/14740763420)
+1. [你是如何理解说“世界上只有一种真正的英雄主义，那就是在认清生活真相之后依然热爱生活。”​这句话的？](https://www.zhihu.com/question/444692833)
+1. [都说苹果是细节狂魔，那苹果有没有细节其实做的很差的点？](https://www.zhihu.com/question/14473343813)
+1. [考研复试中老师问你「如果实验结果与预期不符合，你会怎么做」，该怎么回答？](https://www.zhihu.com/question/14616858048)
+1. [如果极简风装修就是「空无一物」，为什么内行人都说「越极简越烧钱」？](https://www.zhihu.com/question/14562273576)
+1. [心力是什么？](https://www.zhihu.com/question/21247407)
 1. [杨铭宇黄焖鸡被曝回收剩菜再卖给顾客，如何看待此事？连锁餐饮品牌食品安全如何保障？](https://www.zhihu.com/question/14756189503)
 1. [62 岁阿汤哥「冷冻自己」延缓衰老，冷冻机可降至 -140 度，这个方法可行吗？有哪些风险？](https://www.zhihu.com/question/14748292968)
 1. [复旦校长称将把文科招生比例从 30% 降低至 20% ，这一变化意味着什么？](https://www.zhihu.com/question/14659980602)

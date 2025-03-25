@@ -13,7 +13,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Mar 25 2025 07:00:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 25 2025 17:08:14 GMT+0800 (China Standard Time) -->
+1. [青海3076名党员干部上缴礼金2095万](https://so.toutiao.com/search?keyword=青海3076名党员干部上缴礼金2095万)
+1. [白宫承认泄露战争计划：群聊拉错人](https://so.toutiao.com/search?keyword=白宫承认泄露战争计划：群聊拉错人)
+1. [“三北”工程新建续建项目陆续开工](https://so.toutiao.com/search?keyword=“三北”工程新建续建项目陆续开工)
+1. [董事长与女子跑马拉松被拍？公司澄清](https://so.toutiao.com/search?keyword=董事长与女子跑马拉松被拍？公司澄清)
+1. [浙江一医生中奖1610万](https://so.toutiao.com/search?keyword=浙江一医生中奖1610万)
+1. [雷军小米YU7樱花照](https://so.toutiao.com/search?keyword=雷军小米YU7樱花照)
+1. [A股成交突然大幅萎缩 调整中继吗](https://so.toutiao.com/search?keyword=A股成交突然大幅萎缩+调整中继吗)
+1. [下周上四休三不调休](https://so.toutiao.com/search?keyword=下周上四休三不调休)
+1. [央视不转播国足对阵澳大利亚](https://so.toutiao.com/search?keyword=央视不转播国足对阵澳大利亚)
+1. [格力辟谣推出999元电动车](https://so.toutiao.com/search?keyword=格力辟谣推出999元电动车)
+1. [马云邓文迪章泽天等现身香港](https://so.toutiao.com/search?keyword=马云邓文迪章泽天等现身香港)
+1. [董明珠开会当场怼员工说“废话”](https://so.toutiao.com/search?keyword=董明珠开会当场怼员工说“废话”)
+1. [男子钓到大鱼被要求放回鱼塘](https://so.toutiao.com/search?keyword=男子钓到大鱼被要求放回鱼塘)
+1. [美俄会谈特朗普立场急转弯](https://so.toutiao.com/search?keyword=美俄会谈特朗普立场急转弯)
+1. [背女儿送外卖的单亲妈妈买房了](https://so.toutiao.com/search?keyword=背女儿送外卖的单亲妈妈买房了)
+1. [网传中印边境对峙第一现场咋回事](https://so.toutiao.com/search?keyword=网传中印边境对峙第一现场咋回事)
+1. [民主党为何对拜登“出山”反应冷淡](https://so.toutiao.com/search?keyword=民主党为何对拜登“出山”反应冷淡)
+1. [男孩被送进“教育学校”10天后身亡](https://so.toutiao.com/search?keyword=男孩被送进“教育学校”10天后身亡)
+1. [特朗普打击胡塞其实是针对伊朗吗](https://so.toutiao.com/search?keyword=特朗普打击胡塞其实是针对伊朗吗)
+1. [消费贷有多少真的用于消费了](https://so.toutiao.com/search?keyword=消费贷有多少真的用于消费了)
+1. [直击美俄乌谈判现场：乌方神色凝重](https://so.toutiao.com/search?keyword=直击美俄乌谈判现场：乌方神色凝重)
+1. [胡塞武装领导层真的被美军清除了吗](https://so.toutiao.com/search?keyword=胡塞武装领导层真的被美军清除了吗)
+1. [明明还有亲属 遗产为何收归国有](https://so.toutiao.com/search?keyword=明明还有亲属+遗产为何收归国有)
+1. [两市成交额不足1.3万亿](https://so.toutiao.com/search?keyword=两市成交额不足1.3万亿)
+1. [国足对阵澳大利亚23人名单发布](https://so.toutiao.com/search?keyword=国足对阵澳大利亚23人名单发布)
+1. [剧组人员称张颂文扔的是白花](https://so.toutiao.com/search?keyword=剧组人员称张颂文扔的是白花)
+1. [老婆抱怨老公不随手关灯被一句话化解](https://so.toutiao.com/search?keyword=老婆抱怨老公不随手关灯被一句话化解)
+1. [为什么胡塞武装比伊朗更强硬](https://so.toutiao.com/search?keyword=为什么胡塞武装比伊朗更强硬)
+1. [普京拒绝交出阿萨德有何影响](https://so.toutiao.com/search?keyword=普京拒绝交出阿萨德有何影响)
+1. [大V：菲总统“借刀杀人”惹下大麻烦](https://so.toutiao.com/search?keyword=大V：菲总统“借刀杀人”惹下大麻烦)
+1. [雷军最新持股曝光](https://so.toutiao.com/search?keyword=雷军最新持股曝光)
+1. [雷军说英语不好让母校蒙羞了](https://so.toutiao.com/search?keyword=雷军说英语不好让母校蒙羞了)
+1. [特朗普已实现与华初步合作计划了吗](https://so.toutiao.com/search?keyword=特朗普已实现与华初步合作计划了吗)
+1. [男子33万元手表丢失11天后寻回](https://so.toutiao.com/search?keyword=男子33万元手表丢失11天后寻回)
+1. [前男友曝金赛纶脖子伤痕照](https://so.toutiao.com/search?keyword=前男友曝金赛纶脖子伤痕照)
+1. [特朗普为何喊话中国关税问题可以谈](https://so.toutiao.com/search?keyword=特朗普为何喊话中国关税问题可以谈)
+1. [国足“生死战”球票被炒至近万元](https://so.toutiao.com/search?keyword=国足“生死战”球票被炒至近万元)
+1. [银行员工朝客户粗暴摔钱叫嚣快投诉](https://so.toutiao.com/search?keyword=银行员工朝客户粗暴摔钱叫嚣快投诉)
+1. [胡塞发射500发导弹为何没击中美航母](https://so.toutiao.com/search?keyword=胡塞发射500发导弹为何没击中美航母)
+1. [美政府最高层泄密到底怎么回事](https://so.toutiao.com/search?keyword=美政府最高层泄密到底怎么回事)
+1. [雷军回应回武大发100万奖学金](https://so.toutiao.com/search?keyword=雷军回应回武大发100万奖学金)
+1. [下一个乌克兰出现了吗](https://so.toutiao.com/search?keyword=下一个乌克兰出现了吗)
+1. [广州一孕妇顶楼维权？人社局介入](https://so.toutiao.com/search?keyword=广州一孕妇顶楼维权？人社局介入)
+1. [手握1751亿的小米为何还要募资](https://so.toutiao.com/search?keyword=手握1751亿的小米为何还要募资)
+1. [中国消费困局到底怎么解](https://so.toutiao.com/search?keyword=中国消费困局到底怎么解)
+1. [淘宝买菜回应孕期员工纠纷](https://so.toutiao.com/search?keyword=淘宝买菜回应孕期员工纠纷)
+1. [互发家庭照片的中美家庭在上海见面](https://so.toutiao.com/search?keyword=互发家庭照片的中美家庭在上海见面)
+1. [武大学生模仿雷军同款pose逗笑雷总](https://so.toutiao.com/search?keyword=武大学生模仿雷军同款pose逗笑雷总)
+1. [古天乐称自砍片酬也没人投资](https://so.toutiao.com/search?keyword=古天乐称自砍片酬也没人投资)
+1. [大V：泽连斯基即将失去最后一张牌](https://so.toutiao.com/search?keyword=大V：泽连斯基即将失去最后一张牌)
 1. [胡塞武装为何能把美军拖入战争泥潭](https://so.toutiao.com/search?keyword=胡塞武装为何能把美军拖入战争泥潭)
 1. [大V：美没料到中方反制措施如此激烈](https://so.toutiao.com/search?keyword=大V：美没料到中方反制措施如此激烈)
 1. [我国“绿色家底”持续增厚](https://so.toutiao.com/search?keyword=我国“绿色家底”持续增厚)
@@ -70,7 +120,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Mar 25 2025 07:00:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 25 2025 17:08:14 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,9 +128,13 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Mar 25 2025 07:00:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 25 2025 17:08:14 GMT+0800 (China Standard Time) -->
+1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [金价还会涨吗](https://www.zhihu.com/search?q=金价还会涨吗)
+1. [今日辟谣](https://www.zhihu.com/search?q=今日辟谣)
 1. [以前的铁道部算是一个超级大部门吗](https://www.zhihu.com/search?q=以前的铁道部算是一个超级大部门吗)
+1. [国足vs澳大利亚](https://www.zhihu.com/search?q=国足vs澳大利亚)
+1. [你见过哪些令人尴尬的名字](https://www.zhihu.com/search?q=你见过哪些令人尴尬的名字)
 1. [国际乒联公布徐克与女运动员聊天记录](https://www.zhihu.com/search?q=国际乒联公布徐克与女运动员聊天记录)
 1. [我国成功发射通信技术试验卫星十五号](https://www.zhihu.com/search?q=我国成功发射通信技术试验卫星十五号)
 1. [零跑B10预售](https://www.zhihu.com/search?q=零跑B10预售)
@@ -95,7 +149,37 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Mar 25 2025 07:00:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 25 2025 17:08:14 GMT+0800 (China Standard Time) -->
+1. [DeepSeek-V3-0324 发布，本次 V3 版本有哪些改进？](https://www.zhihu.com/question/1887626597667952400)
+1. [千禾味业称千禾 0 酱油检出的镉来自原料，是零添加，如何看待此回应？检出微量镉符合标准为何仍引发争议？](https://www.zhihu.com/question/15650396575)
+1. [为什么中国的机场名字中间一定要加一个「花名」，直接叫某市国际机场不行吗，如果有两个就叫某市第二机场?](https://www.zhihu.com/question/1887557709508899000)
+1. [郭德纲节目中认证德云社继承人，郭麒麟首次幽默正面回应，郭德纲此举到底有何用意？真要让郭麒麟接班了吗？](https://www.zhihu.com/question/15672768316)
+1. [小米拟用先旧后新方式配售股份，寻求募集最多 385 亿元，这是什么操作？小米现在很缺钱吗？](https://www.zhihu.com/question/15686034665)
+1. [歼-36突破了50吨，为什么我们要把战机研发的越来越重呢？战斗机越重就越好吗？](https://www.zhihu.com/question/15522268602)
+1. [我国科学家成功定位抑郁症相关细胞，这对抑郁症的治疗意味着什么？未来能治愈精神类疾病吗？](https://www.zhihu.com/question/15473896311)
+1. [人真的一定要上班吗？如何破解「读书、上班、退休」的人生范式？](https://www.zhihu.com/question/15667055388)
+1. [如何评价比亚迪 3 月 23 日发布 11.98-13.98 万元的秦 L EV？](https://www.zhihu.com/question/15624443751)
+1. [古天乐称自砍片酬也没人投资，多位港星转行，香港电影怎么了？为什么会出现这样的情况？](https://www.zhihu.com/question/15699545414)
+1. [25 岁「世纪婴儿」去世，其母亲称是「严重医疗事故」，真实情况如何？心源性猝死抢救流程是怎样的？](https://www.zhihu.com/question/15681933127)
+1. [特斯拉因「胶水不牢」在美召回全部 Cybertruck，这种情况可能会导致哪些危险发生？](https://www.zhihu.com/question/15597949130)
+1. [男子为减肥每天走 1 万步反而胖了 3 斤，为什么会这样？应该怎么减肥才是健康有效的？](https://www.zhihu.com/question/15676824180)
+1. [领导总是公开批评我，私下总是夸赞我，这是什么意思？](https://www.zhihu.com/question/14620432955)
+1. [14 岁男孩遭蜂群攻击，4 名路人挺身而出将其救下，蜂群为何会攻击人？遇到这种情况怎么应对？](https://www.zhihu.com/question/15620816605)
+1. [「订婚强奸案」男方拒绝缓刑，上诉书称双方未发生实质性关系，怎样从法律角度解读？](https://www.zhihu.com/question/15699023937)
+1. [美国女子因无法将宠物犬带上航班，在机场洗手间将其溺死，如何评价该女子的行为？](https://www.zhihu.com/question/15604320493)
+1. [如何评价小米SU7 Ultra在福建泉州市区超速行驶撞倒非机动车，伤者正抢救？司机将承担哪些法律责任？](https://www.zhihu.com/question/15672042093)
+1. [奔驰 A 级确认将停产，平民豪车成历史，背后原因有哪些？你对这款车有哪些记忆？](https://www.zhihu.com/question/15694904187)
+1. [想买小米SU7，但爸妈只给20万，标准版推荐吗，同价位有没有其它更好的车推荐？](https://www.zhihu.com/question/15173710644)
+1. [明末题材游戏《哀鸿：城破十日记》背景为扬州十日，你怎么看待这种通过游戏来了解历史的方式？](https://www.zhihu.com/question/10440705803)
+1. [特朗普称可能对多国减免关税，美股三大指数集体收涨，特斯拉涨近 12%，释放了什么信号？](https://www.zhihu.com/question/15695953237)
+1. [小米SU7 Ultra超速撞飞电动车事件引发热议，随着大马力新能源车普及，如何平衡性能与安全驾驶？](https://www.zhihu.com/question/15701732460)
+1. [河流的源头是什么样子的呢？](https://www.zhihu.com/question/22569404)
+1. [雷军表示「我们克制了贪婪，只挣一点点」，如何评价这种经营理念？](https://www.zhihu.com/question/15707486405)
+1. [过敏季来临，「过敏星人」如何安稳过春天？](https://www.zhihu.com/question/15614197955)
+1. [如何从招聘 JD 里看出公司是否真缺人？哪些关键词暗示这个岗位离职率高到「离谱」？](https://www.zhihu.com/question/14938070043)
+1. [做一项有难度的工作，有的希望领导及时指导帮助，有的希望独立完成，这两种方式你倾向于哪个？](https://www.zhihu.com/question/15530721490)
+1. [外企偏爱「复合型人才」吗？春招应届生如何通过实习或项目展现这一特质？](https://www.zhihu.com/question/13658263499)
+1. [上研究生后大家还有朋友吗？](https://www.zhihu.com/question/447562187)
 1. [网传阿里顶楼有孕妇维权，淘宝买菜回应「该生态员工未被辞退」，什么是生态员工？如何从法律角度解读？](https://www.zhihu.com/question/15678164353)
 1. [2000 年 0 时 0 分出生的世纪婴儿因心源性猝死去世，什么是心源性猝死？哪些人容易心源性猝死？](https://www.zhihu.com/question/15658689284)
 1. [比亚迪 2024 财报显示年营收 7771.02 亿元，净利 402.54 亿元，如何评价这一数据？](https://www.zhihu.com/question/15679199781)

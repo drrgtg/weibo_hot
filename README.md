@@ -13,18 +13,66 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Wed Apr 02 2025 08:38:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 02 2025 18:08:27 GMT+0800 (China Standard Time) -->
+1. [直击解放军战机飞向台岛](https://so.toutiao.com/search?keyword=直击解放军战机飞向台岛)
+1. [东部战区实弹射击现场雷霆滚滚](https://so.toutiao.com/search?keyword=东部战区实弹射击现场雷霆滚滚)
+1. [中国为何是外资企业投资的沃土](https://so.toutiao.com/search?keyword=中国为何是外资企业投资的沃土)
+1. [山东入室抢婴案4名人贩子集体翻供](https://so.toutiao.com/search?keyword=山东入室抢婴案4名人贩子集体翻供)
+1. [央视直播解放军台岛演训最新画面](https://so.toutiao.com/search?keyword=央视直播解放军台岛演训最新画面)
+1. [解放军说只要一声令下必灭“台独”](https://so.toutiao.com/search?keyword=解放军说只要一声令下必灭“台独”)
+1. [清明天价殡葬品：200平纸别墅卖1万5](https://so.toutiao.com/search?keyword=清明天价殡葬品：200平纸别墅卖1万5)
+1. [解放军围台岛演习 菲军方乱插嘴](https://so.toutiao.com/search?keyword=解放军围台岛演习+菲军方乱插嘴)
+1. [网友曝小米汽车车主驾驶中睡着](https://so.toutiao.com/search?keyword=网友曝小米汽车车主驾驶中睡着)
+1. [中国赴缅救援队募集资金？假的](https://so.toutiao.com/search?keyword=中国赴缅救援队募集资金？假的)
+1. [军演视频“精准曝光”赖清德办公室](https://so.toutiao.com/search?keyword=军演视频“精准曝光”赖清德办公室)
+1. [孙俪连发12个“终于”官宣新剧](https://so.toutiao.com/search?keyword=孙俪连发12个“终于”官宣新剧)
+1. [美军在立陶宛失踪4名士兵均已死亡](https://so.toutiao.com/search?keyword=美军在立陶宛失踪4名士兵均已死亡)
+1. [人民日报：赖清德是“战争制造者”](https://so.toutiao.com/search?keyword=人民日报：赖清德是“战争制造者”)
+1. [普京会见王毅](https://so.toutiao.com/search?keyword=普京会见王毅)
+1. [两市成交额再度跌破万亿](https://so.toutiao.com/search?keyword=两市成交额再度跌破万亿)
+1. [台军方：山东舰航母编队进入所谓“应变区”](https://so.toutiao.com/search?keyword=台军方：山东舰航母编队进入所谓“应变区”)
+1. [王楚钦拟被北京大学录取](https://so.toutiao.com/search?keyword=王楚钦拟被北京大学录取)
+1. [缅甸天空公寓地震时倒塌瞬间曝光](https://so.toutiao.com/search?keyword=缅甸天空公寓地震时倒塌瞬间曝光)
+1. [解放军模拟打击台岛高价值军事目标](https://so.toutiao.com/search?keyword=解放军模拟打击台岛高价值军事目标)
+1. [台退将：“台独”逃跑路线被切断](https://so.toutiao.com/search?keyword=台退将：“台独”逃跑路线被切断)
+1. [内蒙古党委书记：口头能说清不要PPT](https://so.toutiao.com/search?keyword=内蒙古党委书记：口头能说清不要PPT)
+1. [专家：军演切断台湾海上能源供给线](https://so.toutiao.com/search?keyword=专家：军演切断台湾海上能源供给线)
+1. [雷军回应SU7爆燃致3死事故](https://so.toutiao.com/search?keyword=雷军回应SU7爆燃致3死事故)
+1. [新疆婚礼现场秒变“舞林大会”](https://so.toutiao.com/search?keyword=新疆婚礼现场秒变“舞林大会”)
+1. [DeepSeek7小时攻克缅甸救灾语言关](https://so.toutiao.com/search?keyword=DeepSeek7小时攻克缅甸救灾语言关)
+1. [小米汽车回应爆燃事故多个疑问](https://so.toutiao.com/search?keyword=小米汽车回应爆燃事故多个疑问)
+1. [解放军军事行动代号变化释放何信号](https://so.toutiao.com/search?keyword=解放军军事行动代号变化释放何信号)
+1. [赖清德拉高“台独”声调引名嘴担忧](https://so.toutiao.com/search?keyword=赖清德拉高“台独”声调引名嘴担忧)
+1. [美议员骂特朗普骂了25小时破纪录](https://so.toutiao.com/search?keyword=美议员骂特朗普骂了25小时破纪录)
+1. [宝鸡舰与台方船只相距仅1.5海里](https://so.toutiao.com/search?keyword=宝鸡舰与台方船只相距仅1.5海里)
+1. [记者：裁判就看着库里被打劫](https://so.toutiao.com/search?keyword=记者：裁判就看着库里被打劫)
+1. [特朗普为何主动要求胡塞停火](https://so.toutiao.com/search?keyword=特朗普为何主动要求胡塞停火)
+1. [解放军演练武器射程能覆盖台岛全境](https://so.toutiao.com/search?keyword=解放军演练武器射程能覆盖台岛全境)
+1. [解放军勒紧惩“独”绞索](https://so.toutiao.com/search?keyword=解放军勒紧惩“独”绞索)
+1. [媒体人：美防长将领教中国智慧](https://so.toutiao.com/search?keyword=媒体人：美防长将领教中国智慧)
+1. [谢浩男首次公布和母亲合照](https://so.toutiao.com/search?keyword=谢浩男首次公布和母亲合照)
+1. [甲亢哥中国行让谁破防了](https://so.toutiao.com/search?keyword=甲亢哥中国行让谁破防了)
+1. [名嘴解读东部战区发布涉赖清德漫画](https://so.toutiao.com/search?keyword=名嘴解读东部战区发布涉赖清德漫画)
+1. [抢婴案受害者：送人贩去该去的地方](https://so.toutiao.com/search?keyword=抢婴案受害者：送人贩去该去的地方)
+1. [多地中小银行下调存款利率](https://so.toutiao.com/search?keyword=多地中小银行下调存款利率)
+1. [东部战区2天给“台独”8个字](https://so.toutiao.com/search?keyword=东部战区2天给“台独”8个字)
+1. [大V：特朗普出卖乌方 泽连斯基两难](https://so.toutiao.com/search?keyword=大V：特朗普出卖乌方+泽连斯基两难)
+1. [华晨宇方称拒绝音乐版权擦边行为](https://so.toutiao.com/search?keyword=华晨宇方称拒绝音乐版权擦边行为)
+1. [外交部回应美欧日涉解放军演训言论](https://so.toutiao.com/search?keyword=外交部回应美欧日涉解放军演训言论)
+1. [迪士尼若索赔或致金秀贤破产](https://so.toutiao.com/search?keyword=迪士尼若索赔或致金秀贤破产)
+1. [今年全球富豪榜中雷军财富增长最多](https://so.toutiao.com/search?keyword=今年全球富豪榜中雷军财富增长最多)
+1. [香港警务处处长交接现场](https://so.toutiao.com/search?keyword=香港警务处处长交接现场)
+1. [专家：海警令“台独”休想逃往海外](https://so.toutiao.com/search?keyword=专家：海警令“台独”休想逃往海外)
+1. [车辆自燃被烧得“体无完肤”](https://so.toutiao.com/search?keyword=车辆自燃被烧得“体无完肤”)
 1. [解放军位台海“海峡雷霆-2025A”演练](https://so.toutiao.com/search?keyword=解放军位台海“海峡雷霆-2025A”演练)
 1. [央视直播解放军台岛演训画面](https://so.toutiao.com/search?keyword=央视直播解放军台岛演训画面)
 1. [一季度文旅消费市场亮眼“成绩单”](https://so.toutiao.com/search?keyword=一季度文旅消费市场亮眼“成绩单”)
-1. [谢浩男首次公布和母亲合照](https://so.toutiao.com/search?keyword=谢浩男首次公布和母亲合照)
 1. [东部战区视频清晰展现台湾街景](https://so.toutiao.com/search?keyword=东部战区视频清晰展现台湾街景)
 1. [辽宁舰山东舰福建舰呼叫81192返航](https://so.toutiao.com/search?keyword=辽宁舰山东舰福建舰呼叫81192返航)
 1. [王毅：中俄世代友好永不为敌](https://so.toutiao.com/search?keyword=王毅：中俄世代友好永不为敌)
 1. [台退将直呼解放军把台岛围得很密](https://so.toutiao.com/search?keyword=台退将直呼解放军把台岛围得很密)
 1. [金饰一夜涨17元每克高达953元](https://so.toutiao.com/search?keyword=金饰一夜涨17元每克高达953元)
 1. [广西一银行门口有人抢钱？假的](https://so.toutiao.com/search?keyword=广西一银行门口有人抢钱？假的)
-1. [小米汽车回应爆燃事故多个疑问](https://so.toutiao.com/search?keyword=小米汽车回应爆燃事故多个疑问)
 1. [台名嘴：赖清德已经触碰红线](https://so.toutiao.com/search?keyword=台名嘴：赖清德已经触碰红线)
 1. [海警船用“混天绫”圈住台湾](https://so.toutiao.com/search?keyword=海警船用“混天绫”圈住台湾)
 1. [雷军就“SU7爆燃3死事故”发声](https://so.toutiao.com/search?keyword=雷军就“SU7爆燃3死事故”发声)
@@ -91,7 +139,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Wed Apr 02 2025 08:38:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 02 2025 18:08:27 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -99,24 +147,58 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Wed Apr 02 2025 08:38:01 GMT+0800 (China Standard Time) -->
-1. [愚人节文案](https://www.zhihu.com/search?q=愚人节文案)
+<!-- 最后更新时间 Wed Apr 02 2025 18:08:27 GMT+0800 (China Standard Time) -->
 1. [湖人战胜火箭](https://www.zhihu.com/search?q=湖人战胜火箭)
-1. [愚人节](https://www.zhihu.com/search?q=愚人节)
+1. [国内油价上调](https://www.zhihu.com/search?q=国内油价上调)
+1. [多家银行宣布下调存款利率](https://www.zhihu.com/search?q=多家银行宣布下调存款利率)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
-1. [金价又创新高](https://www.zhihu.com/search?q=金价又创新高)
-1. [羽毛球](https://www.zhihu.com/search?q=羽毛球)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
+1. [为什么月薪 2 万的沈琳愿意卖卤肉](https://www.zhihu.com/search?q=为什么月薪 2 万的沈琳愿意卖卤肉)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=长的漂亮真的很有优势吗)
 1. [河北廊坊永清县 4.2 级地震](https://www.zhihu.com/search?q=河北廊坊永清县 4.2 级地震)
+1. [中国肥胖率最高的省是河北](https://www.zhihu.com/search?q=中国肥胖率最高的省是河北)
 1. [义乌购房新政公布](https://www.zhihu.com/search?q=义乌购房新政公布)
+1. [愚人节文案](https://www.zhihu.com/search?q=愚人节文案)
+1. [愚人节](https://www.zhihu.com/search?q=愚人节)
+1. [金价又创新高](https://www.zhihu.com/search?q=金价又创新高)
+1. [羽毛球](https://www.zhihu.com/search?q=羽毛球)
 <!-- END ZHIHUSEARCH -->
 
 
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Apr 02 2025 08:38:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 02 2025 18:08:27 GMT+0800 (China Standard Time) -->
+1. [东部战区位台湾海峡中、南海域组织「海峡雷霆-2025A」演练，由联合利剑变为海峡雷霆，意味着什么？](https://www.zhihu.com/question/1890675416567641300)
+1. [新能源汽车发生车祸后似乎比油车更容易起火，是这样吗？](https://www.zhihu.com/question/1890395295365427700)
+1. [领导在一次会议上严厉批评了你，而实际上错误是由另一位同事小王造成的，你怎么办?](https://www.zhihu.com/question/1890152838069445000)
+1. [「甲亢哥」来华直播登上多国社媒榜单热门，为什么这种「体验」形成的反差能让外国人这么惊讶？](https://www.zhihu.com/question/1890105053098009900)
+1. [电影《我不是药神》里的格列卫，从药企的角度看，卖25000一瓶的价格是否高了？](https://www.zhihu.com/question/284130542)
+1. [如何评价2025年3月米哈游《原神》5.5爱可菲立绘？](https://www.zhihu.com/question/1890105194609608000)
+1. [我们真的需要「零百加速三四秒」的平民跑车吗？掌控得了吗？](https://www.zhihu.com/question/1890428133892671500)
+1. [黄霄雲翻唱华晨宇作品被质疑偷歌，具体情况如何？华晨宇方最新回应称拒绝音乐版权擦边，黄霄雲是否侵权？](https://www.zhihu.com/question/1890054557519816400)
+1. [海昏侯墓中出土大量儒家典籍，暗示他可能具备深厚的儒学修养，史书称其「荒淫无道」是否被刻意夸大？](https://www.zhihu.com/question/1888651011868062000)
+1. [SU7事故引发对智能辅助驾驶及 AEB 安全功能的质疑，会对智驾产生哪些影响？车主还会信任这些功能吗？](https://www.zhihu.com/question/1890552979020537900)
+1. [24-25 赛季 NBA 常规赛森林狼胜掘金，约基奇 61+大三双 ，威少致命失误，如何评价本场比赛？](https://www.zhihu.com/question/1890707894518936300)
+1. [雷军回应「SU7 车祸致 3 死」事故，称小米不会回避，将持续配合警方调查，哪些信息值得关注？](https://www.zhihu.com/question/1890530245590872800)
+1. [SU7 高速上车祸起火致 3 死，小米称事故前处于辅助驾驶状态，由车主介入退出，这种情况该如何定责？](https://www.zhihu.com/question/1890446748742285000)
+1. [南方航空 2024 年净亏 16.96 亿元，连续 5 年亏损，如此难盈利的民航，商业模有哪些缺点？](https://www.zhihu.com/question/1888549513762922500)
+1. [前奥运冠军、著名田径运动员王军霞退役后首次参赛半马跑出 1 小时  35 分，你对该成绩有哪些评价？](https://www.zhihu.com/question/1890112503347913000)
+1. [从小米 SU7 事故看，汽车厂商对「辅助驾驶」的宣传是否具有误导性？对此是否有相应的行业规范？](https://www.zhihu.com/question/1890557246695502000)
+1. [美国制裁 6 名中国官员，中方回应「必将采取有力措施坚决反制」，哪些信息值得关注？](https://www.zhihu.com/question/1890306808121357800)
+1. [京东宣布达达员工今年升级至 19 薪，明年升级至 20 薪，这在业内处于什么水平？涨薪会带来哪些影响？](https://www.zhihu.com/question/1890718764514927400)
+1. [如何评价知名网络主播「甲亢哥」Speed 于4月2日在重庆的直播？](https://www.zhihu.com/question/1890752343743639600)
+1. [特朗普政府「对等关税」政策将于 4 月 2 日落地，最终方案会针对哪些领域？实施后将引发哪些连锁反应？](https://www.zhihu.com/question/1890699591776712200)
+1. [24-25 赛季英超联赛英超第30轮诺丁汉森林 1:0曼联，如何评价这场比赛？](https://www.zhihu.com/question/1890659265351501800)
+1. [马斯克宣布将辞职，他辞职的最关键原因是什么？](https://www.zhihu.com/question/1890419158094698000)
+1. [中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？](https://www.zhihu.com/question/1890353242971531000)
+1. [网飞质疑主机未来引起铃空CEO怒怼，“外行指导内行”现象在游戏圈多严重？](https://www.zhihu.com/question/1890190214586147000)
+1. [曾经玩过这款游戏的你，看完《我的世界大电影》有何感受？](https://www.zhihu.com/question/1890456190405800200)
+1. [雷阿伦当初为什么选择离开凯尔特人去热火？](https://www.zhihu.com/question/23692643)
+1. [孩子说你也天天玩手机，凭什么来管我？这种时候你是如何打脸自救？](https://www.zhihu.com/question/1890502015483884500)
+1. [如何透彻理解rag？](https://www.zhihu.com/question/661457038)
+1. [职场中你会对同事有「厌蠢症」吗？「厌蠢」的底层逻辑是什么？](https://www.zhihu.com/question/1890431399649043000)
+1. [有哪些高质量战棋游戏推荐？](https://www.zhihu.com/question/551565123)
 1. [如何评价必胜客新品「青蛇白蛇姐妹双修披萨」？](https://www.zhihu.com/question/1890210127166022700)
 1. [海外留学「退潮」，985 高校留学人数五年下降超 20%，国内读研就业成主流，如何看待这一变化？](https://www.zhihu.com/question/1890415303156007700)
 1. [如何看待比亚迪3月销量37.7万辆，同比增长24.8%（乘用车同比增长23.1%）？](https://www.zhihu.com/question/1890454677075785500)
@@ -127,7 +209,6 @@
 1. [为何生活中总会见到很多思维敏捷反应迅速决策果断的人？道德经不是说“大巧若拙，大辩若讷，大智若愚”吗？](https://www.zhihu.com/question/11030920745)
 1. [男子花 500 万买到「坟景房」，眼皮子底下几百座坟，最近的仅 30 米，可以找开发商退房索赔吗？](https://www.zhihu.com/question/1890062317879780400)
 1. [马斯克宣布将辞去美国政府效率部职务，科技精英平衡商业帝国与政治理想是否为伪命题？](https://www.zhihu.com/question/1890415337503168300)
-1. [雷军回应「SU7 车祸致 3 死」事故，称小米不会回避，将持续配合警方调查，哪些信息值得关注？](https://www.zhihu.com/question/1890530245590872800)
 1. [保罗麦卡特尼和约翰列侬谁才是披头士的灵魂？](https://www.zhihu.com/question/21065352)
 1. [新能源汽车在发生严重交通事故后，全车断电的情况下，如何从内部或者外部打开车门？](https://www.zhihu.com/question/15538647270)
 1. [小米汽车就 SU7 事故回应六点问题，称「事故车起火并非自燃」、「无法分析车门能否打开」，如何看待？](https://www.zhihu.com/question/1890531294682769000)

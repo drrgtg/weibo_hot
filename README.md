@@ -13,7 +13,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Apr 03 2025 04:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 03 2025 17:08:21 GMT+0800 (China Standard Time) -->
+1. [美国对亚冬会发动网络攻击](https://so.toutiao.com/search?keyword=美国对亚冬会发动网络攻击)
+1. [江泽民故居面向社会公众开放](https://so.toutiao.com/search?keyword=江泽民故居面向社会公众开放)
+1. [赏花民俗体验热度攀升](https://so.toutiao.com/search?keyword=赏花民俗体验热度攀升)
+1. [被新疆无人区的美震撼到了](https://so.toutiao.com/search?keyword=被新疆无人区的美震撼到了)
+1. [副部级龙翔被查](https://so.toutiao.com/search?keyword=副部级龙翔被查)
+1. [关税将让美国家庭每年多花3.6万元](https://so.toutiao.com/search?keyword=关税将让美国家庭每年多花3.6万元)
+1. [职业女哭灵人半个月连哭16场](https://so.toutiao.com/search?keyword=职业女哭灵人半个月连哭16场)
+1. [提醒甲亢哥不文明行为的女生回应了](https://so.toutiao.com/search?keyword=提醒甲亢哥不文明行为的女生回应了)
+1. [特朗普宣布国家紧急状态 全面征关税](https://so.toutiao.com/search?keyword=特朗普宣布国家紧急状态+全面征关税)
+1. [大学城发生恐怖事件？重庆辟谣](https://so.toutiao.com/search?keyword=大学城发生恐怖事件？重庆辟谣)
+1. [女粉丝摸保镖肌肉让甲亢哥酸了](https://so.toutiao.com/search?keyword=女粉丝摸保镖肌肉让甲亢哥酸了)
+1. [河北一动物园有熊出逃](https://so.toutiao.com/search?keyword=河北一动物园有熊出逃)
+1. [美媒：面对美关税威胁中国毫不退缩](https://so.toutiao.com/search?keyword=美媒：面对美关税威胁中国毫不退缩)
+1. [甲亢哥直播时喊话：中国被严重低估](https://so.toutiao.com/search?keyword=甲亢哥直播时喊话：中国被严重低估)
+1. [全红婵热身再现水花消失术](https://so.toutiao.com/search?keyword=全红婵热身再现水花消失术)
+1. [特朗普的对等关税政策对谁冲击更大](https://so.toutiao.com/search?keyword=特朗普的对等关税政策对谁冲击更大)
+1. [山东入室抢婴案人贩法庭抖腿毫无忏悔](https://so.toutiao.com/search?keyword=山东入室抢婴案人贩法庭抖腿毫无忏悔)
+1. [赵丽颖起诉连锁咖啡侵权索赔51万](https://so.toutiao.com/search?keyword=赵丽颖起诉连锁咖啡侵权索赔51万)
+1. [美国财长：建议各国勿采取报复行动](https://so.toutiao.com/search?keyword=美国财长：建议各国勿采取报复行动)
+1. [喂了十年的狗狗突然咬向主人](https://so.toutiao.com/search?keyword=喂了十年的狗狗突然咬向主人)
+1. [3名菲律宾间谍落网 相貌曝光](https://so.toutiao.com/search?keyword=3名菲律宾间谍落网+相貌曝光)
+1. [特朗普宣布对台湾地区征收高关税](https://so.toutiao.com/search?keyword=特朗普宣布对台湾地区征收高关税)
+1. [肤色纯黑的“钓帝”级钓鱼大爷](https://so.toutiao.com/search?keyword=肤色纯黑的“钓帝”级钓鱼大爷)
+1. [大陆海警回击台英文喊话：说中文](https://so.toutiao.com/search?keyword=大陆海警回击台英文喊话：说中文)
+1. [史无前例的关税混战开始了](https://so.toutiao.com/search?keyword=史无前例的关税混战开始了)
+1. [缅甸男子地震时举起侄女自己却被埋](https://so.toutiao.com/search?keyword=缅甸男子地震时举起侄女自己却被埋)
+1. [《我的后半生》50岁杨童舒又火了](https://so.toutiao.com/search?keyword=《我的后半生》50岁杨童舒又火了)
+1. [中金公司：“对等关税”冲击超预期](https://so.toutiao.com/search?keyword=中金公司：“对等关税”冲击超预期)
+1. [谢浩男生母出镜辟谣](https://so.toutiao.com/search?keyword=谢浩男生母出镜辟谣)
+1. [甲亢哥空着脖子来挂着辣椒走了](https://so.toutiao.com/search?keyword=甲亢哥空着脖子来挂着辣椒走了)
+1. [金价冲向1000元](https://so.toutiao.com/search?keyword=金价冲向1000元)
+1. [香港各界再批长和“卖港”：不得人心](https://so.toutiao.com/search?keyword=香港各界再批长和“卖港”：不得人心)
+1. [河北一地拟取消老年人免费乘公交](https://so.toutiao.com/search?keyword=河北一地拟取消老年人免费乘公交)
+1. [美对等关税清单竟将台列为“国家”](https://so.toutiao.com/search?keyword=美对等关税清单竟将台列为“国家”)
+1. [宁夏2300名师生徒步百里祭英烈](https://so.toutiao.com/search?keyword=宁夏2300名师生徒步百里祭英烈)
+1. [儿子给爸买车 钥匙藏零食桶送惊喜](https://so.toutiao.com/search?keyword=儿子给爸买车+钥匙藏零食桶送惊喜)
+1. [商务部回应美征收关税：坚决反对](https://so.toutiao.com/search?keyword=商务部回应美征收关税：坚决反对)
+1. [白宫确认马斯克将离职](https://so.toutiao.com/search?keyword=白宫确认马斯克将离职)
+1. [仰望U7黑科技初体验](https://so.toutiao.com/search?keyword=仰望U7黑科技初体验)
+1. [日专家：美或借对等关税实现4个目的](https://so.toutiao.com/search?keyword=日专家：美或借对等关税实现4个目的)
+1. [多地检查组“夜袭”医院突击检查](https://so.toutiao.com/search?keyword=多地检查组“夜袭”医院突击检查)
+1. [学者：军事解决台海问题的思路变了](https://so.toutiao.com/search?keyword=学者：军事解决台海问题的思路变了)
+1. [为何美国被关税乱拳打进紧急状态](https://so.toutiao.com/search?keyword=为何美国被关税乱拳打进紧急状态)
+1. [胡歌被传得二胎后露面](https://so.toutiao.com/search?keyword=胡歌被传得二胎后露面)
+1. [甲亢哥被重庆地铁穿楼惊到“宕机”](https://so.toutiao.com/search?keyword=甲亢哥被重庆地铁穿楼惊到“宕机”)
+1. [特朗普关税是怎么算出来的](https://so.toutiao.com/search?keyword=特朗普关税是怎么算出来的)
+1. [孤独症男孩因高颜值走红 妈妈发声](https://so.toutiao.com/search?keyword=孤独症男孩因高颜值走红+妈妈发声)
+1. [杜特尔特绝境翻盘的转机已出现了吗](https://so.toutiao.com/search?keyword=杜特尔特绝境翻盘的转机已出现了吗)
+1. [特朗普真能让美企“解放”吗](https://so.toutiao.com/search?keyword=特朗普真能让美企“解放”吗)
+1. [村民用建房技术种甘蔗](https://so.toutiao.com/search?keyword=村民用建房技术种甘蔗)
 1. [中国救灾车队遭缅军方鸣枪？中方回应](https://so.toutiao.com/search?keyword=中国救灾车队遭缅军方鸣枪？中方回应)
 1. [解放军说只要一声令下必灭“台独”](https://so.toutiao.com/search?keyword=解放军说只要一声令下必灭“台独”)
 1. [我国将多措并举减轻企业负担](https://so.toutiao.com/search?keyword=我国将多措并举减轻企业负担)
@@ -70,7 +120,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Thu Apr 03 2025 04:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 03 2025 17:08:21 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,15 +128,18 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Apr 03 2025 04:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 03 2025 17:08:21 GMT+0800 (China Standard Time) -->
+1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [湖人战胜火箭](https://www.zhihu.com/search?q=湖人战胜火箭)
+1. [中国成功发射卫星互联网技术试验卫星](https://www.zhihu.com/search?q=中国成功发射卫星互联网技术试验卫星)
 1. [国内油价上调](https://www.zhihu.com/search?q=国内油价上调)
-1. [多家银行宣布下调存款利率](https://www.zhihu.com/search?q=多家银行宣布下调存款利率)
+1. [世界孤独症日](https://www.zhihu.com/search?q=世界孤独症日)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [为什么月薪 2 万的沈琳愿意卖卤肉](https://www.zhihu.com/search?q=为什么月薪 2 万的沈琳愿意卖卤肉)
 1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI 时代下的家电智能化)
 1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=家电行业的「科技平权」)
+1. [多家银行宣布下调存款利率](https://www.zhihu.com/search?q=多家银行宣布下调存款利率)
 1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE 未来生活家)
 1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=卷出新高度的 AI 家电)
 <!-- END ZHIHUSEARCH -->
@@ -95,16 +148,44 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Apr 03 2025 04:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 03 2025 17:08:21 GMT+0800 (China Standard Time) -->
+1. [东部战区圆满完成位台岛周边联合演训各项任务，此次演训收获了哪些成果？有哪些亮点值得关注？](https://www.zhihu.com/question/1890844580183782700)
+1. [怎样看待于东来打断永辉高管发言，质问月赚 200 万为何不涨工资？企业盈利与员工薪资该如何平衡？](https://www.zhihu.com/question/1891102694053213000)
+1. [人类为何无法准确控制自己的每一个器官?](https://www.zhihu.com/question/14095049598)
+1. [22 岁女骑手车祸去世家属寻目击者定责，具体情况如何？怎样从法律角度解读？](https://www.zhihu.com/question/1891056597314269400)
+1. [职业伴娘/伴郎越来越普遍，单日收入400 到 1000 元，这一职业出现背后有哪些原因？未来前景如何？](https://www.zhihu.com/question/1890796902703944000)
+1. [美国宣布国家紧急状态，对所有国家征收 10% 的「基准关税」，会对全球贸易带来哪些影响？](https://www.zhihu.com/question/1890995536515019300)
+1. [演员方 · 基默去世，曾主演《永远的蝙蝠侠》，享年 65 岁，你对他还有哪些了解？](https://www.zhihu.com/question/1890761143552821000)
+1. [如何看待美的董事长关于「95% 以上加班是形式主义」的表态？工作中哪些形式主义是你无法忍受的？](https://www.zhihu.com/question/1890529772280461000)
+1. [商务部回应美方宣布对等关税，表示将坚决采取反制措施维护自身权益，可能会采取哪些行动？](https://www.zhihu.com/question/1891070088368592600)
+1. [如何评价 4 月 3 日发布的尼康 Z5 II 全画幅微单相机？相比前代有哪些提升？是否值得购买？](https://www.zhihu.com/question/1891109191822836700)
+1. [以前看《还珠格格》为含香逃出皇宫开心，现在却质疑蒙丹暴力狂，含香不会幸福，是人变了还是时代变了？](https://www.zhihu.com/question/1889948335261086500)
+1. [任天堂Switch2在国内还会不会复刻 ns1 的火爆程度？](https://www.zhihu.com/question/1890820233968731400)
+1. [美国对欧盟实施 20% 对等关税，对日本实施 24% 的对等关税，什么是对等关税？会带来哪些影响？](https://www.zhihu.com/question/1891030167939409000)
+1. [如何评价电视剧《棋士》第 12 集？](https://www.zhihu.com/question/1890859461255591000)
+1. [四大一线城市约50%人口在租房，35岁以上租房群体占比创新高，透露哪些社会问题？](https://www.zhihu.com/question/1890718507672529000)
+1. [美国宣布国家紧急状态，这到底是一种什么状态？全面征收「基准关税」，当前国际社会和资本市场是什么反应？](https://www.zhihu.com/question/1891027827157071000)
+1. [贵州茅台去年净利润同比增长 15.38%，每 10 股拟派发红利 276.24 元，如何看待该业绩？](https://www.zhihu.com/question/1890877533580412000)
+1. [为何会有「宁盘老文包浆，不看新文一眼」的现象？](https://www.zhihu.com/question/1887852254524076800)
+1. [怎么用普通人能理解的方式解释美国所谓的对等关税？](https://www.zhihu.com/question/1891056024426870800)
+1. [L2辅助驾驶宣传是否应该降温了？](https://www.zhihu.com/question/1890533500861515000)
+1. [任天堂Switch2日区版价格约为2400元人民币，但日版将会锁区，如何理解任天堂的这一决定？](https://www.zhihu.com/question/1890892491852587500)
+1. [黄金价格会不会迎来暴跌？](https://www.zhihu.com/question/1888685528414660600)
+1. [襄樊之战如果只是正常的雨季，关羽能否吃下于禁庞德等人？如果能，那接下来关羽能不能在两个月内攻下樊城？](https://www.zhihu.com/question/11472630568)
+1. [如果给 100 年前的人推荐一款现代电子产品，哪款会让他们世界观崩塌？](https://www.zhihu.com/question/11583283187)
+1. [一个无法融入集体的人是什么体验？](https://www.zhihu.com/question/268416755)
+1. [有没有什么好的方式，可以自己给自己做职业规划?](https://www.zhihu.com/question/1886701518704592000)
+1. [苏有朋版《倚天屠龙记》受大众喜爱的原因是什么？](https://www.zhihu.com/question/617050214)
+1. [如何评价知名网络主播「甲亢哥」Speed 于4月2日在重庆的直播？](https://www.zhihu.com/question/1890752343743639600)
+1. [如何看待「互联网热潮出现娱乐化 ADHD」的现象？大众对 ADHD 存在哪些误区？](https://www.zhihu.com/question/15679045373)
+1. [既然我们本来就是自己，为什么尼采会说「成为你自己」？](https://www.zhihu.com/question/1890473978491007500)
 1. [如何评价任天堂新游戏机 Switch2 ？与第一代相比，有哪些亮点？](https://www.zhihu.com/question/1890820233859675100)
 1. [真有人一松开油门就把脚放在刹车上吗？](https://www.zhihu.com/question/664339031)
 1. [东部战区位台湾海峡中、南海域组织「海峡雷霆-2025A」演练，由联合利剑变为海峡雷霆，意味着什么？](https://www.zhihu.com/question/1890675416567641300)
 1. [京东宣布达达员工今年升级至 19 薪，明年升级至 20 薪，这在业内处于什么水平？涨薪会带来哪些影响？](https://www.zhihu.com/question/1890718764514927400)
 1. [网友投诉在山姆买的莲雾中吃出蠕动活虫，客服称系正常情况，如何看待此事？](https://www.zhihu.com/question/1890165471204045600)
-1. [如何评价知名网络主播「甲亢哥」Speed 于4月2日在重庆的直播？](https://www.zhihu.com/question/1890752343743639600)
 1. [如何看待大批洋垃圾企图入境，已被南京金陵海关截获，其中包含840件日本旧和服，为何会有人买这种旧和服？](https://www.zhihu.com/question/1890355890814694000)
 1. [如何看待乐道汽车总裁艾铁成宣布「下课」，乐道目前面临哪些困境？该如何破局？](https://www.zhihu.com/question/1890713327908385000)
-1. [黄金价格会不会迎来暴跌？](https://www.zhihu.com/question/1888685528414660600)
 1. [刚果河水量远超长江，为什么却连一座大型水电站都没有？](https://www.zhihu.com/question/1888989861488345900)
 1. [前奥运冠军、著名田径运动员王军霞退役后首次参赛半马跑出 1 小时  35 分，你对该成绩有哪些评价？](https://www.zhihu.com/question/1890112503347913000)
 1. [比亚迪前 3 个月新能源汽车销量突破 100 万，这一数据意味着什么？背后有何推动因素？](https://www.zhihu.com/question/1890465084914001000)

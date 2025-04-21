@@ -13,12 +13,61 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Apr 21 2025 07:07:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 21 2025 15:00:39 GMT+0800 (China Standard Time) -->
+1. [超2300万美国人准备迎接强震](https://so.toutiao.com/search?keyword=超2300万美国人准备迎接强震)
+1. [男子拦劳斯莱斯要喜烟掰断小金人](https://so.toutiao.com/search?keyword=男子拦劳斯莱斯要喜烟掰断小金人)
+1. [美国“断供”加剧全球人道危机](https://so.toutiao.com/search?keyword=美国“断供”加剧全球人道危机)
+1. [福州全城拉响警报](https://so.toutiao.com/search?keyword=福州全城拉响警报)
+1. [雨果夺冠后哽咽落泪](https://so.toutiao.com/search?keyword=雨果夺冠后哽咽落泪)
+1. [网警：三起案件揭侵犯个人信息黑灰产](https://so.toutiao.com/search?keyword=网警：三起案件揭侵犯个人信息黑灰产)
+1. [专家：美想逼中国签一份不平等协议](https://so.toutiao.com/search?keyword=专家：美想逼中国签一份不平等协议)
+1. [京东对超时20分钟以上外卖全部免单](https://so.toutiao.com/search?keyword=京东对超时20分钟以上外卖全部免单)
+1. [巴西总统祝贺雨果夺冠](https://so.toutiao.com/search?keyword=巴西总统祝贺雨果夺冠)
+1. [长期吃止痛药会上瘾？不实](https://so.toutiao.com/search?keyword=长期吃止痛药会上瘾？不实)
+1. [评论员：特朗普手上还有2张王牌](https://so.toutiao.com/search?keyword=评论员：特朗普手上还有2张王牌)
+1. [京东外卖喊话竞争对手：回头是岸](https://so.toutiao.com/search?keyword=京东外卖喊话竞争对手：回头是岸)
+1. [河南南阳市委政法委书记金浩被查](https://so.toutiao.com/search?keyword=河南南阳市委政法委书记金浩被查)
+1. [孩子趴着睡觉被爸爸拿来当手机支架](https://so.toutiao.com/search?keyword=孩子趴着睡觉被爸爸拿来当手机支架)
+1. [媒体：这是京东美团都不能输的一仗](https://so.toutiao.com/search?keyword=媒体：这是京东美团都不能输的一仗)
+1. [商务部回应美胁迫他国限制对华经贸](https://so.toutiao.com/search?keyword=商务部回应美胁迫他国限制对华经贸)
+1. [这周上六天班](https://so.toutiao.com/search?keyword=这周上六天班)
+1. [“不合群”的孙俪才是娱乐圈聪明人](https://so.toutiao.com/search?keyword=“不合群”的孙俪才是娱乐圈聪明人)
+1. [大V：出卖中国利益讨好美国必遭反制](https://so.toutiao.com/search?keyword=大V：出卖中国利益讨好美国必遭反制)
+1. [世界杯颁奖典礼只有冠军在笑](https://so.toutiao.com/search?keyword=世界杯颁奖典礼只有冠军在笑)
+1. [美媒：美元抛售潮暴露美国信任危机](https://so.toutiao.com/search?keyword=美媒：美元抛售潮暴露美国信任危机)
+1. [甲亢哥直播高喊想回中国重游](https://so.toutiao.com/search?keyword=甲亢哥直播高喊想回中国重游)
+1. [孙颖莎和雨果自拍合影](https://so.toutiao.com/search?keyword=孙颖莎和雨果自拍合影)
+1. [媒体：国乒男队陷入核心真空后遗症](https://so.toutiao.com/search?keyword=媒体：国乒男队陷入核心真空后遗症)
+1. [连胜世界前三的雨果是谁](https://so.toutiao.com/search?keyword=连胜世界前三的雨果是谁)
+1. [孙颖莎4个月内获3个单打冠军](https://so.toutiao.com/search?keyword=孙颖莎4个月内获3个单打冠军)
+1. [大货车遭遇追尾 后车冒烟起火燃烧](https://so.toutiao.com/search?keyword=大货车遭遇追尾+后车冒烟起火燃烧)
+1. [上海黄金交易所发布风险提示](https://so.toutiao.com/search?keyword=上海黄金交易所发布风险提示)
+1. [刘国正说雨果完全是拼刺刀的打法](https://so.toutiao.com/search?keyword=刘国正说雨果完全是拼刺刀的打法)
+1. [女童被电动指甲刀夹嘴 消防边拆边哄](https://so.toutiao.com/search?keyword=女童被电动指甲刀夹嘴+消防边拆边哄)
+1. [三位美国前总统谴责特朗普](https://so.toutiao.com/search?keyword=三位美国前总统谴责特朗普)
+1. [特朗普为何暗示自己不会再提高税率](https://so.toutiao.com/search?keyword=特朗普为何暗示自己不会再提高税率)
+1. [藏獒幼崽一生气眼睛竟会变成红色](https://so.toutiao.com/search?keyword=藏獒幼崽一生气眼睛竟会变成红色)
+1. [广西气象干旱面积97.5%](https://so.toutiao.com/search?keyword=广西气象干旱面积97.5%)
+1. [关晓彤主页访问量破千万](https://so.toutiao.com/search?keyword=关晓彤主页访问量破千万)
+1. [中国限制稀土出口引车厂停产担忧](https://so.toutiao.com/search?keyword=中国限制稀土出口引车厂停产担忧)
+1. [学者：特朗普在关税战中已陷入困境](https://so.toutiao.com/search?keyword=学者：特朗普在关税战中已陷入困境)
+1. [京东宣布对兼职骑手永不强迫二选一](https://so.toutiao.com/search?keyword=京东宣布对兼职骑手永不强迫二选一)
+1. [这位1600年前的画工到底咋接到单的](https://so.toutiao.com/search?keyword=这位1600年前的画工到底咋接到单的)
+1. [刘涛回应与丁真搭档对手戏](https://so.toutiao.com/search?keyword=刘涛回应与丁真搭档对手戏)
+1. [《猎金游戏》欧豪为前途吃狗粮](https://so.toutiao.com/search?keyword=《猎金游戏》欧豪为前途吃狗粮)
+1. [洪都拉斯男子跳水失误撞上岩石身亡](https://so.toutiao.com/search?keyword=洪都拉斯男子跳水失误撞上岩石身亡)
+1. [姐姐心疼弟弟独自上学赶来陪伴](https://so.toutiao.com/search?keyword=姐姐心疼弟弟独自上学赶来陪伴)
+1. [京东：优先为骑手对象安排工作](https://so.toutiao.com/search?keyword=京东：优先为骑手对象安排工作)
+1. [菲总统马科斯支持率断崖式下跌](https://so.toutiao.com/search?keyword=菲总统马科斯支持率断崖式下跌)
+1. [勇士1-0火箭 库里31分](https://so.toutiao.com/search?keyword=勇士1-0火箭+库里31分)
+1. [棉花糖爸爸讲述女儿丢失过程](https://so.toutiao.com/search?keyword=棉花糖爸爸讲述女儿丢失过程)
+1. [大V：美国大豆或永远失去中国市场](https://so.toutiao.com/search?keyword=大V：美国大豆或永远失去中国市场)
+1. [工信部推动APP上架华为鸿蒙应用商店](https://so.toutiao.com/search?keyword=工信部推动APP上架华为鸿蒙应用商店)
+1. [贵州百里杜鹃（普金）景区门票半价](https://so.toutiao.com/search?keyword=贵州百里杜鹃（普金）景区门票半价)
 1. [雨果4比1林诗栋夺冠](https://so.toutiao.com/search?keyword=雨果4比1林诗栋夺冠)
 1. [菲护卫艇擅闯黄岩岛 解放军警告驱离](https://so.toutiao.com/search?keyword=菲护卫艇擅闯黄岩岛+解放军警告驱离)
 1. [工厂“黑科技”背后的产业新变迁](https://so.toutiao.com/search?keyword=工厂“黑科技”背后的产业新变迁)
 1. [雨果简介：世界第5 精通7种语言](https://so.toutiao.com/search?keyword=雨果简介：世界第5+精通7种语言)
-1. [三位美国前总统谴责特朗普](https://so.toutiao.com/search?keyword=三位美国前总统谴责特朗普)
 1. [美对华加税后全球买家来华采购](https://so.toutiao.com/search?keyword=美对华加税后全球买家来华采购)
 1. [雨果连克世界前3](https://so.toutiao.com/search?keyword=雨果连克世界前3)
 1. [女子高铁上被骚扰 男子挺身而出阻止](https://so.toutiao.com/search?keyword=女子高铁上被骚扰+男子挺身而出阻止)
@@ -70,7 +119,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Apr 21 2025 07:07:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 21 2025 15:00:39 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
@@ -78,16 +127,22 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Apr 21 2025 07:07:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 21 2025 15:00:39 GMT+0800 (China Standard Time) -->
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
+1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
+1. [教资成绩](https://www.zhihu.com/search?q=教资成绩)
+1. [曼城2比0埃弗顿](https://www.zhihu.com/search?q=曼城2比0埃弗顿)
+1. [王楚钦vs雨果](https://www.zhihu.com/search?q=王楚钦vs雨果)
 1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=孙颖莎vs陈幸同)
-1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [湖人vs森林狼](https://www.zhihu.com/search?q=湖人vs森林狼)
+1. [16岁奥数天才坠楼去世](https://www.zhihu.com/search?q=16岁奥数天才坠楼去世)
+1. [湖南一医院误把内部用人需求备注公开发布](https://www.zhihu.com/search?q=湖南一医院误把内部用人需求备注公开发布)
+1. [钟自然一审宣判](https://www.zhihu.com/search?q=钟自然一审宣判)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [被惊艳到是一种什么体验](https://www.zhihu.com/search?q=被惊艳到是一种什么体验)
 1. [中国市场对英伟达有多重要](https://www.zhihu.com/search?q=中国市场对英伟达有多重要)
 1. [王者荣耀联动哪吒](https://www.zhihu.com/search?q=王者荣耀联动哪吒)
 1. [玉珠峰南坡3名登山者已确认死亡](https://www.zhihu.com/search?q=玉珠峰南坡3名登山者已确认死亡)
-1. [湖南一医院误把内部用人需求备注公开发布](https://www.zhihu.com/search?q=湖南一医院误把内部用人需求备注公开发布)
 1. [三星李在镕痛失韩国首富](https://www.zhihu.com/search?q=三星李在镕痛失韩国首富)
 <!-- END ZHIHUSEARCH -->
 
@@ -95,9 +150,38 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Apr 21 2025 07:07:10 GMT+0800 (China Standard Time) -->
-1. [2025 澳门世界杯男单决赛，雨果 4-1 战胜林诗栋，首夺世界杯冠军，如何评价双方在比赛中的发挥？](https://www.zhihu.com/question/1897326482793142000)
+<!-- 最后更新时间 Mon Apr 21 2025 15:00:39 GMT+0800 (China Standard Time) -->
+1. [桂林旅游公布年报，自 2020 年以来已累计亏损 10 亿，亏损原因有哪些？大家不爱去桂林旅游了吗？](https://www.zhihu.com/question/1897359892001551000)
+1. [如何看待京东 4 月 21 日发布多项举措「支持外卖骑手自由接单」，保障骑手群体收入？](https://www.zhihu.com/question/1897572559186280700)
+1. [24-25赛季NBA季后赛勇士 95:85 火箭，如何评价这场比赛？](https://www.zhihu.com/question/1897585634484392700)
+1. [如何看待网传美国中央情报局报告称「外星人曾石化苏联士兵」？这有可能是真的吗？](https://www.zhihu.com/question/1897211816213464600)
+1. [商务部回应美胁迫他国限制对华经贸，「中方绝不接受，将坚决对等地采取反制措施」，传递哪些信息？](https://www.zhihu.com/question/1897575818252759300)
+1. [假如成年男性先占据优势体位，锁喉住成年老虎，有可能杀死老虎么？几率多大？](https://www.zhihu.com/question/1890442443511551500)
+1. [为什么刘慈欣的黑暗森林理论可能是错的？](https://www.zhihu.com/question/1896917637738509300)
+1. [京东宣布对超时 20 分钟以上外卖全部免单，对消费者意味着什么？免单的损失由谁承担？](https://www.zhihu.com/question/1897584320153085700)
+1. [鳄鱼为何进化了2亿年，几乎没有什么变化？](https://www.zhihu.com/question/1892250684868511500)
+1. [如何看待媒体转发的视频「剑桥博士用量子力学解释为什么建议大家不要算命」？](https://www.zhihu.com/question/1896659520786257000)
+1. [中国与阿联酋达成迄今为止最大规模液化天然气协议，这对保障我国能源安全有多重要？](https://www.zhihu.com/question/1896974317545284000)
+1. [红灯转绿灯的时候，你车排第一，你会第一时间踩油门尽快拉开与其他车的距离么？](https://www.zhihu.com/question/1896531409570621200)
+1. [76 岁老人搭建 1200 平米三层木楼，全程没用一颗铁钉，背后有哪些建筑技艺？这种结构有哪些优点？](https://www.zhihu.com/question/1897347242664358700)
+1. [日本长野一夜连震 47 次，日本气象厅呼吁警惕更大地震，频繁连震受哪些因素影响？爆发大震可能性有多大？](https://www.zhihu.com/question/1896918501169526500)
+1. [京东外卖宣布「超时 20 分钟免单」和鼓励骑手在各平台自由接单的组合拳，能撼动美团饿了么的地位吗？](https://www.zhihu.com/question/1897591410410087000)
+1. [网友拍到黄河壶口瀑布处黄河水不黄了，此次「清流」是黄河史上记载第 45 次清澈，黄河水为何变清澈了？](https://www.zhihu.com/question/1896883591805367600)
+1. [美国中餐馆大幅涨价，饺子在美国身价涨到一美元一个，加征关税对美国餐饮业还会带来哪些影响？](https://www.zhihu.com/question/1897393662230491400)
+1. [基本不打农药的蔬菜你知道有哪些?你经常吃吗？](https://www.zhihu.com/question/1888786361957475800)
+1. [日本米价持续走高，一些学校计划减少每周供应米饭的次数，日本米价涨势还将持续多久？](https://www.zhihu.com/question/1897048675588478000)
+1. [为什么0.1KG以上动物中没有像螳螂、螳螂虾、枪虾一样以前肢作为主要武力输出部位的？](https://www.zhihu.com/question/1896697656799105800)
 1. [美国国防部多名官员爆料五角大楼已完全崩溃，多名高官被解雇，具体情况如何？暴露出哪些问题？](https://www.zhihu.com/question/1897314613340628700)
+1. [京东宣布优先为骑手对象安排工作，京东「双职工」模式究竟是更有保障还是让风险集中？企业成本压力有多大？](https://www.zhihu.com/question/1897608646961100300)
+1. [4 月 LPR 报价出炉，一年期、五年期均维持不变，连续 6 个月不变，如何解读？后续走势如何？](https://www.zhihu.com/question/1897579311126521900)
+1. [城区辅助驾驶进入白热化竞争，是否唯有具备软硬件协同能力的企业才能在未来脱颖而出？](https://www.zhihu.com/question/1897369643733218000)
+1. [为什么中国茶叶不能像咖啡豆一样磨成粉，直接喝了？](https://www.zhihu.com/question/1895171499788304400)
+1. [关晓彤没卡 0 点给鹿晗送生日祝福，他俩真分手了吗？为什么一句生日祝福，成为网友判断恋爱状态的信号？](https://www.zhihu.com/question/1897237552915773400)
+1. [为什么说语言创造了世界?](https://www.zhihu.com/question/402371778)
+1. [LadyGaga 在科切拉音乐节演出的表现怎么样？](https://www.zhihu.com/question/1894489440291907300)
+1. [Knight 连续四个赛季拿下联赛冠军，为什么这两年他在哪支队伍哪支队伍就是联赛冠军？](https://www.zhihu.com/question/665730417)
+1. [四川除了成都外还有什么值得一去的城市吗？](https://www.zhihu.com/question/602519160)
+1. [2025 澳门世界杯男单决赛，雨果 4-1 战胜林诗栋，首夺世界杯冠军，如何评价双方在比赛中的发挥？](https://www.zhihu.com/question/1897326482793142000)
 1. [有博主称存款达到 30 万元时，人极易冲动消费和盲目投资，真的是这样吗？有哪些依据？](https://www.zhihu.com/question/1897028991606550800)
 1. [美乌矿产协议细节曝光，乌自愿放弃世界第三大核武库，这意味着什么？](https://www.zhihu.com/question/1896897736198022100)
 1. [西湖边松鼠被游客投喂成「松猪」，松鼠吃人类的食物，对它们的健康有多大影响？投喂野生动物有哪些安全隐患？](https://www.zhihu.com/question/1896577976344213500)
